@@ -1,0 +1,1276 @@
+﻿season,stage,date,team1_zh,team2_zh,map_no,side1,side2,length_seconds,winner,heroes_t1,heroes_t2
+2025春,Stage 1,2025-02-12,北京JDG,南京Hero久竞,1,red,blue,1001,2,ma chao|child tank|shen mengxi|arli|mozi,mayene|dun|yuhuan|shouyue|dolia
+2025春,Stage 1,2025-02-12,北京JDG,南京Hero久竞,2,blue,red,1195,2,meng tian|luna|mai|di renjie|lian po,biron|aguto|chang'e|no7|master luban
+2025春,Stage 1,2025-02-12,北京JDG,南京Hero久竞,3,red,blue,1432,1,charlotte|augran|nuwa|geya|dolia,sikong zhen|child tank|angela|lady sun|ming
+2025春,Stage 1,2025-02-12,北京JDG,南京Hero久竞,4,blue,red,720,1,biron|jing|frost|cang|zhang liang,charlotte|dian wei|lady zhen|loong|taiyi zhenren
+2025春,Stage 1,2025-02-12,北京JDG,南京Hero久竞,5,red,blue,970,2,shadow|menki|angela|yuji|taiyi zhenren,allain|ma chao|shen mengxi|cang|da qiao
+2025春,Stage 1,2025-02-12,成都AG超玩会,北京WB,1,blue,red,1137,1,allain|pei|mai|di renjie|yuhuan,charlotte|menki|daji|no7|master luban
+2025春,Stage 1,2025-02-12,成都AG超玩会,北京WB,2,blue,red,700,1,charlotte|dun|shi|arli|dolia,dharma|child tank|da qiao|di renjie|mozi
+2025春,Stage 1,2025-02-12,成都AG超玩会,北京WB,3,blue,red,866,1,ma chao|jing|frost|shouyue|zhang liang,cao cao|aguto|lady zhen|lady sun|taiyi zhenren
+2025春,Stage 1,2025-02-12,重庆狼队,广州TTG,1,blue,red,1144,1,meng tian|augran|nuwa|no7|master luban,charlotte|nezha|frost|hou yi|zhang liang
+2025春,Stage 1,2025-02-12,重庆狼队,广州TTG,2,blue,red,781,1,charlotte|aguto|ying zheng|lady sun|lian po,sikong zhen|child tank|nuwa|cang|da qiao
+2025春,Stage 1,2025-02-12,重庆狼队,广州TTG,3,red,blue,737,2,mayene|dian wei|yuhuan|di renjie|zhang fei,cao cao|aguto|mai|no7|master luban
+2025春,Stage 1,2025-02-12,重庆狼队,广州TTG,4,blue,red,823,1,cao cao|dun|da qiao|geya|sang qi,dharma|augran|shi|loong|dolia
+2025春,Stage 1,2025-02-13,佛山DRG,上海RNG.M,1,red,blue,679,2,allain|child tank|angela|no7|master luban,guan yu|jing|shen mengxi|di renjie|yuhuan
+2025春,Stage 1,2025-02-13,佛山DRG,上海RNG.M,2,red,blue,881,1,sun ce|augran|lady zhen|arli|taiyi zhenren,dharma|dun|mai|cang|sang qi
+2025春,Stage 1,2025-02-13,佛山DRG,上海RNG.M,3,blue,red,1587,1,charlotte|jing|frost|geya|zhang liang,shadow|child tank|da qiao|loong|zhuangzi
+2025春,Stage 1,2025-02-13,佛山DRG,上海RNG.M,4,blue,red,1049,1,sikong zhen|aguto|shen mengxi|di renjie|dyadia,biron|menki|lady zhen|lady sun|cai yan
+2025春,Stage 1,2025-02-13,杭州LGD.NBW,,1,blue,red,779,1,sikong zhen|dun|hai yue|arli|dolia,biron|augran|mai|geya|ming
+2025春,Stage 1,2025-02-13,杭州LGD.NBW,,2,red,blue,1095,2,sun ce|child tank|shen mengxi|cang|da qiao,charlotte|dun|lady zhen|arli|dyadia
+2025春,Stage 1,2025-02-13,杭州LGD.NBW,,3,blue,red,1272,1,charlotte|jing|frost|loong|zhang liang,guan yu|menki|nuwa|lady sun|yuhuan
+2025春,Stage 1,2025-02-13,杭州LGD.NBW,,4,blue,red,937,1,cao cao|aguto|heino|no7|master luban,sikong zhen|nezha|ying zheng|di renjie|dolia
+2025春,Stage 1,2025-02-13,,武汉eStarPro,1,red,blue,1008,1,biron|pei|hai yue|no7|master luban,liu bang|jing|mai|cang|lian po
+2025春,Stage 1,2025-02-13,,武汉eStarPro,2,red,blue,1267,1,shadow|aguto|shen mengxi|lady sun|taiyi zhenren,mayene|augran|frost|geya|zhang liang
+2025春,Stage 1,2025-02-13,,武汉eStarPro,3,blue,red,1125,1,charlotte|child tank|da qiao|shouyue|sang qi,biron|dun|lady zhen|loong|dolia
+2025春,Stage 1,2025-02-14,深圳DYG,南京Hero久竞,1,red,blue,1080,1,charlotte|child tank|nuwa|arli|da qiao,biron|dun|lady zhen|loong|dolia
+2025春,Stage 1,2025-02-14,深圳DYG,南京Hero久竞,2,red,blue,827,2,cao cao|augran|frost|fang|zhang liang,guan yu|menki|angela|cang|taiyi zhenren
+2025春,Stage 1,2025-02-14,深圳DYG,南京Hero久竞,3,blue,red,746,2,dharma|aguto|jin chan|lady sun|ming,sun ce|lam|yi xing|arli|sang qi
+2025春,Stage 1,2025-02-14,深圳DYG,南京Hero久竞,4,red,blue,889,2,sun ce|jing|mai|di renjie|yuhuan,mayene|child tank|chang'e|no7|master luban
+2025春,Stage 1,2025-02-14,北京WB,济南RW侠,1,red,blue,1063,1,guan yu|dian wei|da qiao|arli|sang qi,ma chao|dun|lady zhen|cang|dolia
+2025春,Stage 1,2025-02-14,北京WB,济南RW侠,2,blue,red,795,1,sikong zhen|kai|mai|no7|master luban,charlotte|jing|shen mengxi|di renjie|lian po
+2025春,Stage 1,2025-02-14,北京WB,济南RW侠,3,red,blue,1200,2,allain|dun|shen mengxi|geya|mozi,biron|augran|frost|lady sun|sang qi
+2025春,Stage 1,2025-02-14,北京WB,济南RW侠,4,blue,red,843,1,sun ce|menki|frost|shouyue|zhang liang,sikong zhen|kai|nuwa|arli|dyadia
+2025春,Stage 1,2025-02-14,重庆狼队,苏州KSG,1,red,blue,1297,1,charlotte|aguto|mai|arli|lian po,cao cao|dun|shen mengxi|geya|dolia
+2025春,Stage 1,2025-02-14,重庆狼队,苏州KSG,2,red,blue,1135,1,guan yu|menki|nuwa|loong|dolia,ma chao|dian wei|frost|cang|zhang liang
+2025春,Stage 1,2025-02-14,重庆狼队,苏州KSG,3,red,blue,814,1,sun ce|jing|ying zheng|no7|master luban,mayene|nezha|lady zhen|di renjie|yuhuan
+2025春,Stage 1,2025-02-15,,,1,red,blue,917,1,charlotte|augran|shen mengxi|geya|lian po,mayene|dun|lady zhen|shouyue|sang qi
+2025春,Stage 1,2025-02-15,,,2,blue,red,1135,1,ma chao|menki|lady zhen|cang|dyadia,biron|augran|gan & mo|loong|zhang liang
+2025春,Stage 1,2025-02-15,,,3,red,blue,781,2,guan yu|dun|frost|lady sun|sang qi,cao cao|aguto|shen mengxi|arli|taiyi zhenren
+2025春,Stage 1,2025-02-15,,,4,blue,red,1175,2,allain|dian wei|mai|arli|taiyi zhenren,ma chao|child tank|da qiao|di renjie|zhang fei
+2025春,Stage 1,2025-02-15,,,5,blue,red,740,1,cao cao|aguto|gan & mo|di renjie|zhang liang,sun ce|shadow|yi xing|geya|dolia
+2025春,Stage 1,2025-02-15,上海RNG.M,长沙TES.A,1,red,blue,1306,1,sikong zhen|aguto|nuwa|loong|taiyi zhenren,cao cao|child tank|da qiao|geya|sun bin
+2025春,Stage 1,2025-02-15,上海RNG.M,长沙TES.A,2,blue,red,807,1,sun ce|jing|gan & mo|di renjie|yuhuan,biron|nezha|haya|no7|master luban
+2025春,Stage 1,2025-02-15,上海RNG.M,长沙TES.A,3,blue,red,627,1,shadow|child tank|da qiao|arli|lian po,mayene|augran|lady zhen|cang|taiyi zhenren
+2025春,Stage 1,2025-02-15,成都AG超玩会,杭州LGD.NBW,1,red,blue,778,1,cao cao|yuhuan|shi|geya|dolia,charlotte|dun|heino|arli|sang qi
+2025春,Stage 1,2025-02-15,成都AG超玩会,杭州LGD.NBW,2,blue,red,956,2,dharma|jing|mai|di renjie|lian po,mayene|child tank|haya|no7|master luban
+2025春,Stage 1,2025-02-15,成都AG超玩会,杭州LGD.NBW,3,red,blue,880,1,mayene|dun|frost|lady sun|ming,sun ce|gongben|shen mengxi|geya|dyadia
+2025春,Stage 1,2025-02-15,成都AG超玩会,杭州LGD.NBW,4,blue,red,1038,1,shadow|child tank|angela|arli|da qiao,yao|menki|mai|loong|dolia
+2025春,Stage 1,2025-02-16,上海EDG.M,深圳DYG,1,red,blue,1003,1,sun ce|menki|angela|geya|ming,mayene|augran|gan & mo|hou yi|dyadia
+2025春,Stage 1,2025-02-16,上海EDG.M,深圳DYG,2,blue,red,685,2,pangu|aguto|yuhuan|shouyue|mozi,shadow|menki|shen mengxi|arli|sang qi
+2025春,Stage 1,2025-02-16,上海EDG.M,深圳DYG,3,blue,red,1529,1,sikong zhen|child tank|lady zhen|loong|da qiao,charlotte|dun|nuwa|cang|dolia
+2025春,Stage 1,2025-02-16,上海EDG.M,深圳DYG,4,blue,red,1118,2,mayene|pei|frost|di renjie|zhang liang,biron|dian wei|angela|lady sun|taiyi zhenren
+2025春,Stage 1,2025-02-16,上海EDG.M,深圳DYG,5,blue,red,746,1,biron|kai|chang'e|no7|master luban,meng tian|jing|mai|di renjie|zhang liang
+2025春,Stage 1,2025-02-16,武汉eStarPro,北京JDG,1,red,blue,978,1,mayene|dun|haya|lady sun|cai yan,guan yu|child tank|da qiao|di renjie|sang qi
+2025春,Stage 1,2025-02-16,武汉eStarPro,北京JDG,2,red,blue,828,2,biron|aguto|nuwa|hou yi|su lie,allain|pei|frost|shouyue|zhang liang
+2025春,Stage 1,2025-02-16,武汉eStarPro,北京JDG,3,red,blue,1089,1,sikong zhen|child tank|shen mengxi|geya|ming,charlotte|dun|ying zheng|arli|dolia
+2025春,Stage 1,2025-02-16,武汉eStarPro,北京JDG,4,red,blue,1041,1,shadow|menki|angela|loong|dolia,ma chao|augran|mai|cang|lian po
+2025春,Stage 1,2025-02-16,广州TTG,佛山DRG,1,red,blue,883,1,charlotte|jing|frost|marco polo|zhang liang,sun ce|menki|shen mengxi|no7|master luban
+2025春,Stage 1,2025-02-16,广州TTG,佛山DRG,2,blue,red,662,1,mayene|aguto|mai|geya|dolia,sikong zhen|augran|yixing|lady sun|ming
+2025春,Stage 1,2025-02-16,广州TTG,佛山DRG,3,blue,red,1331,2,ma chao|child tank|shen mengxi|cang|dyadia,guan yu|nezha|lady zhen|arli|sang qi
+2025春,Stage 1,2025-02-16,广州TTG,佛山DRG,4,red,blue,1167,1,dharma|dun|gan & mo|arli|taiyi zhenren,mayene|child tank|angela|shouyue|da qiao
+2025春,Stage 1,2025-02-19,,上海EDG.M,1,red,blue,855,1,mayene|aguto|ying zheng|shouyue|dyadia,charlotte|child tank|da qiao|arli|sang qi
+2025春,Stage 1,2025-02-19,,上海EDG.M,2,red,blue,825,2,huaizhen|child tank|da qiao|arli|sang qi,mayene|dun|lady zhen|lady sun|dyadia
+2025春,Stage 1,2025-02-19,,上海EDG.M,3,blue,red,805,2,pangu|jing|frost|di renjie|zhang liang,guan yu|dian wei|yixing|loong|taiyi zhenren
+2025春,Stage 1,2025-02-19,,上海EDG.M,4,red,blue,845,2,ma chao|dun|chang'e|geya|dolia,pangu|menki|mai|shouyue|yuhuan
+2025春,Stage 1,2025-02-19,济南RW侠,,1,red,blue,970,1,sun ce|jing|haya|di renjie|yuhuan,charlotte|augran|chang'e|no7|master luban
+2025春,Stage 1,2025-02-19,济南RW侠,,2,blue,red,1111,2,guan yu|dun|gan & mo|geya|mozi,ma chao|aguto|lady zhen|lady sun|sang qi
+2025春,Stage 1,2025-02-19,济南RW侠,,3,red,blue,1313,2,allain|augran|angela|arli|dyadia,cao cao|child tank|da qiao|geya|mozi
+2025春,Stage 1,2025-02-19,济南RW侠,,4,red,blue,1235,1,ma chao|child tank|frost|hou yi|da qiao,guan yu|dun|shen mengxi|loong|dolia
+2025春,Stage 1,2025-02-19,济南RW侠,,5,blue,red,990,2,charlotte|aguto|shen mengxi|lady sun|cai yan,allain|lam|mai|cang|taiyi zhenren
+2025春,Stage 1,2025-02-19,广州TTG,长沙TES.A,1,red,blue,863,1,sun ce|jing|mai|di renjie|zhang fei,charlotte|augran|haya|no7|master luban
+2025春,Stage 1,2025-02-19,广州TTG,长沙TES.A,2,blue,red,1044,1,dharma|aguto|lady zhen|geya|dolia,sikong zhen|menki|nuwa|cang|taiyi zhenren
+2025春,Stage 1,2025-02-19,广州TTG,长沙TES.A,3,red,blue,733,1,charlotte|child tank|gan & mo|lady sun|taiyi zhenren,cao cao|dun|angela|di renjie|da qiao
+2025春,Stage 1,2025-02-20,南京Hero久竞,武汉eStarPro,1,blue,red,1017,2,mayene|yuhuan|mai|di renjie|dolia,meng tian|gongben|frost|no7|master luban
+2025春,Stage 1,2025-02-20,南京Hero久竞,武汉eStarPro,2,blue,red,781,2,meng tian|lam|lady zhen|arli|dyadia,sun ce|pei|shen mengxi|lady sun|ming
+2025春,Stage 1,2025-02-20,南京Hero久竞,武汉eStarPro,3,red,blue,809,1,charlotte|dun|nuwa|lady sun|ming,biron|aguto|gan & mo|geya|mozi
+2025春,Stage 1,2025-02-20,南京Hero久竞,武汉eStarPro,4,red,blue,923,1,ma chao|menki|angela|cang|cai yan,sikong zhen|dun|ying zheng|loong|sang qi
+2025春,Stage 1,2025-02-20,南京Hero久竞,武汉eStarPro,5,red,blue,745,2,guan yu|aguto|shen mengxi|shouyue|lian po,mayene|ma chao|yuhuan|arli|dolia
+2025春,Stage 1,2025-02-20,北京WB,,1,red,blue,864,1,charlotte|dun|da qiao|hou yi|lian po,cao cao|child tank|frost|lady sun|ming
+2025春,Stage 1,2025-02-20,北京WB,,2,red,blue,820,2,sun ce|luna|frost|arli|zhang liang,shadow|aguto|lady zhen|geya|taiyi zhenren
+2025春,Stage 1,2025-02-20,北京WB,,3,blue,red,680,1,cao cao|child tank|haya|geya|dolia,sikong zhen|nezha|mai|loong|yuhuan
+2025春,Stage 1,2025-02-20,北京WB,,4,red,blue,1346,2,guan yu|aguto|shi|lady sun|taiyi zhenren,ma chao|menki|angela|cang|dyadia
+2025春,Stage 1,2025-02-20,北京WB,,5,red,blue,775,2,dharma|menki|ying zheng|shouyue|mozi,charlotte|dun|nuwa|arli|da qiao
+2025春,Stage 1,2025-02-20,苏州KSG,上海RNG.M,1,red,blue,1339,1,charlotte|aguto|lady zhen|loong|jiang ziya,cao cao|child tank|da qiao|geya|yuhuan
+2025春,Stage 1,2025-02-20,苏州KSG,上海RNG.M,2,blue,red,888,1,cao cao|augran|frost|garo|zhang liang,allain|menki|nuwa|cang|taiyi zhenren
+2025春,Stage 1,2025-02-20,苏州KSG,上海RNG.M,3,blue,red,1096,1,sikong zhen|dun|ying zheng|arli|da qiao,ma chao|gongben|shen mengxi|di renjie|dolia
+2025春,Stage 1,2025-02-21,杭州LGD.NBW,,1,red,blue,721,1,allain|aguto|shen mengxi|arli|dolia,cao cao|dun|ying zheng|cang|sun bin
+2025春,Stage 1,2025-02-21,杭州LGD.NBW,,2,blue,red,1276,2,cao cao|augran|frost|geya|dyadia,biron|child tank|lady zhen|shouyue|da qiao
+2025春,Stage 1,2025-02-21,杭州LGD.NBW,,3,red,blue,921,1,lubu hok|jing|yuhuan|di renjie|zhang fei,meng tian|shadow|chang'e|huang zhong|master luban
+2025春,Stage 1,2025-02-21,杭州LGD.NBW,,4,blue,red,906,1,sikong zhen|menki|heino|lady sun|lian po,ma chao|dian wei|mai|geya|taiyi zhenren
+2025春,Stage 1,2025-02-21,佛山DRG,长沙TES.A,1,red,blue,843,1,mayene|child tank|da qiao|cang|zhuangzi,charlotte|augran|shi|arli|taiyi zhenren
+2025春,Stage 1,2025-02-21,佛山DRG,长沙TES.A,2,blue,red,947,2,ma chao|jing|frost|yuji|zhang liang,sikong zhen|aguto|gan & mo|loong|mozi
+2025春,Stage 1,2025-02-21,佛山DRG,长沙TES.A,3,red,blue,950,1,biron|dun|shi|loong|dolia,cao cao|child tank|da qiao|geya|sang qi
+2025春,Stage 1,2025-02-21,佛山DRG,长沙TES.A,4,red,blue,823,1,sun ce|prince of lanling|haya|geya|ming,guan yu|menki|shen mengxi|lady sun|niumo
+2025春,Stage 1,2025-02-21,成都AG超玩会,济南RW侠,1,blue,red,796,2,guan yu|pei|mai|loong|zhuangzi,mayene|aguto|chang'e|no7|master luban
+2025春,Stage 1,2025-02-21,成都AG超玩会,济南RW侠,2,red,blue,887,2,mayene|bajie|gan & mo|geya|ming,guan yu|menki|frost|lady sun|taiyi zhenren
+2025春,Stage 1,2025-02-21,成都AG超玩会,济南RW侠,3,blue,red,829,1,charlotte|augran|lady zhen|marco polo|dyadia,cao cao|dun|nuwa|alessio|ming
+2025春,Stage 1,2025-02-21,成都AG超玩会,济南RW侠,4,blue,red,1139,2,ma chao|child tank|da qiao|di renjie|cai yan,sikong zhen|augran|ying zheng|cang|dolia
+2025春,Stage 1,2025-02-22,,南京Hero久竞,1,red,blue,1106,2,shadow|aguto|ying zheng|di renjie|taiyi zhenren,charlotte|bajie|frost|hou yi|zhang liang
+2025春,Stage 1,2025-02-22,,南京Hero久竞,2,blue,red,966,2,biron|pei|lady zhen|arli|dyadia,sun ce|child tank|mai|shouyue|da qiao
+2025春,Stage 1,2025-02-22,,南京Hero久竞,3,red,blue,984,1,mayene|ma chao|yuhuan|shouyue|dolia,sikong zhen|menki|shen mengxi|arli|sang qi
+2025春,Stage 1,2025-02-22,,南京Hero久竞,4,blue,red,1132,2,meng tian|gongben|nuwa|lady sun|mozi,allain|dun|haya|cang|ming
+2025春,Stage 1,2025-02-22,苏州KSG,广州TTG,1,red,blue,1002,2,sikong zhen|yuhuan|nuwa|loong|dolia,ma chao|aguto|ying zheng|shouyue|dyadia
+2025春,Stage 1,2025-02-22,苏州KSG,广州TTG,2,blue,red,1025,2,cao cao|augran|frost|fang|zhang liang,shadow|dian wei|wu ze tian|lady sun|taiyi zhenren
+2025春,Stage 1,2025-02-22,苏州KSG,广州TTG,3,blue,red,1379,1,ma chao|dun|lady zhen|arli|dyadia,guan yu|child tank|frost|geya|da qiao
+2025春,Stage 1,2025-02-22,苏州KSG,广州TTG,4,red,blue,1264,1,charlotte|aguto|mai|lady sun|sang qi,sikong zhen|dun|yuhuan|di renjie|dolia
+2025春,Stage 1,2025-02-22,苏州KSG,广州TTG,5,red,blue,990,1,mayene|menki|chang'e|geya|sun bin,sun ce|jing|mai|hou yi|mozi
+2025春,Stage 1,2025-02-22,北京JDG,深圳DYG,1,red,blue,890,2,biron|shadow|nuwa|lady sun|ming,ma chao|aguto|frost|geya|zhang liang
+2025春,Stage 1,2025-02-22,北京JDG,深圳DYG,2,red,blue,1034,1,dharma|augran|ying zheng|geya|dolia,shadow|child tank|angela|arli|da qiao
+2025春,Stage 1,2025-02-22,北京JDG,深圳DYG,3,red,blue,859,1,allain|dun|mai|cang|taiyi zhenren,mayene|menki|shen mengxi|di renjie|dyadia
+2025春,Stage 1,2025-02-22,北京JDG,深圳DYG,4,blue,red,713,1,guan yu|pei|shen mengxi|shouyue|lian po,sun ce|fei|mai|cang|taiyi zhenren
+2025春,Stage 1,2025-02-23,上海EDG.M,武汉eStarPro,1,red,blue,613,1,charlotte|aguto|gan & mo|di renjie|lian po,meng tian|ma chao|yixing|no7|master luban
+2025春,Stage 1,2025-02-23,上海EDG.M,武汉eStarPro,2,red,blue,666,1,biron|child tank|lady zhen|arli|yuhuan,mayene|dun|angela|geya|da qiao
+2025春,Stage 1,2025-02-23,上海EDG.M,武汉eStarPro,3,blue,red,1344,2,allain|menki|mai|lady sun|cai yan,sun ce|pei|haya|loong|lian po
+2025春,Stage 1,2025-02-23,上海EDG.M,武汉eStarPro,4,red,blue,1017,1,sun ce|dian wei|yixing|cang|taiyi zhenren,allain|jing|frost|marco polo|zhang liang
+2025春,Stage 1,2025-02-23,,北京WB,1,red,blue,1260,2,biron|dun|lady zhen|geya|sang qi,allain|child tank|da qiao|arli|yuhuan
+2025春,Stage 1,2025-02-23,,北京WB,2,blue,red,772,1,charlotte|pei|chang'e|no7|master luban,sun ce|jing|mai|di renjie|zhang fei
+2025春,Stage 1,2025-02-23,,北京WB,3,blue,red,1152,2,guan yu|aguto|shen mengxi|di renjie|taiyi zhenren,meng tian|fei|haya|lady sun|ming
+2025春,Stage 1,2025-02-23,,北京WB,4,red,blue,929,2,sikong zhen|menki|nuwa|loong|dolia,ma chao|dun|shen mengxi|shouyue|dyadia
+2025春,Stage 1,2025-02-23,重庆狼队,佛山DRG,1,blue,red,1291,1,charlotte|aguto|mai|marco polo|mozi,sikong zhen|bajie|chang'e|no7|master luban
+2025春,Stage 1,2025-02-23,重庆狼队,佛山DRG,2,blue,red,755,1,biron|augran|shen mengxi|lady sun|dyadia,allain|child tank|da qiao|geya|dolia
+2025春,Stage 1,2025-02-23,重庆狼队,佛山DRG,3,blue,red,944,2,allain|menki|frost|geya|zhang liang,sun ce|aguto|lady zhen|loong|taiyi zhenren
+2025春,Stage 1,2025-02-23,重庆狼队,佛山DRG,4,blue,red,1395,2,sun ce|child tank|nuwa|loong|da qiao,mayene|augran|shen mengxi|lady sun|ming
+2025春,Stage 1,2025-02-23,重庆狼队,佛山DRG,5,blue,red,1499,2,dharma|jing|yuhuan|cang|dolia,guan yu|pei|angela|yuji|lian po
+2025春,Stage 1,2025-02-26,,济南RW侠,1,blue,red,1087,2,mayene|aguto|gan & mo|marco polo|zhang liang,shadow|child tank|nuwa|geya|da qiao
+2025春,Stage 1,2025-02-26,,济南RW侠,2,blue,red,726,2,cao cao|yuhuan|shi|cang|dolia,guan yu|dun|heino|arli|cai yan
+2025春,Stage 1,2025-02-26,,济南RW侠,3,red,blue,682,2,shadow|dun|lady zhen|di renjie|cai yan,biron|jing|mai|lady sun|taiyi zhenren
+2025春,Stage 1,2025-02-26,上海EDG.M,南京Hero久竞,1,red,blue,802,1,biron|dun|nuwa|hou yi|dolia,mayene|child tank|angela|loong|da qiao
+2025春,Stage 1,2025-02-26,上海EDG.M,南京Hero久竞,2,red,blue,918,2,sun ce|aguto|gan & mo|cang|taiyi zhenren,allain|ma chao|frost|yuji|zhang liang
+2025春,Stage 1,2025-02-26,上海EDG.M,南京Hero久竞,3,blue,red,970,2,sikong zhen|augran|lady zhen|lady sun|yuhuan,sun ce|dun|ying zheng|cang|ming
+2025春,Stage 1,2025-02-26,上海EDG.M,南京Hero久竞,4,blue,red,1053,2,pangu|menki|angela|geya|dyadia,charlotte|aguto|haya|arli|dolia
+2025春,Stage 1,2025-02-26,杭州LGD.NBW,北京WB,1,blue,red,1193,1,charlotte|augran|yixing|no7|master luban,sikong zhen|menki|mai|di renjie|mozi
+2025春,Stage 1,2025-02-26,杭州LGD.NBW,北京WB,2,red,blue,1256,1,sun ce|dun|lady zhen|arli|dolia,cao cao|child tank|shen mengxi|geya|dyadia
+2025春,Stage 1,2025-02-26,杭州LGD.NBW,北京WB,3,red,blue,1316,1,sikong zhen|aguto|frost|lady sun|taiyi zhenren,charlotte|dian wei|da qiao|arli|lian po
+2025春,Stage 1,2025-02-27,北京JDG,,1,red,blue,712,2,mayene|pei|frost|shouyue|zhang liang,cao cao|dian wei|shen mengxi|lady sun|taiyi zhenren
+2025春,Stage 1,2025-02-27,北京JDG,,2,blue,red,833,1,sun ce|dun|nuwa|cang|dolia,guan yu|aguto|ying zheng|arli|lian po
+2025春,Stage 1,2025-02-27,北京JDG,,3,blue,red,754,2,sikong zhen|aguto|haya|no7|master luban,charlotte|jing|gan & mo|di renjie|yuhuan
+2025春,Stage 1,2025-02-27,北京JDG,,4,red,blue,1070,1,biron|fei|shen mengxi|loong|taiyi zhenren,dharma|augran|frost|cang|dyadia
+2025春,Stage 1,2025-02-27,北京JDG,,5,blue,red,890,2,charlotte|augran|ying zheng|arli|dyadia,fuzi|dun|lady zhen|geya|ming
+2025春,Stage 1,2025-02-27,苏州KSG,长沙TES.A,1,blue,red,1704,2,sikong zhen|menki|yixing|lady sun|ming,dharma|aguto|gan & mo|geya|mozi
+2025春,Stage 1,2025-02-27,苏州KSG,长沙TES.A,2,red,blue,1293,2,guan yu|kai|nuwa|yuji|dolia,mayene|ma chao|frost|shouyue|zhang liang
+2025春,Stage 1,2025-02-27,苏州KSG,长沙TES.A,3,red,blue,968,2,charlotte|child tank|ying zheng|no7|master luban,cao cao|jing|angela|di renjie|yuhuan
+2025春,Stage 1,2025-02-27,重庆狼队,上海RNG.M,1,blue,red,940,2,charlotte|huaizhen|shen mengxi|marco polo|mozi,sikong zhen|jing|chang'e|no7|master luban
+2025春,Stage 1,2025-02-27,重庆狼队,上海RNG.M,2,blue,red,1102,2,cao cao|jing|ying zheng|loong|zhang liang,ma chao|menki|yuhuan|lady sun|taiyi zhenren
+2025春,Stage 1,2025-02-27,重庆狼队,上海RNG.M,3,red,blue,890,1,mayene|dun|heino|geya|dolia,shadow|aguto|lady zhen|arli|lian po
+2025春,Stage 1,2025-02-27,重庆狼队,上海RNG.M,4,blue,red,1098,1,allain|augran|angela|lady sun|dyadia,biron|child tank|da qiao|loong|sun bin
+2025春,Stage 1,2025-02-27,重庆狼队,上海RNG.M,5,blue,red,724,1,ma chao|child tank|shi|yuji|da qiao,dharma|augran|nuwa|cang|ming
+2025春,Stage 1,2025-02-28,杭州LGD.NBW,济南RW侠,1,red,blue,920,1,guan yu|aguto|shi|cang|dyadia,mayene|child tank|da qiao|lady sun|sang qi
+2025春,Stage 1,2025-02-28,杭州LGD.NBW,济南RW侠,2,blue,red,1093,2,dharma|jing|jiang ziya|di renjie|yuhuan,sikong zhen|dian wei|mai|no7|master luban
+2025春,Stage 1,2025-02-28,杭州LGD.NBW,济南RW侠,3,red,blue,795,2,allain|menki|shen mengxi|arli|dolia,shadow|dun|haya|cang|ming
+2025春,Stage 1,2025-02-28,杭州LGD.NBW,济南RW侠,4,red,blue,1358,1,ma chao|augran|shangguan|geya|lian po,guan yu|aguto|lady zhen|loong|dolia
+2025春,Stage 1,2025-02-28,杭州LGD.NBW,济南RW侠,5,blue,red,805,2,charlotte|shadow|mai|shouyue|taiyi zhenren,cao cao|augran|nuwa|arli|yuhuan
+2025春,Stage 1,2025-02-28,武汉eStarPro,深圳DYG,1,red,blue,890,1,biron|child tank|shen mengxi|geya|da qiao,charlotte|augran|yixing|arli|dyadia
+2025春,Stage 1,2025-02-28,武汉eStarPro,深圳DYG,2,blue,red,932,2,guan yu|aguto|yuhuan|di renjie|dolia,sikong zhen|menki|shen mengxi|no7|master luban
+2025春,Stage 1,2025-02-28,武汉eStarPro,深圳DYG,3,red,blue,730,1,sun ce|dian wei|shi|hou yi|taiyi zhenren,biron|nakoruru|frost|cang|zhang liang
+2025春,Stage 1,2025-02-28,武汉eStarPro,深圳DYG,4,blue,red,1285,2,charlotte|menki|haya|lady sun|ming,cao cao|dun|lady zhen|geya|dolia
+2025春,Stage 1,2025-02-28,武汉eStarPro,深圳DYG,5,red,blue,976,1,meng tian|gongben|nuwa|arli|cai yan,mayene|aguto|angela|shouyue|taiyi zhenren
+2025春,Stage 1,2025-02-28,成都AG超玩会,,1,red,blue,1171,2,sun ce|augran|mai|lady sun|ming,allain|child tank|da qiao|arli|mozi
+2025春,Stage 1,2025-02-28,成都AG超玩会,,2,red,blue,774,1,charlotte|aguto|yuhuan|di renjie|mozi,biron|lam|heino|no7|master luban
+2025春,Stage 1,2025-02-28,成都AG超玩会,,3,blue,red,1084,1,mayene|dun|frost|cang|zhang liang,guan yu|dian wei|yixing|geya|dolia
+2025春,Stage 1,2025-02-28,成都AG超玩会,,4,red,blue,1453,2,cao cao|child tank|gan & mo|arli|da qiao,charlotte|augran|lady zhen|lady sun|dyadia
+2025春,Stage 1,2025-02-28,成都AG超玩会,,5,blue,red,1198,2,biron|menki|nuwa|shouyue|dolia,ma chao|pei|mai|loong|sang qi
+2025春,Stage 1,2025-03-01,上海EDG.M,北京JDG,1,red,blue,1068,1,biron|aguto|haya|no7|master luban,allain|fei|shen mengxi|di renjie|mozi
+2025春,Stage 1,2025-03-01,上海EDG.M,北京JDG,2,red,blue,1090,1,sun ce|dian wei|yixing|cang|su lie,charlotte|jing|frost|shouyue|zhang liang
+2025春,Stage 1,2025-03-01,上海EDG.M,北京JDG,3,blue,red,726,1,mayene|menki|nuwa|lady sun|ming,sikong zhen|augran|angela|geya|dyadia
+2025春,Stage 1,2025-03-01,苏州KSG,佛山DRG,1,red,blue,1293,1,cao cao|menki|yuhuan|di renjie|mozi,allain|jing|yixing|no7|master luban
+2025春,Stage 1,2025-03-01,苏州KSG,佛山DRG,2,blue,red,1035,1,lubu hok|nakoruru|shen mengxi|arli|zhang liang,biron|dian wei|shi|cang|taiyi zhenren
+2025春,Stage 1,2025-03-01,苏州KSG,佛山DRG,3,blue,red,1083,1,mayene|augran|lady zhen|cang|dyadia,sikong zhen|dun|nuwa|shouyue|dolia
+2025春,Stage 1,2025-03-01,重庆狼队,长沙TES.A,1,blue,red,833,1,ma chao|fei|mai|geya|zhang liang,guan yu|aguto|gan & mo|cang|mozi
+2025春,Stage 1,2025-03-01,重庆狼队,长沙TES.A,2,blue,red,793,1,allain|dun|shen mengxi|marco polo|dolia,shadow|augran|frost|lady sun|ming
+2025春,Stage 1,2025-03-01,重庆狼队,长沙TES.A,3,red,blue,953,2,guan yu|menki|ying zheng|loong|mozi,charlotte|dian wei|yixing|no7|master luban
+2025春,Stage 1,2025-03-01,重庆狼队,长沙TES.A,4,red,blue,750,1,sikong zhen|child tank|da qiao|cang|sang qi,cao cao|bajie|nuwa|arli|taiyi zhenren
+2025春,Stage 1,2025-03-02,深圳DYG,,1,red,blue,900,1,cao cao|child tank|da qiao|geya|sang qi,charlotte|augran|ying zheng|lady sun|dyadia
+2025春,Stage 1,2025-03-02,深圳DYG,,2,blue,red,1055,2,mayene|aguto|shen mengxi|di renjie|lian po,sun ce|shadow|heino|no7|master luban
+2025春,Stage 1,2025-03-02,深圳DYG,,3,red,blue,647,2,sun ce|menki|chang'e|no7|master luban,cao cao|pei|mai|di renjie|yuhuan
+2025春,Stage 1,2025-03-02,深圳DYG,,4,red,blue,784,1,biron|fei|ying zheng|arli|dyadia,pangu|kai|nuwa|cang|taiyi zhenren
+2025春,Stage 1,2025-03-02,深圳DYG,,5,red,blue,1082,2,dharma|dian wei|lady zhen|cang|taiyi zhenren,guan yu|jing|frost|loong|zhang liang
+2025春,Stage 1,2025-03-02,广州TTG,上海RNG.M,1,red,blue,868,1,fuzi|dun|shen mengxi|geya|dolia,sikong zhen|aguto|angela|lady sun|sang qi
+2025春,Stage 1,2025-03-02,广州TTG,上海RNG.M,2,blue,red,995,1,mayene|augran|frost|shouyue|zhang liang,ma chao|child tank|da qiao|yuji|zhuangzi
+2025春,Stage 1,2025-03-02,广州TTG,上海RNG.M,3,red,blue,1567,1,ma chao|dian wei|heino|lady sun|ming,charlotte|yuhuan|lady zhen|loong|dolia
+2025春,Stage 1,2025-03-02,成都AG超玩会,,1,red,blue,798,2,sun ce|augran|ying zheng|lady sun|dyadia,cao cao|dun|shen mengxi|geya|zhang liang
+2025春,Stage 1,2025-03-02,成都AG超玩会,,2,blue,red,984,1,mayene|aguto|angela|cang|taiyi zhenren,guan yu|menki|gan & mo|arli|lian po
+2025春,Stage 1,2025-03-02,成都AG超玩会,,3,red,blue,776,1,charlotte|menki|frost|arli|zhang liang,shadow|child tank|lady zhen|di renjie|yuhuan
+2025春,Stage 1,2025-03-02,成都AG超玩会,,4,red,blue,1000,1,biron|dun|yuhuan|loong|sun bin,allain|jing|yixing|lady sun|dolia
+2025夏,Stage 1,2025-06-05,杭州LGD.NBW,佛山DRG,1,blue,red,923,1,dharma|augran|ying zheng|luban no.7|master luban,shadow|dun|nuwa|loong|dolia
+2025夏,Stage 1,2025-06-05,杭州LGD.NBW,佛山DRG,2,blue,red,741,2,biron|kaizer|mai|lady sun|dyadia,mayene|pei|lady zhen|child of the primal flow (archer)|taiyi zhenren
+2025夏,Stage 1,2025-06-05,杭州LGD.NBW,佛山DRG,3,red,blue,1101,2,charlotte|menki|lady zhen|arli|mozi,dharma|zhu bajie|haya|lady sun|ming
+2025夏,Stage 1,2025-06-05,杭州LGD.NBW,佛山DRG,4,blue,red,700,2,cao cao|dun|chang'e|chano|dolia,biron|jing|ziya|arli|kong kong er
+2025夏,Stage 1,2025-06-05,重庆狼队,济南RW侠,1,red,blue,1066,1,charlotte|pei|ying zheng|arli|su lie,biron|child of the primal flow (tank)|shen mengxi|lady sun|taiyi zhenren
+2025夏,Stage 1,2025-06-05,重庆狼队,济南RW侠,2,blue,red,822,1,sun ce|augran|shi|child of the primal flow (archer)|zhuangzi,ma chao|menki|lady zhen|loong|liang
+2025夏,Stage 1,2025-06-05,重庆狼队,济南RW侠,3,red,blue,822,1,biron|feyd|shen mengxi|chano|donghuang,charlotte|augran|mai|arli|dyadia
+2025夏,Stage 1,2025-06-05,成都AG超玩会,,1,red,blue,1303,2,biron|pei|lady zhen|geya|zhang fei,mayene|dun|shen mengxi|child of the primal flow (archer)|su lie
+2025夏,Stage 1,2025-06-05,成都AG超玩会,,2,red,blue,777,1,charlotte|dun|yang yuhuan|loong|dolia,biron|nezha|xishi|luban no7|master luban
+2025夏,Stage 1,2025-06-05,成都AG超玩会,,3,red,blue,726,1,sikong zhen|kai|ying zheng|arli|taiyi zhenren,cao cao|augran|lady zhen|di renjie|kong kong er
+2025夏,Stage 1,2025-06-05,成都AG超玩会,,4,blue,red,907,2,guan yu|shadow|shen mengxi|child of the primal flow (archer)|zhuangzi,ma chao|jing|frost|loong|zhang liang
+2025夏,Stage 1,2025-06-05,成都AG超玩会,,5,blue,red,865,1,meng tian|augran|mai|lady sun|ming,sun ce|menki|heino|arli|taiyi zhenren
+2025夏,Stage 1,2025-06-06,,苏州KSG,1,red,blue,1166,2,biron|pei|lady zhen|ge ya|zhang fei,charlotte|ukyo tachibana|gan & mo|hou yi|kong kong er
+2025夏,Stage 1,2025-06-06,,苏州KSG,2,blue,red,700,2,charlotte|dun|shen mengxi|lady sun|taiyi zhenren,biron|feyd|angela|chano|dyadia
+2025夏,Stage 1,2025-06-06,,苏州KSG,3,blue,red,935,1,cao cao|kaizer|haya|erin|mozi,sikong zhen|augran|shen mengxi|lady sun|taiyi zhenren
+2025夏,Stage 1,2025-06-06,,苏州KSG,4,red,blue,1261,2,ma chao|augran|yixing|child of the primal flow (archer)|zhuangzi,cao cao|kaizer|princess frost|arli|liang
+2025夏,Stage 1,2025-06-06,,武汉eStarPro,1,red,blue,924,2,shadow|menki|haya|luban no.7|master luban,charlotte|pei|shi|di renjie|yuhuan
+2025夏,Stage 1,2025-06-06,,武汉eStarPro,2,blue,red,1102,2,ma chao|dun|ying zheng|child of the primal flow (archer)|liang,meng tian|kaizer|nuwa|chano|taiyi zhenren
+2025夏,Stage 1,2025-06-06,,武汉eStarPro,3,red,blue,780,1,shadow|kaizer|shen mengxi|arli|kong kong er,dharma|augran|haya|child of the primal flow (archer)|dyadia
+2025夏,Stage 1,2025-06-06,,武汉eStarPro,4,blue,red,876,2,guan yu|feyd|mai|lady sun|ming,biron|ma chao|yixing|arli|kong kong er
+2025夏,Stage 1,2025-06-06,北京JDG,广州TTG,1,red,blue,1035,2,sikong zhen|dun|gan & mo|loong|dolia,biron|kai|frost|luban no7|master luban
+2025夏,Stage 1,2025-06-06,北京JDG,广州TTG,2,red,blue,1262,2,charlotte|kai|mai|lady sun|taiyi zhenren,dharma|pei|lady zhen|geya|dyadia
+2025夏,Stage 1,2025-06-06,北京JDG,广州TTG,3,red,blue,1124,2,cao cao|augran|ziya|arli|dyadia,charlotte|child of the primal flow (tank)|da qiao|chano|liang
+2025夏,Stage 1,2025-06-07,佛山DRG,南京Hero久竞,1,red,blue,902,1,biron|fei|lady zhen|arli|zhang fei,dharma|augran|shen mengxi|garo|dyadia
+2025夏,Stage 1,2025-06-07,佛山DRG,南京Hero久竞,2,blue,red,1299,2,mayene|kai|ying zheng|erin|master luban,sikong zhen|jing|lady zhen|arli|kong kong er
+2025夏,Stage 1,2025-06-07,佛山DRG,南京Hero久竞,3,red,blue,724,1,charlotte|dun|frost|hou yi|dolia,biron|kai|mai|child of the primal flow (archer)|taiyi zhenren
+2025夏,Stage 1,2025-06-07,佛山DRG,南京Hero久竞,4,blue,red,781,2,guan yu|jing|haya|lady sun|liu bang,charlotte|menki|frost|di renjie|zhang liang
+2025夏,Stage 1,2025-06-07,佛山DRG,南京Hero久竞,5,blue,red,1089,1,sikong zhen|bai qi|angela|child of the primal flow (archer)|dyadia,guan yu|dun|nuwa|loong|dolia
+2025夏,Stage 1,2025-06-07,杭州LGD.NBW,北京WB,1,red,blue,881,1,sikong zhen|jing|yang yuhuan|di renjie|lian po,biron|dongfang yao|mai|luban no7|master luban
+2025夏,Stage 1,2025-06-07,杭州LGD.NBW,北京WB,2,blue,red,1077,2,mayene|kai|shen mengxi|arli|kong kong er,fuzi|pei|da qiao|chano|zhang fei
+2025夏,Stage 1,2025-06-07,杭州LGD.NBW,北京WB,3,red,blue,1518,1,shadow|augran|xishi|child of the primal flow (archer)|zhuangzi,guan yu|fei|lady zhen|loong|zhang liang
+2025夏,Stage 1,2025-06-07,杭州LGD.NBW,北京WB,4,red,blue,1133,1,charlotte|pei|ying zheng|lady sun|su lie,cao cao|kai|frost|arli|taiyi zhenren
+2025夏,Stage 1,2025-06-07,成都AG超玩会,上海RNG.M,1,red,blue,1107,1,charlotte|jing|ying zheng|loong|yang yuhuan,ma chao|kai|gan & mo|hou yi|master luban
+2025夏,Stage 1,2025-06-07,成都AG超玩会,上海RNG.M,2,blue,red,877,2,biron|pei|shen mengxi|hou yi|kong kong er,allain|augran|ziya|child of the primal flow (archer)|dyadia
+2025夏,Stage 1,2025-06-07,成都AG超玩会,上海RNG.M,3,red,blue,1495,1,guan yu|bajie|chang'e|chano|taiyi zhenren,mayene|fei|nuwa|lady sun|su lie
+2025夏,Stage 1,2025-06-07,成都AG超玩会,上海RNG.M,4,red,blue,723,1,sikong zhen|dun|haya|garo|dolia,biron|menki|angela|arli|sang qi
+2025夏,Stage 1,2025-06-08,长沙TES.A,武汉eStarPro,1,red,blue,937,2,cao cao|menki|shen mengxi|di renjie|yuhuan,charlotte|kaizer|ying zheng|luban no.7|master luban
+2025夏,Stage 1,2025-06-08,长沙TES.A,武汉eStarPro,2,red,blue,948,2,mayene|augran|mai|lady sun|taiyi zhenren,biron|jing|nuwa|arli|kong kong er
+2025夏,Stage 1,2025-06-08,长沙TES.A,武汉eStarPro,3,blue,red,917,2,charlotte|ma chao|princess frost|arli|liang,sun ce|augran|shen mengxi|chano|zhuangzi
+2025夏,Stage 1,2025-06-08,北京JDG,深圳DYG,1,red,blue,957,1,charlotte|augran|shen mengxi|shouyue|kong kong er,biron|fei|ying zheng|arli|zhang fei
+2025夏,Stage 1,2025-06-08,北京JDG,深圳DYG,2,blue,red,1313,1,cao cao|kai|nuwa|luban no7|master luban,mayene|dun|lady zhen|loong|dolia
+2025夏,Stage 1,2025-06-08,北京JDG,深圳DYG,3,blue,red,1066,2,yuange|menki|angela|arli|dyadia,sikong zhen|pei|yixing|chano|kong kong er
+2025夏,Stage 1,2025-06-08,北京JDG,深圳DYG,4,red,blue,1304,1,shadow|child of the primal flow (tank)|da qiao|lady sun|mozi,cao cao|augran|heino|erin|taiyi zhenren
+2025夏,Stage 1,2025-06-08,上海EDG.M,重庆狼队,1,red,blue,1322,2,biron|fei|shen mengxi|shouyue|zhang fei,charlotte|child of the primal flow (tank)|mai|arli|kong kong er
+2025夏,Stage 1,2025-06-08,上海EDG.M,重庆狼队,2,blue,red,817,2,guan yu|pei|ziya|erin|taiyi zhenren,ma chao|augran|frost|chano|zhang liang
+2025夏,Stage 1,2025-06-08,上海EDG.M,重庆狼队,3,blue,red,720,2,sun ce|augran|da qiao|arli|dyadia,meng tian|fei|xishi|lady sun|taiyi zhenren
+2025夏,Stage 1,2025-06-11,南京Hero久竞,,1,blue,red,919,1,biron|agudo|shen mengxi|shouyue|sang qi,sun ce|augran|heino|arli|dyadia
+2025夏,Stage 1,2025-06-11,南京Hero久竞,,2,red,blue,1093,1,sikong zhen|menki|nuwa|loong|kong kong er,cao cao|kai|ying zheng|luban no7|master luban
+2025夏,Stage 1,2025-06-11,南京Hero久竞,,3,red,blue,1018,1,cao cao|augran|mai|child of the primal flow (archer)|dyadia,charlotte|fei|xishi|chano|taiyi zhenren
+2025夏,Stage 1,2025-06-11,杭州LGD.NBW,苏州KSG,1,blue,red,986,2,dharma|kai|chang'e|lady sun|dyadia,sikong zhen|menki|angela|child of the primal flow (archer)|taiyi zhenren
+2025夏,Stage 1,2025-06-11,杭州LGD.NBW,苏州KSG,2,red,blue,822,2,biron|jing|yang yuhuan|di renjie|zhang fei,charlotte|agudo|mai|luban no7|master luban
+2025夏,Stage 1,2025-06-11,杭州LGD.NBW,苏州KSG,3,red,blue,1230,1,charlotte|augran|shen mengxi|erin|sang qi,ma chao|pei|chang'e|shouyue|kong kong er
+2025夏,Stage 1,2025-06-11,杭州LGD.NBW,苏州KSG,4,blue,red,1334,2,shadow|fei|xishi|child of the primal flow (archer)|taiyi zhenren,guan yu|augran|yang yuhuan|erin|zhang fei
+2025夏,Stage 1,2025-06-11,上海EDG.M,北京JDG,1,red,blue,1479,2,shadow|pei|heino|erin|master luban,charlotte|agudo|shen mengxi|marco polo|yang yuhuan
+2025夏,Stage 1,2025-06-11,上海EDG.M,北京JDG,2,blue,red,483,1,allain|child of the primal flow (tank)|da qiao|arli|dyadia,biron|fei|ziya|chano|zhang fei
+2025夏,Stage 1,2025-06-11,上海EDG.M,北京JDG,3,blue,red,954,2,biron|augran|lady zhen|chano|zhang fei,guan yu|menki|xishi|lady sun|taiyi zhenren
+2025夏,Stage 1,2025-06-11,上海EDG.M,北京JDG,4,red,blue,756,1,dharma|kai|mai|garo|taiyi zhenren,sikong zhen|dun|lady zhen|geya|dolia
+2025夏,Stage 1,2025-06-11,上海EDG.M,北京JDG,5,red,blue,661,2,charlotte|ma chao|nuwa|loong|zhang liang,cao cao|kai|haya|shouyue|kong kong er
+2025夏,Stage 1,2025-06-12,,长沙TES.A,1,red,blue,1202,1,shadow|augran|lady zhen|lady sun|taiyi zhenren,biron|pei|nuwa|arli|kong kong er
+2025夏,Stage 1,2025-06-12,,长沙TES.A,2,blue,red,834,1,biron|nezha|shen mengxi|arli|dyadia,cao cao|kai|mai|lady sun|taiyi zhenren
+2025夏,Stage 1,2025-06-12,,长沙TES.A,3,blue,red,1310,1,cao cao|child of the primal flow (tank)|mai|luban no7|master luban,mayene|jing|yixing|di renjie|yang yuhuan
+2025夏,Stage 1,2025-06-12,,上海RNG.M,1,red,blue,1341,1,sikong zhen|bajie|haya|di renjie|yang yuhuan,ma chao|kai|mai|loong|master luban
+2025夏,Stage 1,2025-06-12,,上海RNG.M,2,blue,red,816,2,biron|kai|xishi|lady sun|ming,prince of lanling|menki|ying zheng|child of the primal flow (archer)|taiyi zhenren
+2025夏,Stage 1,2025-06-12,,上海RNG.M,3,red,blue,1068,1,guan yu|luna|frost|child of the primal flow (archer)|zhang liang,sun ce|agudo|nuwa|chano|mozi
+2025夏,Stage 1,2025-06-12,,上海RNG.M,4,blue,red,1165,2,dharma|dun|lady zhen|arli|dolia,guan yu|augran|ziya|geya|dyadia
+2025夏,Stage 1,2025-06-12,,上海RNG.M,5,blue,red,958,1,meng tian|jing|shen mengxi|garo|taiyi zhenren,sikong zhen|dun|yang yuhuan|erin|dolia
+2025夏,Stage 1,2025-06-12,北京WB,佛山DRG,1,blue,red,1259,2,charlotte|pei|mai|arli|kong kong er,guan yu|kai|ziya|lady sun|taiyi zhenren
+2025夏,Stage 1,2025-06-12,北京WB,佛山DRG,2,red,blue,825,2,sun ce|fei|shen mengxi|garo|zhang fei,biron|pei|mai|di renjie|cai yan
+2025夏,Stage 1,2025-06-12,北京WB,佛山DRG,3,red,blue,1338,2,sikong zhen|dun|ying zheng|chano|taiyi zhenren,dharma|menki|shen mengxi|shouyue|dyadia
+2025夏,Stage 1,2025-06-13,南京Hero久竞,苏州KSG,1,red,blue,1392,2,charlotte|agudo|ying zheng|erin|zhang fei,fuzi|augran|da qiao|child of the primal flow (archer)|dyadia
+2025夏,Stage 1,2025-06-13,南京Hero久竞,苏州KSG,2,red,blue,894,2,dharma|jing|lady zhen|loong|su lie,sikong zhen|kaizer|yuhuan|erin|master luban
+2025夏,Stage 1,2025-06-13,南京Hero久竞,苏州KSG,3,blue,red,787,2,mayene|dun|shen mengxi|shouyue|dolia,biron|pei|angela|arli|sakeer
+2025夏,Stage 1,2025-06-13,济南RW侠,北京JDG,1,red,blue,1266,2,cao cao|pei|haya|child of the primal flow (archer)|zhang fei,biron|feyd|nuwa|ge ya|kong kong er
+2025夏,Stage 1,2025-06-13,济南RW侠,北京JDG,2,red,blue,1122,1,fuzi|agudo|ying zheng|hou yi|taiyi zhenren,sikong zhen|augran|shen mengxi|marco polo|dyadia
+2025夏,Stage 1,2025-06-13,济南RW侠,北京JDG,3,blue,red,1440,2,ma chao|augran|shi|arli|dyadia,mayene|kaizer|haya|child of the primal flow (archer)|mozi
+2025夏,Stage 1,2025-06-13,济南RW侠,北京JDG,4,red,blue,1155,1,charlotte|jing|mai|di renjie|lian po,cao cao|nezha|yuhuan|luban no.7|master luban
+2025夏,Stage 1,2025-06-13,济南RW侠,北京JDG,5,blue,red,693,2,sikong zhen|dongfang yao|princess frost|ge ya|liang,guan yu|dun|ying zheng|arli|dolia
+2025夏,Stage 1,2025-06-13,重庆狼队,深圳DYG,1,red,blue,867,1,charlotte|kaizer|chang'e|arli|kong kong er,biron|agudo|mai|shouyue|zhang fei
+2025夏,Stage 1,2025-06-13,重庆狼队,深圳DYG,2,blue,red,1201,2,guan yu|augran|shi|shouyue|zhuangzi,ma chao|kaizer|haya|marco polo|liang
+2025夏,Stage 1,2025-06-13,重庆狼队,深圳DYG,3,red,blue,986,1,shadow|dun|mai|luban no.7|master luban,sikong zhen|menki|shen mengxi|di renjie|yuhuan
+2025夏,Stage 1,2025-06-13,重庆狼队,深圳DYG,4,blue,red,875,1,meng tian|jing|shen mengxi|loong|dyadia,sun ce|feyd|chang'e|child of the primal flow (archer)|taiyi zhenren
+2025夏,Stage 1,2025-06-14,,长沙TES.A,1,red,blue,708,2,biron|fei|angela|di renjie|su lie,charlotte|pei|frost|child of the primal flow (archer)|zhang fei
+2025夏,Stage 1,2025-06-14,,长沙TES.A,2,blue,red,587,2,meng tian|lam|yixing|lady sun|taiyi zhenren,guan yu|agudo|nuwa|di renjie|dyadia
+2025夏,Stage 1,2025-06-14,,长沙TES.A,3,blue,red,694,2,mayene|agudo|shen mengxi|child of the primal flow (archer)|zhang fei,sikong zhen|kai|mai|erin|su lie
+2025夏,Stage 1,2025-06-14,上海RNG.M,,1,red,blue,960,1,charlotte|augran|ziya|arli|dyadia,biron|pei|ying zheng|child of the primal flow (archer)|kong kong er
+2025夏,Stage 1,2025-06-14,上海RNG.M,,2,blue,red,1135,2,dharma|menki|nuwa|lady sun|taiyi zhenren,sikong zhen|kai|yixing|arli|dyadia
+2025夏,Stage 1,2025-06-14,上海RNG.M,,3,red,blue,816,2,fuzi|agudo|da qiao|child of the primal flow (archer)|zhang fei,charlotte|augran|shen mengxi|chano|lian po
+2025夏,Stage 1,2025-06-14,上海RNG.M,,4,red,blue,907,2,meng tian|fei|gan & mo|shouyue|sang qi,shadow|musashi|heino|lady sun|taiyi zhenren
+2025夏,Stage 1,2025-06-14,成都AG超玩会,武汉eStarPro,1,blue,red,978,1,mayene|dun|ying zheng|arli|dolia,dharma|pei|mai|chano|kong kong er
+2025夏,Stage 1,2025-06-14,成都AG超玩会,武汉eStarPro,2,blue,red,743,2,charlotte|bajie|haya|lady sun|ming,biron|agudo|nuwa|child of the primal flow (archer)|taiyi zhenren
+2025夏,Stage 1,2025-06-14,成都AG超玩会,武汉eStarPro,3,red,blue,1134,1,sun ce|jing|yang yuhuan|loong|lian po,ma chao|kai|yixing|luban no7|master luban
+2025夏,Stage 1,2025-06-14,成都AG超玩会,武汉eStarPro,4,blue,red,1275,1,ma chao|fei|frost|erin|zhang liang,sun ce|augran|shen mengxi|shouyue|zhuangzi
+2025夏,Stage 1,2025-06-15,北京WB,,1,blue,red,939,1,charlotte|menki|nuwa|arli|dyadia,biron|pei|angela|chano|mozi
+2025夏,Stage 1,2025-06-15,北京WB,,2,blue,red,873,1,dharma|kai|ying zheng|lady sun|taiyi zhenren,cao cao|augran|frost|hou yi|zhang liang
+2025夏,Stage 1,2025-06-15,北京WB,,3,red,blue,824,1,guan yu|musashi|shen mengxi|loong|su lie,sikong zhen|child of the primal flow (tank)|yang yuhuan|erin|master luban
+2025夏,Stage 1,2025-06-15,杭州LGD.NBW,南京Hero久竞,1,red,blue,645,2,charlotte|augran|ying zheng|child of the primal flow (archer)|dyadia,cao cao|pei|xishi|chano|taiyi zhenren
+2025夏,Stage 1,2025-06-15,杭州LGD.NBW,南京Hero久竞,2,blue,red,1038,2,guan yu|menki|shen mengxi|arli|taiyi zhenren,biron|fei|haya|di renjie|kong kong er
+2025夏,Stage 1,2025-06-15,杭州LGD.NBW,南京Hero久竞,3,red,blue,792,1,ma chao|jing|heino|loong|zhang liang,charlotte|agudo|gan & mo|erin|su lie
+2025夏,Stage 1,2025-06-15,杭州LGD.NBW,南京Hero久竞,4,blue,red,1079,1,shadow|kai|mai|di renjie|kong kong er,sikong zhen|child of the primal flow (tank)|shen mengxi|lady sun|zhang fei
+2025夏,Stage 1,2025-06-15,杭州LGD.NBW,南京Hero久竞,5,blue,red,1034,1,sikong zhen|dun|yixing|lady sun|su lie,guan yu|jing|frost|loong|dolia
+2025夏,Stage 1,2025-06-15,重庆狼队,广州TTG,1,blue,red,864,1,shadow|agudo|mai|luban no7|master luban,sikong zhen|pei|yang yuhuan|di renjie|cai yan
+2025夏,Stage 1,2025-06-15,重庆狼队,广州TTG,2,blue,red,922,2,yuange|kai|ying zheng|arli|kong kong er,ma chao|augran|frost|consort yu|zhang liang
+2025夏,Stage 1,2025-06-15,重庆狼队,广州TTG,3,red,blue,685,1,charlotte|augran|yang yuhuan|lady sun|taiyi zhenren,miyue|kai|nuwa|child of the primal flow (archer)|mozi
+2025夏,Stage 1,2025-06-15,重庆狼队,广州TTG,4,blue,red,981,2,sikong zhen|pei|nuwa|hou yi|su lie,dharma|agudo|chang'e|lady sun|taiyi zhenren
+2025夏,Stage 1,2025-06-15,重庆狼队,广州TTG,5,red,blue,908,1,biron|jing|chang'e|child of the primal flow (archer)|dyadia,bai qi|dun|shen mengxi|loong|dolia
+2025夏,Stage 1,2025-06-18,武汉eStarPro,,1,blue,red,1557,1,mi yue|dun|shen mengxi|arli|dyadia,cao cao|kaizer|chang'e|child of the primal flow (archer)|zhang fei
+2025夏,Stage 1,2025-06-18,武汉eStarPro,,2,blue,red,987,2,sikong zhen|agudo|jin chan|chano|kong kong er,sun ce|luna|yixing|lady sun|taiyi zhenren
+2025夏,Stage 1,2025-06-18,武汉eStarPro,,3,red,blue,647,2,guan yu|menki|princess frost|di renjie|liang,yang jian|jing|mai|luban no.7|master luban
+2025夏,Stage 1,2025-06-18,武汉eStarPro,,4,red,blue,913,2,biron|feyd|angela|child of the primal flow (archer)|sakeer,ma chao|dun|shen mengxi|arli|dolia
+2025夏,Stage 1,2025-06-18,深圳DYG,济南RW侠,1,red,blue,1039,2,charlotte|agudo|ying zheng|arli|dyadia,biron|augran|shen mengxi|lady sun|taiyi zhenren
+2025夏,Stage 1,2025-06-18,深圳DYG,济南RW侠,2,blue,red,880,2,guan yu|nezha|haya|huang zhong|master luban,charlotte|jing|ying zheng|di renjie|yuhuan
+2025夏,Stage 1,2025-06-18,深圳DYG,济南RW侠,3,blue,red,934,1,biron|pei|heino|chano|zhang fei,yang jian|kaizer|nuwa|arli|kong kong er
+2025夏,Stage 1,2025-06-18,深圳DYG,济南RW侠,4,blue,red,934,2,sikong zhen|augran|lady zhen|ge ya|kong kong er,dharma|agudo|gan & mo|child of the primal flow (archer)|dyadia
+2025夏,Stage 1,2025-06-18,上海EDG.M,广州TTG,1,red,blue,706,2,charlotte|pei|yang yuhuan|loong|lian po,biron|augran|haya|luban no7|master luban
+2025夏,Stage 1,2025-06-18,上海EDG.M,广州TTG,2,red,blue,756,2,mayene|menki|angela|arli|zhang liang,guan yu|kai|shen mengxi|chano|dyadia
+2025夏,Stage 1,2025-06-18,上海EDG.M,广州TTG,3,blue,red,696,2,biron|kai|ziya|shouyue|kong kong er,miyue|agudo|heino|arli|taiyi zhenren
+2025夏,Stage 1,2025-06-19,长沙TES.A,上海RNG.M,1,red,blue,1046,2,dharma|augran|shen mengxi|erin|zhang fei,sikong zhen|agudo|ying zheng|chano|kong kong er
+2025夏,Stage 1,2025-06-19,长沙TES.A,上海RNG.M,2,blue,red,1021,2,cao cao|kaizer|chang'e|luban no.7|master luban,prince of lanling|jing|mai|loong|mozi
+2025夏,Stage 1,2025-06-19,长沙TES.A,上海RNG.M,3,red,blue,1594,2,charlotte|agudo|ying zheng|child of the primal flow (archer)|su lie,biron|menki|nuwa|lady sun|taiyi zhenren
+2025夏,Stage 1,2025-06-19,佛山DRG,,1,red,blue,1383,1,charlotte|agudo|shen mengxi|shouyue|mozi,yang jian|kaizer|mai|luban no.7|master luban
+2025夏,Stage 1,2025-06-19,佛山DRG,,2,red,blue,978,1,dharma|yang jian|shi|chano|da qiao,biron|augran|nuwa|arli|su lie
+2025夏,Stage 1,2025-06-19,佛山DRG,,3,blue,red,910,1,guan yu|augran|heino|lady sun|taiyi zhenren,charlotte|jing|angela|marco polo|kong kong er
+2025夏,Stage 1,2025-06-19,北京WB,苏州KSG,1,blue,red,742,1,yang jian|kaizer|nuwa|chano|kong kong er,sikong zhen|augran|heino|erin|dyadia
+2025夏,Stage 1,2025-06-19,北京WB,苏州KSG,2,blue,red,820,2,charlotte|menki|mai|lady sun|taiyi zhenren,biron|fei|shen mengxi|hou yi|niumo
+2025夏,Stage 1,2025-06-19,北京WB,苏州KSG,3,red,blue,956,1,sun ce|pei|wu ze tian|erin|zhuangzi,ma chao|agudo|frost|child of the primal flow (archer)|zhang liang
+2025夏,Stage 1,2025-06-19,北京WB,苏州KSG,4,blue,red,912,2,shadow|fei|ying zheng|arli|su lie,mayene|pei|yang yuhuan|di renjie|zhang fei
+2025夏,Stage 1,2025-06-19,北京WB,苏州KSG,5,blue,red,1132,2,biron|dongfang yao|daji|child of the primal flow (archer)|master luban,guan yu|jing|angela|loong|gui guzi
+2025夏,Stage 1,2025-06-20,深圳DYG,上海EDG.M,1,red,blue,844,2,yang jian|augran|yixing|arli|dyadia,cao cao|agudo|shen mengxi|ge ya|kong kong er
+2025夏,Stage 1,2025-06-20,深圳DYG,上海EDG.M,2,blue,red,1003,1,mayene|agudo|chang'e|luban no.7|master luban,sikong zhen|pei|mai|di renjie|lian po
+2025夏,Stage 1,2025-06-20,深圳DYG,上海EDG.M,3,blue,red,1164,1,biron|kaizer|angela|chano|su lie,guan yu|menki|gan & mo|arli|taiyi zhenren
+2025夏,Stage 1,2025-06-20,深圳DYG,上海EDG.M,4,blue,red,790,2,charlotte|dun|shen mengxi|marco polo|dolia,yang jian|augran|haya|child of the primal flow (archer)|zhang fei
+2025夏,Stage 1,2025-06-20,深圳DYG,上海EDG.M,5,red,blue,1114,2,dharma|feyd|lady zhen|lady sun|taiyi zhenren,biron|ma chao|heino|loong|mozi
+2025夏,Stage 1,2025-06-20,广州TTG,济南RW侠,1,red,blue,1267,1,biron|agudo|lady zhen|arli|zhang fei,charlotte|kaizer|ying zheng|lady sun|taiyi zhenren
+2025夏,Stage 1,2025-06-20,广州TTG,济南RW侠,2,blue,red,684,1,yang jian|augran|princess frost|luban no.7|master luban,sikong zhen|dun|lady zhen|loong|dolia
+2025夏,Stage 1,2025-06-20,广州TTG,济南RW侠,3,blue,red,672,1,bai qi|jing|shen mengxi|di renjie|dyadia,biron|feyd|heino|erin|kong kong er
+2025夏,Stage 1,2025-06-20,成都AG超玩会,,1,blue,red,942,1,charlotte|augran|shen mengxi|ge ya|su lie,biron|pei|heino|lady sun|ying zheng
+2025夏,Stage 1,2025-06-20,成都AG超玩会,,2,blue,red,667,1,yang jian|agudo|princess frost|erin|liang,cao cao|kaizer|yixing|arli|dyadia
+2025夏,Stage 1,2025-06-20,成都AG超玩会,,3,red,blue,776,1,sikong zhen|jing|yuhuan|loong|kong kong er,yang jian|feyd|mai|luban no.7|master luban
+2025夏,Stage 1,2025-06-21,上海RNG.M,武汉eStarPro,1,red,blue,980,2,ma chao|menki|nuwa|arli|kong kong er,yang jian|kaizer|yixing|chano|dyadia
+2025夏,Stage 1,2025-06-21,上海RNG.M,武汉eStarPro,2,red,blue,970,2,charlotte|agudo|shen mengxi|garo|zhang fei,biron|augran|mai|child of the primal flow (archer)|cai yan
+2025夏,Stage 1,2025-06-21,上海RNG.M,武汉eStarPro,3,red,blue,1136,1,yang jian|kai|ziya|lady sun|mozi,charlotte|dun|gan & mo|arli|taiyi zhenren
+2025夏,Stage 1,2025-06-21,上海RNG.M,武汉eStarPro,4,blue,red,799,1,biron|pei|mai|erin|taiyi zhenren,sikong zhen|agudo|shen mengxi|di renjie|jin chan
+2025夏,Stage 1,2025-06-21,上海RNG.M,武汉eStarPro,5,blue,red,956,2,sun ce|jing|gan & mo|loong|yang yuhuan,meng tian|nezha|haya|luban no7|master luban
+2025夏,Stage 1,2025-06-21,杭州LGD.NBW,,1,blue,red,1116,1,biron|kai|nuwa|arli|kong kong er,yang jian|pei|lady zhen|shouyue|zhang fei
+2025夏,Stage 1,2025-06-21,杭州LGD.NBW,,2,blue,red,950,2,yang jian|augran|yixing|loong|dyadia,biron|jing|angela|hou yi|mozi
+2025夏,Stage 1,2025-06-21,杭州LGD.NBW,,3,red,blue,799,1,charlotte|pei|yang yuhuan|di renjie|zhang fei,cao cao|child of the primal flow (tank)|mai|luban no7|master luban
+2025夏,Stage 1,2025-06-21,杭州LGD.NBW,,4,red,blue,1266,2,shadow|jing|frost|child of the primal flow (archer)|su lie,guan yu|kai|yixing|erin|taiyi zhenren
+2025夏,Stage 1,2025-06-21,杭州LGD.NBW,,5,blue,red,889,1,dharma|menki|shen mengxi|chano|taiyi zhenren,sikong zhen|agudo|ying zheng|consort yu|dyadia
+2025夏,Stage 1,2025-06-21,重庆狼队,北京JDG,1,red,blue,1010,1,shadow|kai|mai|arli|kong kong er,biron|fei|shen mengxi|shouyue|dyadia
+2025夏,Stage 1,2025-06-21,重庆狼队,北京JDG,2,blue,red,1034,2,guan yu|agudo|ying zheng|luban no7|master luban,mayene|dun|nuwa|loong|dolia
+2025夏,Stage 1,2025-06-21,重庆狼队,北京JDG,3,red,blue,762,1,charlotte|pei|xishi|loong|su lie,yang jian|augran|angela|child of the primal flow (archer)|taiyi zhenren
+2025夏,Stage 1,2025-06-21,重庆狼队,北京JDG,4,blue,red,1290,1,biron|child of the primal flow (tank)|heino|lady sun|taiyi zhenren,sikong zhen|menki|lady zhen|geya|da qiao
+2025夏,Stage 1,2025-06-22,深圳DYG,广州TTG,1,red,blue,995,1,ma chao|augran|mai|child of the primal flow (archer)|dyadia,biron|pei|lady zhen|loong|taiyi zhenren
+2025夏,Stage 1,2025-06-22,深圳DYG,广州TTG,2,blue,red,954,2,charlotte|agudo|chang'e|erin|master luban,guan yu|jing|yang yuhuan|di renjie|su lie
+2025夏,Stage 1,2025-06-22,深圳DYG,广州TTG,3,red,blue,875,1,meng tian|fei|frost|arli|zhang fei,dharma|dian wei|shen mengxi|chano|dyadia
+2025夏,Stage 1,2025-06-22,深圳DYG,广州TTG,4,blue,red,1164,1,sikong zhen|kai|ziya|chano|taiyi zhenren,charlotte|agudo|nuwa|arli|kong kong er
+2025夏,Stage 1,2025-06-22,南京Hero久竞,北京WB,1,red,blue,940,2,biron|pei|chang'e|chano|sang qi,charlotte|dun|shen mengxi|arli|kong kong er
+2025夏,Stage 1,2025-06-22,南京Hero久竞,北京WB,2,red,blue,846,2,sikong zhen|menki|ying zheng|luban no7|master luban,yang jian|lam|nuwa|loong|lian po
+2025夏,Stage 1,2025-06-22,南京Hero久竞,北京WB,3,red,blue,752,2,mayene|kai|shen mengxi|di renjie|su lie,guan yu|fei|xiao qiao|chano|taiyi zhenren
+2025夏,Stage 1,2025-06-22,成都AG超玩会,长沙TES.A,1,blue,red,1045,1,biron|augran|shen mengxi|erin|su lie,yang jian|pei|nuwa|child of the primal flow (archer)|zhang fei
+2025夏,Stage 1,2025-06-22,成都AG超玩会,长沙TES.A,2,red,blue,1007,1,mayene|yang jian|ziya|child of the primal flow (archer)|dolia,guan yu|augran|wu ze tian|arli|kong kong er
+2025夏,Stage 1,2025-06-22,成都AG超玩会,长沙TES.A,3,red,blue,818,1,charlotte|jing|mai|loong|yuhuan,biron|ma chao|jin chan|erin|master luban
+2025夏,Stage 1,2025-06-23,,,1,blue,red,1074,1,yang jian|luna|heino|di renjie|dyadia,charlotte|jing|shen mengxi|chano|kong kong er
+2025夏,Stage 1,2025-06-23,,,2,red,blue,1033,1,charlotte|kaizer|lady zhen|lady sun|kong kong er,cao cao|augran|mai|loong|taiyi zhenren
+2025夏,Stage 1,2025-06-23,,,3,blue,red,1229,1,dharma|jing|princess frost|erin|liang,yuan ge|feyd|haya|child of the primal flow (archer)|su lie
+2025夏,Stage 1,2025-06-23,济南RW侠,上海EDG.M,1,red,blue,913,2,biron|kaizer|nuwa|arli|zhang fei,yang jian|agudo|ying zheng|lady sun|taiyi zhenren
+2025夏,Stage 1,2025-06-23,济南RW侠,上海EDG.M,2,red,blue,1249,2,charlotte|menki|shen mengxi|lady sun|taiyi zhenren,sikong zhen|augran|mai|loong|mozi
+2025夏,Stage 1,2025-06-23,济南RW侠,上海EDG.M,3,blue,red,1381,2,meng tian|jing|mai|di renjie|yuhuan,biron|pei|heino|erin|master luban
+2025夏,Stage 1,2025-06-23,佛山DRG,苏州KSG,1,red,blue,1442,1,biron|augran|da qiao|arli|ming,yang jian|fei|angela|lady sun|taiyi zhenren
+2025夏,Stage 1,2025-06-23,佛山DRG,苏州KSG,2,blue,red,716,1,dharma|jing|haya|di renjie|yang yuhuan,sikong zhen|augran|mai|agudo|master luban
+2025夏,Stage 1,2025-06-23,佛山DRG,苏州KSG,3,blue,red,1517,2,meng tian|pei|xishi|consort yu|taiyi zhenren,bai qi|ukyo|lady zhen|chano|kong kong er
+2025夏,Stage 1,2025-06-23,佛山DRG,苏州KSG,4,red,blue,963,2,yang jian|nezha|nuwa|erin|dolia,cao cao|kai|yang yuhuan|child of the primal flow (archer)|dyadia
+2025夏,Stage 1,2025-06-23,佛山DRG,苏州KSG,5,blue,red,894,1,mayene|kaizer|ying zheng|child of the primal flow (archer)|dyadia,charlotte|menki|chang'e|arli|su lie
+2025夏,Stage 2,2025-06-27,,济南RW侠,1,red,blue,594,2,guan yu|augran|mai|shouyue|dyadia,charlotte|kaizer|shen mengxi|arli|cai yan
+2025夏,Stage 2,2025-06-27,,济南RW侠,2,blue,red,648,2,biron|feyd|yixing|erin|master luban,sikong zhen|jing|yuhuan|di renjie|kong kong er
+2025夏,Stage 2,2025-06-27,,济南RW侠,3,red,blue,971,1,charlotte|kaizer|gan & mo|lady sun|taiyi zhenren,biron|agudo|ying zheng|flowborn (marksman)|su lie
+2025夏,Stage 2,2025-06-27,,济南RW侠,4,blue,red,689,1,yang jian|jing|nuwa|chano|toro (honor of kings),cao cao|pei|haya|ge ya|taiyi zhenren
+2025夏,Stage 2,2025-06-27,,济南RW侠,5,blue,red,1016,2,cao cao|ma chao|shi|arli|zhang fei,dharma|yang jian|mai|chano|dyadia
+2025夏,Stage 2,2025-06-27,广州TTG,,1,red,blue,883,1,cao cao|yang jian|xiao qiao|flowborn (marksman)|liang,shadow|augran|lady zhen|arli|dyadia
+2025夏,Stage 2,2025-06-27,广州TTG,,2,blue,red,1366,1,biron|feyd|haya|luban no.7|master luban,meng tian|jing|nuwa|di renjie|yuhuan
+2025夏,Stage 2,2025-06-27,广州TTG,,3,blue,red,1118,2,guan yu|kaizer|lady zhen|ge ya|dyadia,charlotte|menki|heino|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-06-27,广州TTG,,4,blue,red,916,1,shadow|augran|shen mengxi|shouyue|zhuangzi,guan yu|luna|wang zhaojun|chano|liang
+2025夏,Stage 2,2025-06-27,北京WB,武汉eStarPro,1,blue,red,820,2,yang jian|nezha|angela|ao'yin|lian po,mi yue|jing|ying zheng|luban no.7|master luban
+2025夏,Stage 2,2025-06-27,北京WB,武汉eStarPro,2,blue,red,1040,1,charlotte|kaizer|nuwa|erin|kong kong er,biron|feyd|heino|flowborn (marksman)|dyadia
+2025夏,Stage 2,2025-06-27,北京WB,武汉eStarPro,3,blue,red,769,1,fuzi|feyd|da qiao|lady sun|taiyi zhenren,guan yu|pei|mai|arli|lian po
+2025夏,Stage 2,2025-06-27,北京WB,武汉eStarPro,4,red,blue,817,2,guan yu|musashi|ziya|arli|zhang fei,mayene|augran|shen mengxi|chano|cai yan
+2025夏,Stage 2,2025-06-27,北京WB,武汉eStarPro,5,blue,red,1015,1,lu bu (honor of kings)|jing|shen mengxi|flowborn (marksman)|liang,meng tian|ma chao|haya|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-06-28,深圳DYG,上海RNG.M,1,red,blue,1207,2,guan yu|pei|wang zhaojun|arli|zhang fei,shadow|kaizer|shen mengxi|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-06-28,深圳DYG,上海RNG.M,2,blue,red,1168,2,ma chao|yang jian|haya|ao'yin|dolia,biron|augran|nuwa|flowborn (marksman)|kong kong er
+2025夏,Stage 2,2025-06-28,深圳DYG,上海RNG.M,3,red,blue,795,1,dharma|jing|angela|di renjie|yuhuan,guan yu|dun|mai|luban no.7|master luban
+2025夏,Stage 2,2025-06-28,深圳DYG,上海RNG.M,4,blue,red,1296,2,biron|menki|heino|chano|taiyi zhenren,cao cao|nezha|ziya|agudo|dyadia
+2025夏,Stage 2,2025-06-28,南京Hero久竞,长沙TES.A,1,red,blue,766,2,charlotte|dun|yuhuan|ao'yin|dolia,biron|kaizer|gan & mo|luban no.7|master luban
+2025夏,Stage 2,2025-06-28,南京Hero久竞,长沙TES.A,2,blue,red,661,2,biron|pei|shen mengxi|erin|zhang fei,mayene|dun|mai|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-06-28,南京Hero久竞,长沙TES.A,3,red,blue,1346,2,allain|kaizer|da qiao|arli|dyadia,yang jian|agudo|shen mengxi|chano|zhang fei
+2025夏,Stage 2,2025-06-28,重庆狼队,苏州KSG,1,blue,red,948,1,sikong zhen|pei|heino|arli|cai yan,charlotte|augran|mai|garo|kong kong er
+2025夏,Stage 2,2025-06-28,重庆狼队,苏州KSG,2,blue,red,1166,2,biron|agudo|ying zheng|luban no7|master luban,guan yu|lam|shen mengxi|di renjie|yang yuhuan
+2025夏,Stage 2,2025-06-28,重庆狼队,苏州KSG,3,red,blue,1304,1,shadow|augran|wang zhaojun|ao'yin|liang,cao cao|agudo|lady zhen|flowborn (marksman)|shi
+2025夏,Stage 2,2025-06-28,重庆狼队,苏州KSG,4,blue,red,1003,2,charlotte|kaizer|ziya|lady sun|taiyi zhenren,biron|menki|ying zheng|chano|dyadia
+2025夏,Stage 2,2025-06-28,重庆狼队,苏州KSG,5,red,blue,1080,2,ma chao|menki|yixing|flowborn (marksman)|dyadia,yang jian|feyd|angela|erin|guiguzi
+2025夏,Stage 2,2025-06-29,杭州LGD.NBW,,1,red,blue,893,1,guan yu|yang jian|ziya|arli|dolia,biron|pei|yixing|erin|kong kong er
+2025夏,Stage 2,2025-06-29,杭州LGD.NBW,,2,blue,red,776,1,ma chao|kaizer|haya|flowborn (marksman)|taiyi zhenren,cao cao|agudo|shi|lady sun|dyadia
+2025夏,Stage 2,2025-06-29,杭州LGD.NBW,,3,blue,red,847,1,shadow|agudo|mai|luban no.7|master luban,sikong zhen|dun|heino|ge ya|dolia
+2025夏,Stage 2,2025-06-29,北京JDG,上海EDG.M,1,red,blue,973,2,sikong zhen|agudo|ying zheng|luban no.7|master luban,yang jian|pei|heino|ge ya|mozi
+2025夏,Stage 2,2025-06-29,北京JDG,上海EDG.M,2,red,blue,792,2,cao cao|feyd|ziya|lady sun|taiyi zhenren,charlotte|augran|mai|arli|dyadia
+2025夏,Stage 2,2025-06-29,北京JDG,上海EDG.M,3,red,blue,690,2,yang jian|kaizer|heino|ge ya|kong kong er,biron|agudo|ying zheng|flowborn (marksman)|taiyi zhenren
+2025夏,Stage 2,2025-06-29,成都AG超玩会,佛山DRG,1,red,blue,873,1,sikong zhen|augran|wang zhaojun|ao'yin|zhang liang,shadow|jing|xishi|hou yi|zhuangzi
+2025夏,Stage 2,2025-06-29,成都AG超玩会,佛山DRG,2,red,blue,720,1,charlotte|pei|yang yuhuan|di renjie|cai yan,meng tian|fei|shen mengxi|luban no7|master luban
+2025夏,Stage 2,2025-06-29,成都AG超玩会,佛山DRG,3,red,blue,1289,1,biron|dun|haya|flowborn (marksman)|dolia,dharma|augran|nuwa|arli|kong kong er
+2025夏,Stage 2,2025-07-02,北京WB,,1,blue,red,814,2,charlotte|dun|shen mengxi|arli|su lie,cao cao|kaizer|mai|flowborn (marksman)|kong kong er
+2025夏,Stage 2,2025-07-02,北京WB,,2,red,blue,778,1,sun ce|ukyo tachibana|nuwa|flowborn (marksman)|kong kong er,yang jian|pei|ying zheng|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-02,北京WB,,3,blue,red,771,2,lu bu (honor of kings)|pei|shi|lady sun|taiyi zhenren,biron|agudo|gan & mo|chano|dyadia
+2025夏,Stage 2,2025-07-02,北京WB,,4,red,blue,742,1,guan yu|feyd|lady zhen|chano|zhang fei,shadow|dun|shen mengxi|ge ya|dolia
+2025夏,Stage 2,2025-07-02,北京WB,,5,blue,red,1066,2,charlotte|dun|shen mengxi|arli|su lie,cao cao|kaizer|mai|flowborn (marksman)|kong kong er
+2025夏,Stage 2,2025-07-02,广州TTG,佛山DRG,1,red,blue,1129,1,yang jian|kaizer|ying zheng|luban no.7|master luban,mayene|jing|shi|di renjie|yuhuan
+2025夏,Stage 2,2025-07-02,广州TTG,佛山DRG,2,blue,red,800,1,dharma|augran|shen mengxi|ge ya|dyadia,sikong zhen|agudo|mai|chano|kong kong er
+2025夏,Stage 2,2025-07-02,广州TTG,佛山DRG,3,red,blue,906,1,biron|jing|wang zhaojun|shouyue|liang,charlotte|pei|haya|ao'yin|su lie
+2025夏,Stage 2,2025-07-03,上海RNG.M,,1,red,blue,1152,1,bajie|nezha|mai|lady sun|taiyi zhenren,mayene|jing|shen mengxi|hou yi|niumo
+2025夏,Stage 2,2025-07-03,上海RNG.M,,2,red,blue,882,1,guan yu|augran|lady zhen|arli|dyadia,yang jian|ukyo tachibana|wang zhaojun|chano|liang
+2025夏,Stage 2,2025-07-03,上海RNG.M,,3,blue,red,1033,1,shadow|kaizer|ziya|flowborn (marksman)|kong kong er,charlotte|pei|lady zhen|arli|su lie
+2025夏,Stage 2,2025-07-03,长沙TES.A,济南RW侠,1,red,blue,1031,2,guan yu|dun|gan & mo|arli|dyadia,biron|yang jian|xishi|chano|dolia
+2025夏,Stage 2,2025-07-03,长沙TES.A,济南RW侠,2,blue,red,1005,1,biron|augran|shen mengxi|flowborn (marksman)|zhang fei,miyue|pei|haya|ao'yin|kong kong er
+2025夏,Stage 2,2025-07-03,长沙TES.A,济南RW侠,3,blue,red,623,1,shadow|jing|ying zheng|erin|master luban,charlotte|fei|yang yuhuan|di renjie|zhang fei
+2025夏,Stage 2,2025-07-03,长沙TES.A,济南RW侠,4,blue,red,776,2,cao cao|pei|yang yuhuan|lady sun|taiyi zhenren,shadow|kai|mai|flowborn (marksman)|mozi
+2025夏,Stage 2,2025-07-03,长沙TES.A,济南RW侠,5,red,blue,1259,2,mayene|agudo|angela|chano|kong kong er,sikong zhen|augran|heino|arli|dyadia
+2025夏,Stage 2,2025-07-04,北京JDG,,1,red,blue,1014,2,biron|pei|haya|shouyue|kong kong er,dharma|ukyo|shen mengxi|arli|dyadia
+2025夏,Stage 2,2025-07-04,北京JDG,,2,blue,red,924,1,charlotte|augran|ying zheng|arli|dyadia,biron|kai|nuwa|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-04,北京JDG,,3,red,blue,1134,2,cao cao|menki|lady zhen|geya|su lie,charlotte|agudo|gan & mo|ao'yin|zhang liang
+2025夏,Stage 2,2025-07-04,北京JDG,,4,red,blue,1052,1,sikong zhen|flowborn (tank)|shen mengxi|ao'yin|da qiao,cao cao|augran|mai|chano|su lie
+2025夏,Stage 2,2025-07-04,北京JDG,,5,red,blue,785,1,dharma|fei|heino|lady sun|taiyi zhenren,sikong zhen|dun|angela|hou yi|kong kong er
+2025夏,Stage 2,2025-07-04,杭州LGD.NBW,上海EDG.M,1,blue,red,1298,2,guan yu|kaizer|shen mengxi|lady sun|taiyi zhenren,yang jian|flowborn (tank)|da qiao|geya|dyadia
+2025夏,Stage 2,2025-07-04,杭州LGD.NBW,上海EDG.M,2,red,blue,1027,1,shadow|ukyo|mai|flowborn (marksman)|kong kong er,biron|dun|heino|arli|dolia
+2025夏,Stage 2,2025-07-04,杭州LGD.NBW,上海EDG.M,3,blue,red,1226,1,charlotte|agudo|chang'e|luban no7|master luban,guan yu|pei|ying zheng|di renjie|mozi
+2025夏,Stage 2,2025-07-04,杭州LGD.NBW,上海EDG.M,4,blue,red,974,1,ma chao|augran|wang zhaojun|ao'yin|zhang liang,shadow|agudo|yixing|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-04,成都AG超玩会,,1,red,blue,784,1,charlotte|pei|ying zheng|consort yu|yang yuhuan,guan yu|kaizer|yixing|luban no7|master luban
+2025夏,Stage 2,2025-07-04,成都AG超玩会,,2,red,blue,597,1,sikong zhen|dun|haya|geya|dolia,charlotte|menki|ziya|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-04,成都AG超玩会,,3,blue,red,874,1,cao cao|kaizer|shen mengxi|ao'yin|su lie,meng tian|jing|mai|flowborn (marksman)|dyadia
+2025夏,Stage 2,2025-07-05,济南RW侠,深圳DYG,1,blue,red,1003,1,dharma|agudo|mai|luban no7|master luban,charlotte|pei|xishi|di renjie|yang yuhuan
+2025夏,Stage 2,2025-07-05,济南RW侠,深圳DYG,2,blue,red,1359,1,guan yu|kaizer|heino|arli|dyadia,biron|augran|shen mengxi|chano|zhang fei
+2025夏,Stage 2,2025-07-05,济南RW侠,深圳DYG,3,red,blue,1135,1,sikong zhen|menki|nuwa|lady sun|taiyi zhenren,mayene|fei|lady zhen|geya|kong kong er
+2025夏,Stage 2,2025-07-05,南京Hero久竞,,1,red,blue,1298,1,biron|pei|ziya|flowborn (marksman)|kong kong er,guan yu|kaizer|nuwa|arli|dyadia
+2025夏,Stage 2,2025-07-05,南京Hero久竞,,2,blue,red,782,1,charlotte|agudo|shen mengxi|arli|dyadia,sun ce|fei|chang'e|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-05,南京Hero久竞,,3,blue,red,883,2,dharma|jing|ying zheng|di renjie|yang yuhuan,shadow|flowborn (tank)|mai|luban no7|master luban
+2025夏,Stage 2,2025-07-05,南京Hero久竞,,4,blue,red,767,1,ma chao|fei|wang zhaojun|erin|zhang liang,meng tian|pei|angela|hou yi|su lie
+2025夏,Stage 2,2025-07-05,重庆狼队,广州TTG,1,red,blue,1016,1,sun ce|pei|mai|arli|su lie,mayene|feyd|shen mengxi|chano|dyadia
+2025夏,Stage 2,2025-07-05,重庆狼队,广州TTG,2,blue,red,871,1,lu bu (honor of kings)|yang jian|heino|flowborn (marksman)|zhang fei,biron|kaizer|gan & mo|marco polo|kong kong er
+2025夏,Stage 2,2025-07-05,重庆狼队,广州TTG,3,blue,red,781,2,mayene|agudo|wang zhaojun|di renjie|liang,guan yu|augran|nuwa|hou yi|taiyi zhenren
+2025夏,Stage 2,2025-07-05,重庆狼队,广州TTG,4,red,blue,1190,1,shadow|kaizer|da qiao|chano|taiyi zhenren,charlotte|agudo|lady zhen|arli|liu shan
+2025夏,Stage 2,2025-07-06,杭州LGD.NBW,武汉eStarPro,1,red,blue,1047,2,meng tian|pei|yang yuhuan|ao'yin|lian po,ma chao|kaizer|ying zheng|erin|master luban
+2025夏,Stage 2,2025-07-06,杭州LGD.NBW,武汉eStarPro,2,blue,red,652,1,shadow|agudo|shen mengxi|flowborn (marksman)|taiyi zhenren,charlotte|fei|yixing|arli|kong kong er
+2025夏,Stage 2,2025-07-06,杭州LGD.NBW,武汉eStarPro,3,red,blue,786,1,ma chao|kaizer|haya|marco polo|zhang liang,shadow|augran|nuwa|hou yi|zhuangzi
+2025夏,Stage 2,2025-07-06,杭州LGD.NBW,武汉eStarPro,4,red,blue,756,1,mayene|augran|heino|chano|dyadia,biron|luna|mai|agudo|taiyi zhenren
+2025夏,Stage 2,2025-07-06,北京JDG,北京WB,1,red,blue,815,2,sikong zhen|augran|heino|consort yu|dyadia,charlotte|kaizer|nuwa|shouyue|kong kong er
+2025夏,Stage 2,2025-07-06,北京JDG,北京WB,2,blue,red,756,1,dharma|dun|shen mengxi|di renjie|dolia,guan yu|pei|wang zhaojun|chano|master luban
+2025夏,Stage 2,2025-07-06,北京JDG,北京WB,3,red,blue,932,2,guan yu|kaizer|mai|chano|mozi,biron|nezha|jin chan|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-06,北京JDG,北京WB,4,blue,red,1051,2,meng tian|lam|nuwa|arli|kong kong er,dharma|fei|xiao qiao|agudo|su lie
+2025夏,Stage 2,2025-07-06,成都AG超玩会,苏州KSG,1,blue,red,791,2,meng tian|pei|ying zheng|di renjie|yang yuhuan,charlotte|ukyo|angela|luban no7|master luban
+2025夏,Stage 2,2025-07-06,成都AG超玩会,苏州KSG,2,blue,red,787,1,yang jian|dun|xiao qiao|arli|dolia,cao cao|augran|haya|geya|kong kong er
+2025夏,Stage 2,2025-07-06,成都AG超玩会,苏州KSG,3,blue,red,917,1,cao cao|agudo|shen mengxi|fuzi|su lie,biron|kaizer|diaochan (honor of kings)|arli|dyadia
+2025夏,Stage 2,2025-07-06,成都AG超玩会,苏州KSG,4,blue,red,1112,1,biron|kaizer|mai|erin|sun bin,guan yu|menki|lady zhen|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-09,,长沙TES.A,1,red,blue,1296,2,biron|fei|mai|luban no7|master luban,mayene|jing|yang yuhuan|ao'yin|mozi
+2025夏,Stage 2,2025-07-09,,长沙TES.A,2,blue,red,1435,2,guan yu|kaizer|shen mengxi|chano|su lie,sikong zhen|fei|ying zheng|shouyue|kong kong er
+2025夏,Stage 2,2025-07-09,,长沙TES.A,3,blue,red,788,2,dharma|jing|xishi|lady sun|taiyi zhenren,guan yu|kaizer|yixing|flowborn (marksman)|zhuangzi
+2025夏,Stage 2,2025-07-09,济南RW侠,上海RNG.M,1,red,blue,1163,1,charlotte|agudo|ying zheng|chano|dyadia,shadow|kaizer|nuwa|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-09,济南RW侠,上海RNG.M,2,blue,red,950,2,ma chao|augran|lady zhen|arli|mozi,guan yu|menki|ziya|flowborn (marksman)|dyadia
+2025夏,Stage 2,2025-07-09,济南RW侠,上海RNG.M,3,red,blue,1125,1,dharma|ukyo|shen mengxi|luban no7|master luban,yang jian|pei|ying zheng|ao'yin|mozi
+2025夏,Stage 2,2025-07-09,济南RW侠,上海RNG.M,4,blue,red,695,2,guan yu|pei|chang'e|flowborn (marksman)|kong kong er,gao changgong|fei|shen mengxi|arli|zhang fei
+2025夏,Stage 2,2025-07-09,济南RW侠,上海RNG.M,5,red,blue,925,2,miyue|menki|nuwa|lady sun|taiyi zhenren,bajie|nezha|lady zhen|agudo|su lie
+2025夏,Stage 2,2025-07-10,苏州KSG,,1,red,blue,941,1,dharma|pei|shi|di renjie|yuhuan,sikong zhen|kaizer|wang zhaojun|luban no.7|master luban
+2025夏,Stage 2,2025-07-10,苏州KSG,,2,red,blue,942,1,biron|feyd|lady zhen|arli|kong kong er,charlotte|flowborn (tank)|xiao qiao|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-10,苏州KSG,,3,blue,red,1166,2,ma chao|kaizer|shen mengxi|shouyue|dyadia,shadow|menki|mai|arli|su lie
+2025夏,Stage 2,2025-07-10,苏州KSG,,4,blue,red,891,2,yang jian|dun|chang'e|erin|dolia,guan yu|jing|angela|hou yi|kong kong er
+2025夏,Stage 2,2025-07-10,苏州KSG,,5,red,blue,686,1,charlotte|jing|heino|flowborn (marksman)|shieldun,biron|ma chao|lady zhen|chano|dyadia
+2025夏,Stage 2,2025-07-10,上海EDG.M,武汉eStarPro,1,red,blue,933,1,guan yu|augran|haya|ge ya|dyadia,biron|agudo|shen mengxi|arli|kong kong er
+2025夏,Stage 2,2025-07-10,上海EDG.M,武汉eStarPro,2,blue,red,874,1,charlotte|flowborn (tank)|jin chan|luban no.7|master luban,sikong zhen|pei|mai|ao'yin|zhang fei
+2025夏,Stage 2,2025-07-10,上海EDG.M,武汉eStarPro,3,red,blue,628,1,ma chao|kaizer|nuwa|ao'yin|taiyi zhenren,yang jian|nezha|haya|chano|dolia
+2025夏,Stage 2,2025-07-11,深圳DYG,长沙TES.A,1,red,blue,785,1,yang jian|pei|yuhuan|erin|mozi,shadow|jing|shi|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-11,深圳DYG,长沙TES.A,2,red,blue,1108,2,charlotte|kaizer|heino|arli|su lie,biron|feyd|mai|chano|kong kong er
+2025夏,Stage 2,2025-07-11,深圳DYG,长沙TES.A,3,red,blue,996,2,bai qi|agudo|haya|shouyue|dyadia,charlotte|yang jian|shen mengxi|ao'yin|dolia
+2025夏,Stage 2,2025-07-11,深圳DYG,长沙TES.A,4,red,blue,903,1,sikong zhen|augran|zhuangzi|di renjie|liang,yuan ge|pei|wang zhaojun|hou yi|su lie
+2025夏,Stage 2,2025-07-11,深圳DYG,长沙TES.A,5,red,blue,948,1,guan yu|musashi|nuwa|luban no.7|master luban,dharma|agudo|gan & mo|flowborn (marksman)|mozi
+2025夏,Stage 2,2025-07-11,南京Hero久竞,上海RNG.M,1,blue,red,1356,2,charlotte|kaizer|nuwa|chano|dyadia,biron|agudo|lady zhen|arli|mozi
+2025夏,Stage 2,2025-07-11,南京Hero久竞,上海RNG.M,2,blue,red,1273,2,biron|agudo|shen mengxi|arli|kong kong er,dharma|augran|ziya|flowborn (marksman)|zhang fei
+2025夏,Stage 2,2025-07-11,南京Hero久竞,上海RNG.M,3,blue,red,827,1,cao cao|dun|lady zhen|lady sun|taiyi zhenren,shadow|kaizer|nuwa|geya|dyadia
+2025夏,Stage 2,2025-07-11,南京Hero久竞,上海RNG.M,4,blue,red,938,2,sikong zhen|pei|yang yuhuan|flowborn (marksman)|zhang fei,bajie|fei|ying zheng|chano|su lie
+2025夏,Stage 2,2025-07-11,重庆狼队,佛山DRG,1,blue,red,1255,1,guan yu|yang jian|haya|chano|dolia,biron|agudo|lady zhen|arli|dyadia
+2025夏,Stage 2,2025-07-11,重庆狼队,佛山DRG,2,blue,red,1247,2,meng tian|ukyo|chang'e|luban no7|master luban,charlotte|pei|mai|geya|yang yuhuan
+2025夏,Stage 2,2025-07-11,重庆狼队,佛山DRG,3,red,blue,912,2,shadow|augran|xishi|geya|su lie,guan yu|jing|wang zhaojun|erin|zhang liang
+2025夏,Stage 2,2025-07-11,重庆狼队,佛山DRG,4,red,blue,1264,1,sun ce|fei|mai|arli|kong kong er,mayene|musashi|shen mengxi|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-11,重庆狼队,佛山DRG,5,blue,red,707,1,biron|flowborn (tank)|shen mengxi|ao'yin|zhang liang,ma chao|yang jian|da qiao|di renjie|liu bang
+2025夏,Stage 2,2025-07-12,武汉eStarPro,,1,red,blue,1146,2,charlotte|dun|haya|chano|dolia,yang jian|kaizer|shen mengxi|arli|kong kong er
+2025夏,Stage 2,2025-07-12,武汉eStarPro,,2,red,blue,1263,1,sikong zhen|pei|mai|di renjie|kong kong er,dharma|augran|yixing|luban no7|master luban
+2025夏,Stage 2,2025-07-12,武汉eStarPro,,3,blue,red,881,2,dharma|agudo|shen mengxi|ao'yin|mozi,guan yu|menki|chang'e|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-12,武汉eStarPro,,4,blue,red,838,2,guan yu|jing|wang zhaojun|marco polo|zhang liang,biron|fei|mai|flowborn (marksman)|su lie
+2025夏,Stage 2,2025-07-12,杭州LGD.NBW,北京JDG,1,red,blue,748,1,biron|menki|haya|chano|dyadia,charlotte|augran|ying zheng|arli|kong kong er
+2025夏,Stage 2,2025-07-12,杭州LGD.NBW,北京JDG,2,blue,red,1259,2,shadow|yang jian|ying zheng|flowborn (marksman)|zhang fei,cao cao|kaizer|shen mengxi|erin|dolia
+2025夏,Stage 2,2025-07-12,杭州LGD.NBW,北京JDG,3,blue,red,1336,2,mayene|kaizer|ziya|lady sun|taiyi zhenren,shadow|flowborn (tank)|lady zhen|geya|da qiao
+2025夏,Stage 2,2025-07-12,杭州LGD.NBW,北京JDG,4,red,blue,716,2,charlotte|pei|mai|ao'yin|lian po,dharma|ukyo tachibana|yuhuan|luban no.7|master luban
+2025夏,Stage 2,2025-07-12,广州TTG,苏州KSG,1,red,blue,888,2,yang jian|augran|wang zhaojun|shouyue|zhang liang,shadow|menki|lady zhen|arli|kong kong er
+2025夏,Stage 2,2025-07-12,广州TTG,苏州KSG,2,red,blue,1016,1,biron|kaizer|mai|luban no7|master luban,dharma|jing|nuwa|di renjie|yang yuhuan
+2025夏,Stage 2,2025-07-12,广州TTG,苏州KSG,3,blue,red,889,2,dharma|flowborn (tank)|gan & mo|lady sun|dyadia,biron|nakoruru|angela|erin|su lie
+2025夏,Stage 2,2025-07-12,广州TTG,苏州KSG,4,red,blue,814,2,dun|luna|chang'e|di renjie|dolia,charlotte|agudo|shen mengxi|chano|ziya
+2025夏,Stage 2,2025-07-13,南京Hero久竞,深圳DYG,1,blue,red,913,1,sikong zhen|yang jian|yuhuan|di renjie|dolia,shadow|augran|mai|luban no.7|master luban
+2025夏,Stage 2,2025-07-13,南京Hero久竞,深圳DYG,2,blue,red,1097,1,shadow|kaizer|mai|flowborn (marksman)|taiyi zhenren,meng tian|pei|nuwa|erin|kong kong er
+2025夏,Stage 2,2025-07-13,南京Hero久竞,深圳DYG,3,blue,red,1055,1,dharma|agudo|shen mengxi|chano|dyadia,charlotte|kaizer|ziya|arli|zhang fei
+2025夏,Stage 2,2025-07-13,北京WB,上海EDG.M,1,blue,red,834,1,yang jian|jing|xiao qiao|agudo|liang,cao cao|kaizer|nuwa|chano|dyadia
+2025夏,Stage 2,2025-07-13,北京WB,上海EDG.M,2,blue,red,1540,2,charlotte|ukyo tachibana|jin chan|huang zhong|master luban,biron|pei|mai|consort yu|lian po
+2025夏,Stage 2,2025-07-13,北京WB,上海EDG.M,3,blue,red,721,1,meng tian|pei|shen mengxi|lady sun|taiyi zhenren,guan yu|augran|ying zheng|ge ya|zhang fei
+2025夏,Stage 2,2025-07-13,北京WB,上海EDG.M,4,red,blue,687,2,sikong zhen|kaizer|nuwa|arli|su lie,bai qi|feyd|xiao qiao|flowborn (marksman)|kong kong er
+2025夏,Stage 2,2025-07-13,北京WB,上海EDG.M,5,red,blue,1169,1,dharma|feyd|shi|flowborn (marksman)|zhang fei,ma chao|musashi|shen mengxi|erin|taiyi zhenren
+2025夏,Stage 2,2025-07-13,重庆狼队,成都AG超玩会,1,blue,red,912,1,dharma|augran|mai|luban no.7|master luban,cao cao|dun|ying zheng|ao'yin|dolia
+2025夏,Stage 2,2025-07-13,重庆狼队,成都AG超玩会,2,red,blue,1281,2,mayene|pei|chang'e|ge ya|kong kong er,guan yu|augran|shen mengxi|chano|su lie
+2025夏,Stage 2,2025-07-13,重庆狼队,成都AG超玩会,3,red,blue,891,1,lu bu (honor of kings)|jing|xiao qiao|agudo|liang,biron|kaizer|nuwa|ge ya|taiyi zhenren
+2025夏,Stage 2,2025-07-13,重庆狼队,成都AG超玩会,4,blue,red,1065,1,shadow|flowborn (tank)|shen mengxi|arli|donghuang,sikong zhen|pei|mai|shouyue|zhang fei
+2025夏,Stage 2,2025-07-15,,深圳DYG,1,red,blue,904,2,biron|lam|shen mengxi|ao'yin|mozi,sikong zhen|agudo|mai|luban no.7|master luban
+2025夏,Stage 2,2025-07-15,,深圳DYG,2,red,blue,680,1,guan yu|pei|mai|sun quan|kong kong er,mayene|kaizer|shi|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-15,,深圳DYG,3,red,blue,625,2,charlotte|kaizer|yixing|ge ya|dolia,bai qi|feyd|lady zhen|arli|dyadia
+2025夏,Stage 2,2025-07-15,,深圳DYG,4,red,blue,715,2,ma chao|ukyo tachibana|chang'e|hou yi|su lie,sun ce|pei|ziya|ge ya|mozi
+2025夏,Stage 2,2025-07-15,,佛山DRG,1,red,blue,791,2,charlotte|kaizer|shen mengxi|geya|zhang fei,sun ce|augran|lady zhen|arli|dyadia
+2025夏,Stage 2,2025-07-15,,佛山DRG,2,red,blue,669,2,yang jian|pei|ziya|arli|kong kong er,charlotte|kaizer|haya|chano|dolia
+2025夏,Stage 2,2025-07-15,,佛山DRG,3,blue,red,871,2,mayene|bai qi|mai|luban no7|master luban,biron|pei|yang yuhuan|ao'yin|zhuangzi
+2025夏,Stage 2,2025-07-16,上海EDG.M,,1,red,blue,961,1,ma chao|kaizer|haya|geya|kong kong er,yang jian|musashi|shen mengxi|ao'yin|taiyi zhenren
+2025夏,Stage 2,2025-07-16,上海EDG.M,,2,blue,red,682,1,biron|jing|wang zhaojun|erin|master luban,shadow|pei|ying zheng|di renjie|yang yuhuan
+2025夏,Stage 2,2025-07-16,上海EDG.M,,3,red,blue,1106,2,yang jian|flowborn (tank)|da qiao|lady sun|taiyi zhenren,cao cao|kaizer|ziya|geya|dyadia
+2025夏,Stage 2,2025-07-16,上海EDG.M,,4,red,blue,1294,2,charlotte|agudo|nuwa|chano|dyadia,biron|augran|xiao qiao|arli|kong kong er
+2025夏,Stage 2,2025-07-16,上海EDG.M,,5,blue,red,547,2,augran|fei|mai|arli|zhang fei,sikong zhen|dun|jin chan|chano|dolia
+2025夏,Stage 2,2025-07-16,南京Hero久竞,济南RW侠,1,red,blue,754,1,sikong zhen|pei|yang yuhuan|erin|kong kong er,biron|jing|chang'e|chano|dyadia
+2025夏,Stage 2,2025-07-16,南京Hero久竞,济南RW侠,2,blue,red,1044,2,dharma|yang jian|shen mengxi|chano|taiyi zhenren,guan yu|pei|gan & mo|erin|kong kong er
+2025夏,Stage 2,2025-07-16,南京Hero久竞,济南RW侠,3,red,blue,647,2,sun ce|dun|haya|agudo|dolia,ma chao|augran|xiao qiao|di renjie|zhang liang
+2025夏,Stage 2,2025-07-16,南京Hero久竞,济南RW侠,4,blue,red,925,1,biron|jing|lady zhen|geya|master luban,charlotte|flowborn (tank)|shen mengxi|ao'yin|yang yuhuan
+2025夏,Stage 2,2025-07-16,南京Hero久竞,济南RW侠,5,red,blue,1029,2,bai qi|cao cao|ziya|lady sun|zhang fei,shadow|kaizer|haya|arli|taiyi zhenren
+2025夏,Stage 2,2025-07-17,苏州KSG,佛山DRG,1,red,blue,725,1,meng tian|ukyo tachibana|mai|luban no.7|master luban,charlotte|pei|yuhuan|ao'yin|mozi
+2025夏,Stage 2,2025-07-17,苏州KSG,佛山DRG,2,red,blue,895,1,cao cao|jing|nuwa|arli|kong kong er,shadow|yang jian|ying zheng|sun quan|dolia
+2025夏,Stage 2,2025-07-17,苏州KSG,佛山DRG,3,blue,red,932,2,ma chao|flowborn (tank)|xiao qiao|agudo|liang,guan yu|nakoruru|wang zhaojun|erin|su lie
+2025夏,Stage 2,2025-07-17,苏州KSG,佛山DRG,4,red,blue,621,1,charlotte|kaizer|haya|chano|su lie,sun ce|augran|lady zhen|flowborn (marksman)|dyadia
+2025夏,Stage 2,2025-07-17,北京JDG,武汉eStarPro,1,red,blue,1191,1,guan yu|dun|xiao qiao|ao'yin|dolia,charlotte|yang jian|wang zhaojun|arli|liang
+2025夏,Stage 2,2025-07-17,北京JDG,武汉eStarPro,2,blue,red,690,2,charlotte|ukyo tachibana|chang'e|luban no.7|master luban,sun ce|pei|mai|di renjie|yuhuan
+2025夏,Stage 2,2025-07-17,北京JDG,武汉eStarPro,3,red,blue,1109,1,ma chao|flowborn (tank)|da qiao|arli|zhang fei,biron|augran|shen mengxi|agudo|ziya
+2025夏,Stage 2,2025-07-17,北京JDG,武汉eStarPro,4,blue,red,1282,2,mayene|kaizer|nuwa|lady sun|taiyi zhenren,cao cao|menki|xiao qiao|ge ya|dyadia
+2025夏,Stage 2,2025-07-17,北京JDG,武汉eStarPro,5,blue,red,754,1,yang jian|agudo|lady zhen|ge ya|kong kong er,ma chao|luna|haya|erin|su lie
+2025夏,Stage 2,2025-07-17,成都AG超玩会,广州TTG,1,blue,red,1412,1,dharma|agudo|shen mengxi|chano|su lie,shadow|augran|heino|erin|dyadia
+2025夏,Stage 2,2025-07-17,成都AG超玩会,广州TTG,2,blue,red,722,2,sikong zhen|dun|yuhuan|ao'yin|dolia,biron|flowborn (tank)|wang zhaojun|luban no.7|master luban
+2025夏,Stage 2,2025-07-17,成都AG超玩会,广州TTG,3,blue,red,972,2,yang jian|pei|nuwa|fuzi|zhang fei,cao cao|kaizer|haya|ge ya|kong kong er
+2025夏,Stage 2,2025-07-17,成都AG超玩会,广州TTG,4,red,blue,1163,1,charlotte|augran|lady zhen|ge ya|dyadia,dharma|menki|shen mengxi|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-17,成都AG超玩会,广州TTG,5,blue,red,1259,2,biron|lam|yixing|arli|kong kong er,guan yu|agudo|chang'e|shouyue|donghuang
+2025夏,Stage 2,2025-07-18,上海RNG.M,长沙TES.A,1,red,blue,790,2,cao cao|augran|xiao qiao|arli|zhang fei,charlotte|feyd|shi|erin|kong kong er
+2025夏,Stage 2,2025-07-18,上海RNG.M,长沙TES.A,2,red,blue,1280,1,mayene|agudo|ying zheng|ge ya|dyadia,yang jian|kaizer|nuwa|hou yi|dolia
+2025夏,Stage 2,2025-07-18,上海RNG.M,长沙TES.A,3,red,blue,663,2,sikong zhen|pei|mai|chano|su lie,cao cao|flowborn (tank)|shen mengxi|di renjie|taiyi zhenren
+2025夏,Stage 2,2025-07-18,上海RNG.M,长沙TES.A,4,red,blue,786,2,yuan ge|kaizer|shen mengxi|erin|kong kong er,sikong zhen|agudo|lady zhen|lady sun|dyadia
+2025夏,Stage 2,2025-07-18,北京WB,杭州LGD.NBW,1,blue,red,865,1,charlotte|flowborn (tank)|xiao qiao|erin|master luban,sikong zhen|jing|shi|ao'yin|yuhuan
+2025夏,Stage 2,2025-07-18,北京WB,杭州LGD.NBW,2,red,blue,1362,1,mayene|kaizer|nuwa|ao'yin|kong kong er,biron|yang jian|shen mengxi|shouyue|su lie
+2025夏,Stage 2,2025-07-18,北京WB,杭州LGD.NBW,3,blue,red,771,1,meng tian|nakoruru|lady zhen|lady sun|taiyi zhenren,guan yu|kaizer|mai|ge ya|dyadia
+2025夏,Stage 2,2025-07-18,重庆狼队,,1,blue,red,1267,2,lu bu (honor of kings)|augran|mai|meng ya|kong kong er,biron|menki|nuwa|arli|su lie
+2025夏,Stage 2,2025-07-18,重庆狼队,,2,red,blue,1314,1,charlotte|jing|heino|ao'yin|liang,shadow|kaizer|shen mengxi|shouyue|kong kong er
+2025夏,Stage 2,2025-07-18,重庆狼队,,3,blue,red,680,1,guan yu|yang jian|yuhuan|arli|su lie,cao cao|dun|angela|lady sun|taiyi zhenren
+2025夏,Stage 2,2025-07-18,重庆狼队,,4,blue,red,810,1,cao cao|menki|lady zhen|chano|dyadia,charlotte|flowborn (tank)|gan & mo|ge ya|da qiao
+2025夏,Stage 3,2025-08-02,北京JDG,佛山DRG,1,red,blue,1081,2,charlotte|yang jian|xiao qiao|hou yi|dolia,sun ce|jing|lady zhen|arli|kong kong er
+2025夏,Stage 3,2025-08-02,北京JDG,佛山DRG,2,red,blue,1069,1,shadow|kaizer|lady zhen|chano|dyadia,mayene|agudo|haya|lady sun|taiyi zhenren
+2025夏,Stage 3,2025-08-02,北京JDG,佛山DRG,3,blue,red,986,1,sikong zhen|flowborn (tank)|shen mengxi|ao'yin|da qiao,biron|kaizer|nuwa|chano|dyadia
+2025夏,Stage 3,2025-08-02,北京JDG,佛山DRG,4,blue,red,1300,1,guan yu|augran|nuwa|garo|zhang fei,sikong zhen|flowborn (tank)|mai|geya|da qiao
+2025夏,Stage 3,2025-08-02,北京WB,广州TTG,1,blue,red,898,2,sikong zhen|agudo|shen mengxi|ao'yin|master luban,charlotte|jing|yang yuhuan|arli|mozi
+2025夏,Stage 3,2025-08-02,北京WB,广州TTG,2,red,blue,799,2,yang jian|pei|gao|arli|su lie,biron|agudo|chang'e|geya|kong kong er
+2025夏,Stage 3,2025-08-02,北京WB,广州TTG,3,red,blue,790,2,bai qi|fei|xiao qiao|geya|dyadia,cao cao|kaizer|xishi|lady sun|taiyi zhenren
+2025夏,Stage 3,2025-08-02,重庆狼队,苏州KSG,1,red,blue,764,2,biron|augran|shen mengxi|arli|donghuang,dharma|nakoruru|xiao qiao|ge ya|kong kong er
+2025夏,Stage 3,2025-08-02,重庆狼队,苏州KSG,2,red,blue,992,1,guan yu|jing|xiao qiao|di renjie|liang,meng tian|feyd|mai shiranui|luban no.7|master luban
+2025夏,Stage 3,2025-08-02,重庆狼队,苏州KSG,3,blue,red,917,1,charlotte|yang jian|haya|erin|dolia,cao cao|jing|nuwa|chano|su lie
+2025夏,Stage 3,2025-08-02,重庆狼队,苏州KSG,4,blue,red,1004,2,dharma|flowborn (tank)|lady zhen|ge ya|taiyi zhenren,biron|yang jian|ying zheng|arli|dyadia
+2025夏,Stage 3,2025-08-02,重庆狼队,苏州KSG,5,red,blue,1350,1,lu bu (honor of kings)|pei|mai shiranui|lady sun|su lie,sikong zhen|kaizer|angela|flowborn (marksman)|sun ce
+2025夏,Stage 3,2025-08-03,,上海RNG.M,1,red,blue,867,2,biron|augran|lady zhen|chano|sun bin,cao cao|yang jian|ying zheng|ge ya|dolia
+2025夏,Stage 3,2025-08-03,,上海RNG.M,2,blue,red,849,1,charlotte|nezha|heino|arli|dyadia,sikong zhen|kaizer|xiao qiao|erin|kong kong er
+2025夏,Stage 3,2025-08-03,,上海RNG.M,3,blue,red,1063,1,cao cao|pei|shen mengxi|ge ya|kong kong er,meng tian|ukyo tachibana|heino|lady sun|taiyi zhenren
+2025夏,Stage 3,2025-08-03,,上海RNG.M,4,blue,red,1252,1,ma chao|kaizer|mai shiranui|lady sun|taiyi zhenren,shadow|agudo|nuwa|arli|su lie
+2025夏,Stage 3,2025-08-03,上海EDG.M,,1,red,blue,971,1,ma chao|augran|shen mengxi|chano|mozi,pangu|kaizer|nuwa|di renjie|dyadia
+2025夏,Stage 3,2025-08-03,上海EDG.M,,2,blue,red,824,1,biron|kaizer|lady zhen|ge ya|kong kong er,guan yu|yang jian|xiao qiao|hou yi|su lie
+2025夏,Stage 3,2025-08-03,上海EDG.M,,3,red,blue,1095,2,sun ce|jing|ying zheng|di renjie|yuhuan,biron|flowborn (tank)|chang'e|luban no.7|master luban
+2025夏,Stage 3,2025-08-03,上海EDG.M,,4,red,blue,773,1,cao cao|ukyo tachibana|mai shiranui|erin|taiyi zhenren,charlotte|menki|shen mengxi|arli|cai yan
+2025夏,Stage 3,2025-08-03,杭州LGD.NBW,成都AG超玩会,1,blue,red,1571,2,yuan ge|augran|heino|ge ya|zhang fei,cao cao|agudo|gan & mo|garo|liang
+2025夏,Stage 3,2025-08-03,杭州LGD.NBW,成都AG超玩会,2,blue,red,1026,2,cao cao|kaizer|gan & mo|arli|su lie,charlotte|menki|lady zhen|chano|kong kong er
+2025夏,Stage 3,2025-08-03,杭州LGD.NBW,成都AG超玩会,3,red,blue,1088,2,lu bu (honor of kings)|yang jian|haya|chano|kong kong er,mi yue|augran|shen mengxi|di renjie|su lie
+2025夏,Stage 3,2025-08-06,,上海EDG.M,1,red,blue,983,1,sikong zhen|kaizer|ying zheng|chano|dyadia,cao cao|augran|shen mengxi|ao'yin|su lie
+2025夏,Stage 3,2025-08-06,,上海EDG.M,2,blue,red,959,1,dharma|musashi|heino|arli|su lie,charlotte|menki|xiao qiao|ge ya|kong kong er
+2025夏,Stage 3,2025-08-06,,上海EDG.M,3,red,blue,718,2,shadow|flowborn (tank)|xiao qiao|ge ya|kong kong er,biron|agudo|nuwa|arli|dyadia
+2025夏,Stage 3,2025-08-06,,上海EDG.M,4,blue,red,1013,1,biron|agudo|haya|lady sun|taiyi zhenren,dharma|yang jian|lady zhen|di renjie|dolia
+2025夏,Stage 3,2025-08-06,苏州KSG,广州TTG,1,red,blue,849,2,cao cao|augran|mai shiranui|chano|su lie,charlotte|kaizer|shen mengxi|ge ya|zhang fei
+2025夏,Stage 3,2025-08-06,苏州KSG,广州TTG,2,red,blue,664,2,fuzi|kaizer|heino|flowborn (marksman)|dyadia,cao cao|yang jian|gan & mo|chano|kong kong er
+2025夏,Stage 3,2025-08-06,苏州KSG,广州TTG,3,red,blue,911,1,biron|jing|haya|geya|niumo,guan yu|agudo|chang'e|lady sun|taiyi zhenren
+2025夏,Stage 3,2025-08-06,苏州KSG,广州TTG,4,blue,red,1173,2,meng tian|yang jian|xiao qiao|arli|liang,fuzi|flowborn (tank)|da qiao|di renjie|su lie
+2025夏,Stage 3,2025-08-07,佛山DRG,,1,red,blue,1343,2,sikong zhen|jing|mai|di renjie|zhang fei,charlotte|flowborn (tank)|gao|luban no.7|master luban
+2025夏,Stage 3,2025-08-07,佛山DRG,,2,red,blue,1098,2,ma chao|augran|haya|lady sun|taiyi zhenren,cao cao|kaizer|nuwa|hou yi|dyadia
+2025夏,Stage 3,2025-08-07,佛山DRG,,3,blue,red,1327,1,charlotte|kaizer|chang'e|geya|kong kong er,yang jian|jing|shen mengxi|chano|su lie
+2025夏,Stage 3,2025-08-07,佛山DRG,,4,blue,red,1247,1,biron|dongfang yao|nuwa|sun quan|dyadia,ma chao|menki|lady zhen|ge ya|yuhuan
+2025夏,Stage 3,2025-08-07,佛山DRG,,5,red,blue,1121,1,guan yu|agudo|xiao qiao|hou yi|su lie,mayene|bajie|haya|arli|zhang liang
+2025夏,Stage 3,2025-08-07,上海RNG.M,北京JDG,1,red,blue,1017,1,ma chao|augran|ying zheng|ge ya|dyadia,sikong zhen|nezha|shen mengxi|lady sun|taiyi zhenren
+2025夏,Stage 3,2025-08-07,上海RNG.M,北京JDG,2,blue,red,952,2,dharma|kaizer|xiao qiao|arli|zhang fei,biron|ukyo tachibana|ying zheng|ge ya|kong kong er
+2025夏,Stage 3,2025-08-07,上海RNG.M,北京JDG,3,red,blue,897,1,charlotte|menki|lady zhen|chano|sakeer,cao cao|kaizer|heino|shouyue|dyadia
+2025夏,Stage 3,2025-08-07,上海RNG.M,北京JDG,4,red,blue,1114,2,fuzi|yang jian|nuwa|lady sun|kong kong er,ma chao|flowborn (tank)|lady zhen|erin|da qiao
+2025夏,Stage 3,2025-08-07,上海RNG.M,北京JDG,5,red,blue,1019,2,guan yu|agudo|gan & mo|di renjie|mozi,allain|dun|xiao qiao|arli|dolia
+2025夏,Stage 3,2025-08-08,,佛山DRG,1,red,blue,732,2,charlotte|nezha|heino|arli|dyadia,biron|ukyo tachibana|ziya|ge ya|kong kong er
+2025夏,Stage 3,2025-08-08,,佛山DRG,2,blue,red,1163,2,shadow|menki|shen mengxi|chano|taiyi zhenren,guan yu|ying|wang zhaojun|shouyue|zhang liang
+2025夏,Stage 3,2025-08-08,,佛山DRG,3,red,blue,1267,2,cao cao|dun|xiao qiao|ge ya|dolia,sikong zhen|agudo|shi|sun quan|taiyi zhenren
+2025夏,Stage 3,2025-08-08,重庆狼队,北京WB,1,red,blue,1262,1,charlotte|augran|mai shiranui|chano|kong kong er,cao cao|musashi|shen mengxi|lady sun|taiyi zhenren
+2025夏,Stage 3,2025-08-08,重庆狼队,北京WB,2,blue,red,874,2,ma chao|jing|wang zhaojun|fang|liang,guan yu|pei|gan & mo|hou yi|zhuangzi
+2025夏,Stage 3,2025-08-08,重庆狼队,北京WB,3,red,blue,775,1,guan yu|pei|shen mengxi|di renjie|zhang fei,charlotte|dun|chang'e|luban no.7|master luban
+2025夏,Stage 3,2025-08-08,重庆狼队,北京WB,4,blue,red,1070,2,biron|menki|lady zhen|arli|dyadia,shadow|agudo|xiao qiao|shouyue|su lie
+2025夏,Stage 3,2025-08-08,重庆狼队,北京WB,5,red,blue,1233,2,shadow|flowborn (tank)|da qiao|agudo|fuzi,meng tian|jing|nuwa|arli|dyadia
+2025夏,Stage 3,2025-08-09,上海EDG.M,北京JDG,1,red,blue,1312,1,biron|augran|lady zhen|chano|zhang fei,charlotte|yang jian|ying zheng|ge ya|dolia
+2025夏,Stage 3,2025-08-09,上海EDG.M,北京JDG,2,blue,red,882,2,lu bu (honor of kings)|kaizer|chang'e|arli|kong kong er,biron|menki|shen mengxi|shouyue|dyadia
+2025夏,Stage 3,2025-08-09,上海EDG.M,北京JDG,3,red,blue,891,2,dharma|agudo|xiao qiao|shouyue|su lie,sikong zhen|flowborn (tank)|lady zhen|ao'yin|da qiao
+2025夏,Stage 3,2025-08-09,上海EDG.M,北京JDG,4,blue,red,915,2,bai qi|ukyo tachibana|nuwa|ge ya|dyadia,cao cao|kaizer|haya|erin|mozi
+2025夏,Stage 3,2025-08-09,杭州LGD.NBW,广州TTG,1,blue,red,725,2,charlotte|flowborn (tank)|haya|chano|kong kong er,cao cao|augran|shen mengxi|arli|taiyi zhenren
+2025夏,Stage 3,2025-08-09,杭州LGD.NBW,广州TTG,2,blue,red,763,2,mayene|kaizer|nuwa|arli|dyadia,shadow|yang jian|haya|chano|dolia
+2025夏,Stage 3,2025-08-09,杭州LGD.NBW,广州TTG,3,blue,red,742,1,guan yu|ukyo tachibana|mai shiranui|ge ya|su lie,charlotte|kaizer|jin chan|lady sun|zhang fei
+2025夏,Stage 3,2025-08-09,杭州LGD.NBW,广州TTG,4,blue,red,885,2,yang jian|jing|ziya|ao'yin|taiyi zhenren,sun ce|flowborn (tank)|lady zhen|ge ya|su lie
+2025夏,Stage 3,2025-08-09,成都AG超玩会,苏州KSG,1,red,blue,847,1,biron|kaizer|lady zhen|arli|sun bin,charlotte|yang jian|xiao qiao|ge ya|kong kong er
+2025夏,Stage 3,2025-08-09,成都AG超玩会,苏州KSG,2,blue,red,1275,1,shadow|agudo|shen mengxi|chano|su lie,cao cao|augran|ying zheng|ao'yin|dyadia
+2025夏,Stage 3,2025-08-09,成都AG超玩会,苏州KSG,3,blue,red,879,1,cao cao|menki|ying zheng|ge ya|kong kong er,biron|luna|shen mengxi|lady sun|taiyi zhenren
+2025夏,Stage 3,2025-08-10,上海RNG.M,,1,red,blue,920,2,dharma|menki|nuwa|chano|dyadia,ma chao|kaizer|xiao qiao|di renjie|kong kong er
+2025夏,Stage 3,2025-08-10,上海RNG.M,,2,red,blue,1097,1,guan yu|nezha|shen mengxi|ge ya|taiyi zhenren,mayene|flowborn (tank)|nuwa|arli|dyadia
+2025夏,Stage 3,2025-08-10,上海RNG.M,,3,red,blue,1320,1,biron|kaizer|ying zheng|ao'yin|dolia,yang jian|nezha|haya|chano|su lie
+2025夏,Stage 3,2025-08-10,上海RNG.M,,4,blue,red,1116,2,mayene|agudo|xiao qiao|hou yi|mozi,cao cao|augran|shi|lady sun|taiyi zhenren
+2025夏,Stage 3,2025-08-10,上海RNG.M,,5,blue,red,721,1,sikong zhen|yang jian|ziya|arli|su lie,charlotte|dun|wang zhaojun|ge ya|liang
+2025夏,Stage 3,2025-08-10,杭州LGD.NBW,北京WB,1,blue,red,809,2,sikong zhen|agudo|haya|geya|kong kong er,charlotte|musashi|shen mengxi|arli|zhang fei
+2025夏,Stage 3,2025-08-10,杭州LGD.NBW,北京WB,2,red,blue,743,2,mayene|jing|yang yuhuan|di renjie|zhang fei,guan yu|pei|mai|luban no.7|master luban
+2025夏,Stage 3,2025-08-10,杭州LGD.NBW,北京WB,3,red,blue,921,2,shadow|yang jian|ying zheng|arli|dolia,cao cao|flowborn (tank)|nuwa|lady sun|taiyi zhenren
+2025夏,Stage 3,2025-08-10,成都AG超玩会,重庆狼队,1,blue,red,752,1,ma chao|kaizer|lady zhen|chano|dyadia,sun ce|yang jian|shen mengxi|ge ya|dolia
+2025夏,Stage 3,2025-08-10,成都AG超玩会,重庆狼队,2,blue,red,778,1,biron|augran|xiao qiao|ao'yin|taiyi zhenren,lu bu (honor of kings)|pei|ying zheng|erin|kong kong er
+2025夏,Stage 3,2025-08-10,成都AG超玩会,重庆狼队,3,blue,red,1279,1,charlotte|yang jian|angela|arli|dolia,guan yu|flowborn (tank)|xiao qiao|chano|su lie
+2025夏,Stage 3,2025-08-13,,,1,red,blue,906,1,charlotte|kaizer|mai shiranui|ao'yin|dyadia,biron|jing|xiao qiao|di renjie|kong kong er
+2025夏,Stage 3,2025-08-13,,,2,red,blue,758,1,ma chao|nezha|haya|chano|dolia,mi yue|yang jian|lady zhen|ge ya|su lie
+2025夏,Stage 3,2025-08-13,,,3,red,blue,1297,1,sikong zhen|ukyo tachibana|ying zheng|ge ya|su lie,meng tian|augran|shen mengxi|chano|taiyi zhenren
+2025夏,Stage 3,2025-08-13,杭州LGD.NBW,苏州KSG,1,red,blue,653,2,cao cao|kaizer|haya|arli|taiyi zhenren,dharma|nakoruru|shen mengxi|shouyue|kong kong er
+2025夏,Stage 3,2025-08-13,杭州LGD.NBW,苏州KSG,2,blue,red,695,2,charlotte|flowborn (tank)|mai shiranui|erin|master luban,meng tian|pei|ying zheng|di renjie|cai yan
+2025夏,Stage 3,2025-08-13,杭州LGD.NBW,苏州KSG,3,red,blue,1272,1,yang jian|augran|nuwa|ge ya|dyadia,guan yu|kaizer|lady zhen|sun quan|su lie
+2025夏,Stage 3,2025-08-13,杭州LGD.NBW,苏州KSG,4,blue,red,598,2,mayene|ukyo tachibana|shen mengxi|chano|su lie,biron|feyd|angela|ge ya|toro (honor of kings)
+2025夏,Stage 3,2025-08-14,上海RNG.M,佛山DRG,1,red,blue,750,1,charlotte|nezha|heino|chano|dyadia,biron|menki|ziya|arli|kong kong er
+2025夏,Stage 3,2025-08-14,上海RNG.M,佛山DRG,2,blue,red,993,2,cao cao|flowborn (tank)|liang|luban no.7|master luban,guan yu|pei|shi|di renjie|sun bin
+2025夏,Stage 3,2025-08-14,上海RNG.M,佛山DRG,3,red,blue,906,1,shadow|kaizer|ying zheng|erin|dolia,meng tian|ukyo tachibana|lady zhen|ge ya|su lie
+2025夏,Stage 3,2025-08-14,上海RNG.M,佛山DRG,4,blue,red,881,2,sikong zhen|agudo|shen mengxi|arli|taiyi zhenren,ma chao|flowborn (tank)|wang zhaojun|sun quan|liang
+2025夏,Stage 3,2025-08-14,上海RNG.M,佛山DRG,5,red,blue,863,2,guan yu|menki|xiao qiao|lady sun|sakeer,mayene|augran|wu ze tian|chano|taiyi zhenren
+2025夏,Stage 3,2025-08-14,北京WB,成都AG超玩会,1,blue,red,1349,2,charlotte|flowborn (tank)|lady zhen|arli|su lie,cao cao|yang jian|ying zheng|chano|kong kong er
+2025夏,Stage 3,2025-08-14,北京WB,成都AG超玩会,2,red,blue,930,1,guan yu|kaizer|haya|shouyue|dyadia,biron|augran|shen mengxi|di renjie|zhang fei
+2025夏,Stage 3,2025-08-14,北京WB,成都AG超玩会,3,blue,red,1229,1,cao cao|pei|jin chan|lady sun|taiyi zhenren,guan yu|flowborn (tank)|mai shiranui|ge ya|dyadia
+2025夏,Stage 3,2025-08-14,北京WB,成都AG超玩会,4,blue,red,823,2,biron|menki|nuwa|hou yi|shieldun,ma chao|agudo|xiao qiao|garo|liang
+2025夏,Stage 3,2025-08-14,北京WB,成都AG超玩会,5,red,blue,684,1,meng tian|nakoruru|xiao qiao|ge ya|sun bin,allain|kaizer|angela|arli|dolia
+2025夏,Stage 3,2025-08-15,北京JDG,,1,red,blue,1183,2,guan yu|jing|lady zhen|di renjie|yang yuhuan,mayene|flowborn (tank)|chang'e|luban no.7|master luban
+2025夏,Stage 3,2025-08-15,北京JDG,,2,red,blue,1188,2,biron|yang jian|xiao qiao|chano|dolia,cao cao|kaizer|nuwa|hou yi|dyadia
+2025夏,Stage 3,2025-08-15,北京JDG,,3,blue,red,1100,2,fuzi|menki|shen mengxi|geya|kong kong er,ma chao|augran|heino|di renjie|su lie
+2025夏,Stage 3,2025-08-15,重庆狼队,广州TTG,1,red,blue,924,1,ma chao|jing|shen mengxi|ge ya|kong kong er,cao cao|yang jian|heino|consort yu|dolia
+2025夏,Stage 3,2025-08-15,重庆狼队,广州TTG,2,red,blue,1224,1,guan yu|kaizer|xiao qiao|chano|zhao huaizhen,mayene|agudo|mai shiranui|lady sun|taiyi zhenren
+2025夏,Stage 3,2025-08-15,重庆狼队,广州TTG,3,red,blue,885,1,mayene|augran|angela|agudo|liang,guan yu|menki|shen mengxi|arli|lian po
+2025夏,Stage 3,2025-08-16,上海RNG.M,上海EDG.M,1,red,blue,1035,2,biron|menki|da qiao|lady sun|taiyi zhenren,charlotte|kaizer|mai|arli|dyadia
+2025夏,Stage 3,2025-08-16,上海RNG.M,上海EDG.M,2,red,blue,795,2,ma chao|augran|nuwa|ao'yin|dyadia,fuzi|flowborn (tank)|ying zheng|chano|da qiao
+2025夏,Stage 3,2025-08-16,上海RNG.M,上海EDG.M,3,red,blue,1258,1,cao cao|yang jian|haya|arli|dolia,mayene|augran|lady zhen|erin|kong kong er
+2025夏,Stage 3,2025-08-16,上海RNG.M,上海EDG.M,4,blue,red,705,2,shadow|agudo|shen mengxi|erin|master luban,biron|musashi|yang yuhuan|di renjie|zhang fei
+2025夏,Stage 3,2025-08-16,北京WB,苏州KSG,1,blue,red,1194,1,biron|menki|shen mengxi|shouyue|su lie,guan yu|nakoruru|angela|arli|kong kong er
+2025夏,Stage 3,2025-08-16,北京WB,苏州KSG,2,blue,red,880,2,charlotte|flowborn (tank)|ying zheng|luban no.7|master luban,dharma|pei|nuwa|di renjie|guiguzi
+2025夏,Stage 3,2025-08-16,北京WB,苏州KSG,3,red,blue,905,1,cao cao|pei|mai shiranui|lady sun|taiyi zhenren,biron|feyd|xiao qiao|chano|zhao huaizhen
+2025夏,Stage 3,2025-08-16,北京WB,苏州KSG,4,blue,red,843,1,meng tian|agudo|lady zhen|chano|zhang liang,shadow|flowborn (tank)|da qiao|geya|wu ze tian
+2025夏,Stage 3,2025-08-16,重庆狼队,杭州LGD.NBW,1,blue,red,927,2,guan yu|yang jian|ying zheng|chano|dolia,biron|nakoruru|lady zhen|arli|kong kong er
+2025夏,Stage 3,2025-08-16,重庆狼队,杭州LGD.NBW,2,red,blue,1012,1,sikong zhen|augran|wang zhaojun|shouyue|liang,shadow|menki|shen mengxi|ge ya|taiyi zhenren
+2025夏,Stage 3,2025-08-16,重庆狼队,杭州LGD.NBW,3,blue,red,1009,2,lu bu (honor of kings)|kaizer|mai shiranui|ao'yin|toro (honor of kings),mi yue|flowborn (tank)|yuhuan|chano|su lie
+2025夏,Stage 3,2025-08-16,重庆狼队,杭州LGD.NBW,4,red,blue,1003,2,biron|pei|xiao qiao|ge ya|su lie,cao cao|kaizer|heino|di renjie|dyadia
+2025夏,Stage 3,2025-08-17,上海EDG.M,佛山DRG,1,red,blue,888,1,biron|nakoruru|xiao qiao|chano|zhang fei,cao cao|kaizer|wang zhaojun|arli|dyadia
+2025夏,Stage 3,2025-08-17,上海EDG.M,佛山DRG,2,blue,red,967,2,cao cao|flowborn (tank)|mai shiranui|erin|master luban,charlotte|pei|shi|di renjie|lian po
+2025夏,Stage 3,2025-08-17,上海EDG.M,佛山DRG,3,red,blue,697,1,yang jian|dun|haya|hou yi|dolia,shadow|augran|shen mengxi|sun quan|su lie
+2025夏,Stage 3,2025-08-17,上海EDG.M,佛山DRG,4,blue,red,1274,1,dharma|agudo|wu ze tian|ao'yin|su lie,guan yu|zhu bajie|nuwa|ge ya|liang
+2025夏,Stage 3,2025-08-17,,北京JDG,1,red,blue,1022,2,ma chao|nezha|xishi|arli|kong kong er,cao cao|kaizer|lady zhen|geya|dyadia
+2025夏,Stage 3,2025-08-17,,北京JDG,2,blue,red,945,2,biron|jing|mai|luban no.7|master luban,sikong zhen|agudo|xiao qiao|ao'yin|yang yuhuan
+2025夏,Stage 3,2025-08-17,,北京JDG,3,red,blue,852,1,dharma|yang jian|haya|shouyue|dolia,ma chao|flowborn (tank)|da qiao|arli|mozi
+2025夏,Stage 3,2025-08-17,,北京JDG,4,blue,red,694,2,charlotte|agudo|shen mengxi|geya|dyadia,yang jian|lam|mai|sun quan|zhang fei
+2025夏,Stage 3,2025-08-17,成都AG超玩会,广州TTG,1,red,blue,839,1,charlotte|pei|mai|di renjie|lian po,fuzi|kaizer|da qiao|luban no.7|master luban
+2025夏,Stage 3,2025-08-17,成都AG超玩会,广州TTG,2,red,blue,722,1,cao cao|kaizer|ying zheng|geya|dolia,ma chao|yang jian|xiao qiao|chano|kong kong er
+2025夏,Stage 3,2025-08-17,成都AG超玩会,广州TTG,3,blue,red,915,1,biron|jing|shen mengxi|chano|su lie,charlotte|augran|ying zheng|arli|dyadia
+2025夏,Playoffs,2025-08-21,北京JDG,佛山DRG,1,red,blue,1161,1,guan yu|kaizer|xiao qiao|hou yi|dyadia,mayene|zhu bajie|wang zhaojun|arli|liang
+2025夏,Playoffs,2025-08-21,北京JDG,佛山DRG,2,blue,red,719,2,sikong zhen|nezha|gan & mo|ao'yin|yuhuan,meng tian|jing|chang'e|luban no.7|master luban
+2025夏,Playoffs,2025-08-21,北京JDG,佛山DRG,3,red,blue,939,2,charlotte|dun|haya|sun quan|dolia,yang jian|dongfang yao|ying zheng|ge ya|dyadia
+2025夏,Playoffs,2025-08-21,北京JDG,佛山DRG,4,red,blue,1069,2,cao cao|menki|ying zheng|arli|da qiao,charlotte|flowborn (tank)|nuwa|chano|taiyi zhenren
+2025夏,Playoffs,2025-08-21,北京JDG,佛山DRG,5,blue,red,1145,1,biron|augran|angela|ge ya|kong kong er,cao cao|nakoruru|shen mengxi|sun quan|su lie
+2025夏,Playoffs,2025-08-21,北京JDG,佛山DRG,6,blue,red,1566,1,yang jian|flowborn (tank)|lady zhen|chano|sakeer,biron|ma chao|da qiao|shouyue|lian po
+2025夏,Playoffs,2025-08-21,北京JDG,佛山DRG,7,red,blue,1186,1,cao cao|flowborn (tank)|shen mengxi|luban no.7|master luban,cao cao|flowborn (tank)|shen mengxi|luban no.7|master luban
+2025夏,Playoffs,2025-08-22,成都AG超玩会,重庆狼队,1,red,blue,994,2,biron|kaizer|ying zheng|shouyue|sun bin,cao cao|augran|shi|ao'yin|kong kong er
+2025夏,Playoffs,2025-08-22,成都AG超玩会,重庆狼队,2,red,blue,1025,1,cao cao|jing|mai shiranui|di renjie|yuhuan,sikong zhen|yang jian|jin chan|luban no.7|master luban
+2025夏,Playoffs,2025-08-22,成都AG超玩会,重庆狼队,3,blue,red,940,2,sikong zhen|yang jian|chang'e|chano|dolia,charlotte|flowborn (tank)|shen mengxi|arli|donghuang
+2025夏,Playoffs,2025-08-22,成都AG超玩会,重庆狼队,4,red,blue,1300,1,charlotte|menki|nuwa|lady sun|taiyi zhenren,ma chao|agudo|ying zheng|ge ya|dyadia
+2025夏,Playoffs,2025-08-22,成都AG超玩会,重庆狼队,5,blue,red,1180,1,meng tian|pei|da qiao|fuzi|su lie,guan yu|jing|xiao qiao|lu bu (honor of kings)|liang
+2025夏,Playoffs,2025-08-22,成都AG超玩会,重庆狼队,6,blue,red,1416,1,shadow|zhu bajie|lady zhen|ge ya|toro (honor of kings),yuan ge|feyd|mai shiranui|chano|su lie
+2025夏,Playoffs,2025-08-23,,上海EDG.M,1,red,blue,1270,2,cao cao|kaizer|shen mengxi|arli|kong kong er,biron|dun|heino|chano|dyadia
+2025夏,Playoffs,2025-08-23,,上海EDG.M,2,blue,red,971,1,biron|flowborn (tank)|gan & mo|luban no.7|master luban,charlotte|jing|yang yuhuan|di renjie|lian po
+2025夏,Playoffs,2025-08-23,,上海EDG.M,3,blue,red,949,1,ma chao|yang jian|ying zheng|erin|dolia,sikong zhen|flowborn (tank)|lady zhen|ao'yin|da qiao
+2025夏,Playoffs,2025-08-23,,上海EDG.M,4,blue,red,831,2,dharma|nezha|chang'e|geya|su lie,miyue|kaizer|shen mengxi|sun quan|zhang fei
+2025夏,Playoffs,2025-08-23,,上海EDG.M,5,red,blue,873,1,sikong zhen|ukyo|lady zhen|chano|zhang fei,meng tian|nakoruru|xishi|geya|taiyi zhenren
+2025夏,Playoffs,2025-08-23,,上海EDG.M,6,blue,red,529,2,charlotte|agudo|heino|sun quan|taiyi zhenren,cao cao|augran|gan & mo|arli|kong kong er
+2025夏,Playoffs,2025-08-23,,上海EDG.M,7,blue,red,891,1,cao cao|flowborn (tank)|shen mengxi|luban no.7|master luban,cao cao|flowborn (tank)|shen mengxi|luban no.7|master luban
+2025夏,Playoffs,2025-08-24,北京WB,广州TTG,1,red,blue,918,1,biron|kaizer|haya|geya|dyadia,dharma|augran|shen mengxi|chano|su lie
+2025夏,Playoffs,2025-08-24,北京WB,广州TTG,2,red,blue,1271,1,charlotte|musashi|lady zhen|arli|su lie,sikong zhen|agudo|xishi|geya|kong kong er
+2025夏,Playoffs,2025-08-24,北京WB,广州TTG,3,blue,red,952,2,cao cao|pei|mai|flowborn (marksman)|master luban,fuzi|jing|yang yuhuan|di renjie|zhang fei
+2025夏,Playoffs,2025-08-24,北京WB,广州TTG,4,red,blue,1251,2,meng tian|agudo|gan & mo|hou yi|zhang liang,guan yu|kaizer|haya|lady sun|taiyi zhenren
+2025夏,Playoffs,2025-08-24,北京WB,广州TTG,5,red,blue,710,2,fuzi|augran|da qiao|chano|zhang fei,cao cao|flowborn (tank)|heino|ao'yin|dyadia
+2025夏,Playoffs,2025-08-24,北京WB,广州TTG,6,red,blue,865,1,lubu hok|jing|nuwa|di renjie|kong kong er,biron|dun|gan & mo|hou yi|dolia
+2025夏,Playoffs,2025-08-24,北京WB,广州TTG,7,red,blue,1001,2,meng tian|jing|shen mengxi|luban no.7|master luban,cao cao|flowborn (tank)|shen mengxi|luban no.7|master luban
+2025夏,Playoffs,2025-08-25,苏州KSG,北京JDG,1,red,blue,1320,1,cao cao|yang jian|angela|ao'yin|dolia,biron|flowborn (tank)|shen mengxi|luban no.7|master luban
+2025夏,Playoffs,2025-08-25,苏州KSG,北京JDG,2,blue,red,1037,2,bai qi|musashi|lady zhen|arli|dyadia,shadow|pei|xiao qiao|ge ya|kong kong er
+2025夏,Playoffs,2025-08-25,苏州KSG,北京JDG,3,red,blue,669,2,dharma|ukyo tachibana|ying zheng|chano|su lie,sikong zhen|kaizer|nuwa|sun quan|dyadia
+2025夏,Playoffs,2025-08-25,苏州KSG,北京JDG,4,red,blue,1033,1,biron|nakoruru|gan & mo|ge ya|zhang fei,charlotte|agudo|shi|garo|su lie
+2025夏,Playoffs,2025-08-25,苏州KSG,北京JDG,5,blue,red,1012,1,charlotte|jing|haya|garo|toro (honor of kings),yuan ge|augran|lady zhen|arli|taiyi zhenren
+2025夏,Playoffs,2025-08-25,苏州KSG,北京JDG,6,blue,red,1016,1,guan yu|augran|nuwa|lady sun|kong kong er,cao cao|jing|heino|consort yu|zhang fei
+2025夏,Playoffs,2025-08-26,杭州LGD.NBW,,1,red,blue,1033,1,cao cao|dun|lady zhen|arli|kong kong er,sikong zhen|yang jian|haya|erin|dolia
+2025夏,Playoffs,2025-08-26,杭州LGD.NBW,,2,blue,red,1085,2,guan yu|augran|shen mengxi|ao'yin|su lie,charlotte|kaizer|angela|ge ya|dyadia
+2025夏,Playoffs,2025-08-26,杭州LGD.NBW,,3,red,blue,658,1,mayene|jing|yuhuan|di renjie|zhang fei,dharma|ukyo tachibana|mai shiranui|luban no.7|master luban
+2025夏,Playoffs,2025-08-26,杭州LGD.NBW,,4,blue,red,905,1,ma chao|menki|wang zhaojun|ge ya|liang,shadow|agudo|lady zhen|chano|su lie
+2025夏,Playoffs,2025-08-26,杭州LGD.NBW,,5,blue,red,1401,2,biron|kaizer|heino|hou yi|dyadia,cao cao|nakoruru|xiao qiao|arli|taiyi zhenren
+2025夏,Playoffs,2025-08-26,杭州LGD.NBW,,6,red,blue,1139,1,charlotte|nakoruru|nuwa|chano|taiyi zhenren,biron|flowborn (tank)|ying zheng|ao'yin|toro (honor of kings)
+2025夏,Playoffs,2025-08-27,重庆狼队,苏州KSG,1,red,blue,953,1,charlotte|flowborn (tank)|shen mengxi|arli|kong kong er,biron|menki|yang yuhuan|chano|su lie
+2025夏,Playoffs,2025-08-27,重庆狼队,苏州KSG,2,blue,red,810,1,biron|pei|yang yuhuan|di renjie|zhong kui,sun ce|ukyo|wang zhaojun|luban no.7|master luban
+2025夏,Playoffs,2025-08-27,重庆狼队,苏州KSG,3,blue,red,918,1,sikong zhen|agudo|chang'e|chano|su lie,cao cao|augran|shen mengxi|lady sun|taiyi zhenren
+2025夏,Playoffs,2025-08-27,重庆狼队,苏州KSG,4,blue,red,1290,2,guan yu|jing|haya|erin|shieldun,ma chao|yang jian|nuwa|ao'yin|eclipse
+2025夏,Playoffs,2025-08-27,重庆狼队,苏州KSG,5,red,blue,724,1,lubu hok|augran|xishi|lady sun|dyadia,dharma|nakoruru|haya|arli|zhang fei
+2025夏,Playoffs,2025-08-28,北京WB,杭州LGD.NBW,1,red,blue,663,1,cao cao|pei|shen mengxi|di renjie|lian po,charlotte|kaizer|wang zhaojun|luban no.7|master luban
+2025夏,Playoffs,2025-08-28,北京WB,杭州LGD.NBW,2,blue,red,1576,2,lu bu (honor of kings)|jing|heino|arli|su lie,biron|ukyo tachibana|xiao qiao|erin|kong kong er
+2025夏,Playoffs,2025-08-28,北京WB,杭州LGD.NBW,3,red,blue,880,1,charlotte|kaizer|nuwa|ge ya|taiyi zhenren,yang jian|menki|lady zhen|chano|dolia
+2025夏,Playoffs,2025-08-28,北京WB,杭州LGD.NBW,4,blue,red,1344,1,biron|flowborn (tank)|xiao qiao|chano|liang,yuan ge|jing|nuwa|arli|su lie
+2025夏,Playoffs,2025-08-28,北京WB,杭州LGD.NBW,5,blue,red,677,1,shadow|nakoruru|haya|agudo|dyadia,meng tian|pei|heino|ge ya|taiyi zhenren
+2025夏,Playoffs,2025-08-29,成都AG超玩会,广州TTG,1,red,blue,966,2,sikong zhen|dun|xiao qiao|ao'yin|dolia,biron|kaizer|shen mengxi|luban no.7|master luban
+2025夏,Playoffs,2025-08-29,成都AG超玩会,广州TTG,2,red,blue,977,1,guan yu|kaizer|nuwa|arli|dyadia,cao cao|ukyo tachibana|xiao qiao|chano|su lie
+2025夏,Playoffs,2025-08-29,成都AG超玩会,广州TTG,3,blue,red,781,1,yang jian|agudo|lady zhen|ge ya|kong kong er,charlotte|augran|gan & mo|arli|dyadia
+2025夏,Playoffs,2025-08-29,成都AG超玩会,广州TTG,4,blue,red,1035,2,cao cao|pei|ying zheng|lady sun|taiyi zhenren,ma chao|dun|chang'e|ao'yin|dolia
+2025夏,Playoffs,2025-08-29,成都AG超玩会,广州TTG,5,red,blue,888,1,meng tian|nakoruru|heino|luban no.7|master luban,lu bu (honor of kings)|agudo|shi|di renjie|zhang fei
+2025夏,Playoffs,2025-08-29,成都AG超玩会,广州TTG,6,blue,red,831,1,ma chao|zhu bajie|haya|erin|liang,guan yu|flowborn (tank)|wu ze tian|hou yi|mozi
+2025夏,Playoffs,2025-08-30,重庆狼队,北京WB,1,blue,red,1129,2,cao cao|pei|yuhuan|ao'yin|lian po,biron|augran|shen mengxi|di renjie|master luban
+2025夏,Playoffs,2025-08-30,重庆狼队,北京WB,2,red,blue,1069,2,sikong zhen|flowborn (tank)|xiao qiao|lady sun|kong kong er,charlotte|dun|chang'e|arli|su lie
+2025夏,Playoffs,2025-08-30,重庆狼队,北京WB,3,red,blue,932,1,guan yu|jing|wang zhaojun|chano|liang,ma chao|kaizer|xiao qiao|hou yi|zhang fei
+2025夏,Playoffs,2025-08-30,重庆狼队,北京WB,4,blue,red,1008,2,charlotte|agudo|ying zheng|arli|su lie,cao cao|yang jian|lady zhen|ge ya|dyadia
+2025夏,Playoffs,2025-08-30,重庆狼队,北京WB,5,red,blue,1135,2,biron|kaizer|shen mengxi|ge ya|zhao huaizhen,guan yu|pei|haya|lady sun|mozi
+2025夏,Playoffs,2025-08-31,广州TTG,北京WB,1,blue,red,855,2,nezha|agudo|heino|arli|dyadia,charlotte|pei|xiao qiao|ge ya|kong kong er
+2025夏,Playoffs,2025-08-31,广州TTG,北京WB,2,red,blue,1570,1,mayene|flowborn (tank)|shen mengxi|chano|taiyi zhenren,guan yu|kaizer|haya|arli|sun bin
+2025夏,Playoffs,2025-08-31,广州TTG,北京WB,3,blue,red,783,2,biron|jing|lady zhen|shouyue|zhang liang,sikong zhen|dun|wang zhaojun|hou yi|dolia
+2025夏,Playoffs,2025-08-31,广州TTG,北京WB,4,red,blue,881,2,charlotte|menki|mai shiranui|di renjie|yuhuan,cao cao|ukyo tachibana|nuwa|luban no.7|master luban
+2025夏,Playoffs,2025-08-31,广州TTG,北京WB,5,red,blue,1274,1,yang jian|augran|haya|lady sun|zhang fei,shadow|flowborn (tank)|shen mengxi|chano|su lie
+2025夏,Playoffs,2025-08-31,广州TTG,北京WB,6,blue,red,1079,2,cao cao|kaizer|gan & mo|ge ya|zhuangzi,biron|nakoruru|lady zhen|agudo|lian po
+2025夏,Playoffs,2025-09-07,成都AG超玩会,北京WB,1,red,blue,1272,1,charlotte|pei|xiao qiao|ao'yin|yuhuan,cao cao|gao changgong|nuwa|luban no.7|master luban
+2025夏,Playoffs,2025-09-07,成都AG超玩会,北京WB,2,blue,red,852,1,sun ce|yang jian|shen mengxi|chano|taiyi zhenren,guan yu|agudo|wang zhaojun|ge ya|liang
+2025夏,Playoffs,2025-09-07,成都AG超玩会,北京WB,3,blue,red,885,1,cao cao|augran|heino|arli|su lie,biron|pei|xiao qiao|lady sun|kong kong er
+2025夏,Playoffs,2025-09-07,成都AG超玩会,北京WB,4,blue,red,1083,2,sikong zhen|kaizer|lady zhen|di renjie|dolia,charlotte|dongfang yao|shen mengxi|shouyue|su lie
+2025夏,Playoffs,2025-09-07,成都AG超玩会,北京WB,5,red,blue,1266,1,ma chao|agudo|haya|ge ya|kong kong er,yang jian|flowborn (tank)|lady zhen|erin|taiyi zhenren
+2026春,Stage 1,2026-01-14,武汉eStarPro,北京JDG,1,red,blue,944,1,charlotte|pei|catboom|arli|zhang fei,dharma|feyd|xiao qiao|ge ya|kong kong er
+2026春,Stage 1,2026-01-14,武汉eStarPro,北京JDG,2,red,blue,976,2,biron|ukyo tachibana|shi|lady sun|taiyi zhenren,charlotte|augran|catboom|chano|dyadia
+2026春,Stage 1,2026-01-14,武汉eStarPro,北京JDG,3,blue,red,721,2,sikong zhen|nakoruru|xiao qiao|ge ya|kong kong er,cao cao|flowborn (tank)|heino|arli|taiyi zhenren
+2026春,Stage 1,2026-01-14,武汉eStarPro,北京JDG,4,red,blue,810,1,ma chao|flowborn (tank)|ying zheng|di renjie|master luban,sikong zhen|yang jian|angela|ao'yin|dolia
+2026春,Stage 1,2026-01-14,武汉eStarPro,北京JDG,5,red,blue,863,2,menki|chicha|mai shiranui|ao'yin|su lie,umbrosa|zhu bajie|nuwa|erin|shieldun
+2026春,Stage 1,2026-01-14,深圳DYG,重庆狼队,1,blue,red,905,2,cao cao|pei|xiao qiao|ge ya|kong kong er,biron|augran|catboom|arli|su lie
+2026春,Stage 1,2026-01-14,深圳DYG,重庆狼队,2,blue,red,935,1,biron|ukyo tachibana|wang zhaojun|chicha|master luban,charlotte|han xin|xiao qiao|ao'yin|flowborn (support)
+2026春,Stage 1,2026-01-14,深圳DYG,重庆狼队,3,red,blue,1065,1,meng tian|nakoruru|catboom|lady sun|taiyi zhenren,umbrosa|zhu bajie|shi|ge ya|dyadia
+2026春,Stage 1,2026-01-14,深圳DYG,重庆狼队,4,blue,red,1303,1,dharma|yang jian|haya|fang|dolia,lu bu (honor of kings)|agudo|nuwa|erin|zhang fei
+2026春,Stage 1,2026-01-14,北京WB,成都AG超玩会,1,red,blue,877,2,lu bu (honor of kings)|jing|shi|lady sun|taiyi zhenren,meng tian|pei|catboom|erin|shieldun
+2026春,Stage 1,2026-01-14,北京WB,成都AG超玩会,2,blue,red,1211,2,meng tian|pei|angela|dr bian|master luban,charlotte|augran|nuwa|ao'yin|flowborn (support)
+2026春,Stage 1,2026-01-14,北京WB,成都AG超玩会,3,red,blue,842,1,biron|nakoruru|chang'e|ao'yin|su lie,guan yu|kaizer|mai shiranui|geya|dyadia
+2026春,Stage 1,2026-01-14,北京WB,成都AG超玩会,4,blue,red,717,1,charlotte|musashi|catboom|arli|zhang fei,ma chao|ukyo tachibana|chang'e|chicha|kong kong er
+2026春,Stage 1,2026-01-14,北京WB,成都AG超玩会,5,blue,red,886,1,guan yu|ying|haya|geya|lian po,biron|feyd|lady zhen|chano|taiyi zhenren
+2026春,Stage 1,2026-01-15,,长沙TES.A,1,blue,red,1331,1,umbrosa|dun|xiao qiao|geya|kong kong er,biron|jing|heino|arli|zhang fei
+2026春,Stage 1,2026-01-15,,长沙TES.A,2,red,blue,1007,1,biron|agudo|catboom|chicha|su lie,charlotte|flowborn (tank)|mai shiranui|erin|shieldun
+2026春,Stage 1,2026-01-15,,长沙TES.A,3,red,blue,718,1,cao cao|augran|mai shiranui|di renjie|flowborn (support),ma chao|kaizer|ying zheng|consort yu|master luban
+2026春,Stage 1,2026-01-15,南京Hero久竞,广州TTG,1,red,blue,755,2,biron|augran|mai shiranui|arli|yuhuan,cao cao|ukyo tachibana|catboom|geya|kong kong er
+2026春,Stage 1,2026-01-15,南京Hero久竞,广州TTG,2,blue,red,917,1,umbrosa|flowborn (tank)|nuwa|erin|dyadia,charlotte|augran|mai shiranui|arli|lian po
+2026春,Stage 1,2026-01-15,南京Hero久竞,广州TTG,3,blue,red,1094,2,ma chao|agudo|catboom|geya|su lie,chicha|yang jian|nuwa|sun quan|dolia
+2026春,Stage 1,2026-01-15,南京Hero久竞,广州TTG,4,blue,red,846,2,sikong zhen|kaizer|haya|luban no.7|master luban,dharma|jing|yuhuan|di renjie|zhang fei
+2026春,Stage 1,2026-01-15,佛山DRG,苏州KSG,1,red,blue,749,2,biron|pei|xiao qiao|ge ya|kong kong er,charlotte|ying|catboom|arli|su lie
+2026春,Stage 1,2026-01-15,佛山DRG,苏州KSG,2,blue,red,1376,2,cao cao|augran|catboom|chano|su lie,biron|nakoruru|haya|ge ya|dyadia
+2026春,Stage 1,2026-01-15,佛山DRG,苏州KSG,3,blue,red,1248,1,fuzi|dun|nuwa|ao'yin|dyadia,ma chao|flowborn (tank)|angela|chicha|donghuang
+2026春,Stage 1,2026-01-15,佛山DRG,苏州KSG,4,red,blue,671,2,ma chao|yang jian|wu ze tian|fang|dolia,mayene|musashi|nuwa|ao'yin|kong kong er
+2026春,Stage 1,2026-01-16,深圳DYG,济南RW侠,1,red,blue,741,2,biron|pei|catboom|arli|zhang fei,dharma|feyd|xiao qiao|geya|kong kong er
+2026春,Stage 1,2026-01-16,深圳DYG,济南RW侠,2,blue,red,807,1,umbrosa|augran|gan & mo|geya|su lie,biron|agudo|angela|arli|dyadia
+2026春,Stage 1,2026-01-16,深圳DYG,济南RW侠,3,red,blue,1084,2,ma chao|yang jian|angela|chicha|dolia,cao cao|flowborn (tank)|nuwa|erin|su lie
+2026春,Stage 1,2026-01-16,深圳DYG,济南RW侠,4,blue,red,679,2,dharma|ukyo tachibana|jin chan|luban no.7|master luban,charlotte|jing|mai shiranui|ao'yin|zhang fei
+2026春,Stage 1,2026-01-16,,上海RNG.M,1,blue,red,1662,1,sikong zhen|nezha|angela|ao'yin|shieldun,dharma|luna|shi|lady sun|taiyi zhenren
+2026春,Stage 1,2026-01-16,,上海RNG.M,2,blue,red,787,2,lu bu (honor of kings)|flowborn (tank)|nuwa|arli|dyadia,biron|jing|ziya|geya|zhang fei
+2026春,Stage 1,2026-01-16,,上海RNG.M,3,blue,red,1112,2,biron|agudo|catboom|hou yi|su lie,chicha|augran|heino|chano|dyadia
+2026春,Stage 1,2026-01-16,,上海RNG.M,4,red,blue,830,1,meng tian|musashi|shi|lady sun|taiyi zhenren,cao cao|menki|haya|di renjie|flowborn (support)
+2026春,Stage 1,2026-01-16,,上海RNG.M,5,red,blue,589,2,fuzi|yang jian|heino|chicha|zhang fei,ma chao|ukyo tachibana|xiao qiao|ao'yin|kong kong er
+2026春,Stage 1,2026-01-16,杭州LGD.NBW,重庆狼队,1,blue,red,1023,2,charlotte|zhu bajie|catboom|erin|shieldun,guan yu|augran|xiao qiao|chicha|su lie
+2026春,Stage 1,2026-01-16,杭州LGD.NBW,重庆狼队,2,blue,red,772,1,cao cao|ukyo tachibana|yuhuan|geya|kong kong er,biron|nezha|mai shiranui|arli|dyadia
+2026春,Stage 1,2026-01-16,杭州LGD.NBW,重庆狼队,3,blue,red,719,2,sikong zhen|augran|ying zheng|chano|su lie,fuzi|agudo|catboom|lady sun|zhang fei
+2026春,Stage 1,2026-01-16,杭州LGD.NBW,重庆狼队,4,red,blue,974,1,chicha|jing|nuwa|di renjie|zhang fei,meng tian|pei|zhaojun|consort yu|master luban
+2026春,Stage 1,2026-01-16,杭州LGD.NBW,重庆狼队,5,blue,red,712,2,dharma|flowborn (tank)|angela|arli|dyadia,umbrosa|dun|ziya|geya|dolia
+2026春,Stage 1,2026-01-17,佛山DRG,武汉eStarPro,1,red,blue,1289,2,charlotte|musashi|catboom|arli|zhang fei,umbrosa|augran|xiao qiao|ge ya|kong kong er
+2026春,Stage 1,2026-01-17,佛山DRG,武汉eStarPro,2,red,blue,599,1,guan yu|feyd|shi|chicha|su lie,cao cao|dun|yuhuan|erin|shieldun
+2026春,Stage 1,2026-01-17,佛山DRG,武汉eStarPro,3,blue,red,1398,1,biron|pei|ying zheng|ao'yin|master luban,charlotte|ukyo tachibana|catboom|di renjie|zhang fei
+2026春,Stage 1,2026-01-17,佛山DRG,武汉eStarPro,4,blue,red,702,1,cao cao|flowborn (tank)|nuwa|lady sun|taiyi zhenren,ma chao|kaizer|ying zheng|arli|dyadia
+2026春,Stage 1,2026-01-17,,,1,blue,red,763,1,biron|yang jian|catboom|arli|dolia,cao cao|feyd|mai shiranui|ge ya|kong kong er
+2026春,Stage 1,2026-01-17,,,2,blue,red,733,1,sikong zhen|ma chao|yixing|lady sun|su lie,biron|agudo|catboom|garo|shieldun
+2026春,Stage 1,2026-01-17,,,3,red,blue,843,2,chicha|dun|haya|chano|dyadia,charlotte|flowborn (tank)|heino|arli|zhang fei
+2026春,Stage 1,2026-01-17,,,4,blue,red,914,2,dharma|jing|wu ze tian|erin|shieldun,guan yu|yang jian|yuhuan|lady sun|taiyi zhenren
+2026春,Stage 1,2026-01-17,,,5,red,blue,687,2,charlotte|pei|lady zhen|ao'yin|zhang fei,ma chao|augran|wang zhaojun|di renjie|master luban
+2026春,Stage 1,2026-01-17,成都AG超玩会,上海EDG.M,1,blue,red,679,2,charlotte|augran|mai shiranui|arli|kong kong er,biron|feyd|catboom|geya|taiyi zhenren
+2026春,Stage 1,2026-01-17,成都AG超玩会,上海EDG.M,2,red,blue,1112,1,biron|dun|ying zheng|geya|dyadia,sikong zhen|ukyo tachibana|haya|chicha|su lie
+2026春,Stage 1,2026-01-17,成都AG超玩会,上海EDG.M,3,blue,red,1138,2,cao cao|yang jian|zhaojun|consort yu|dolia,fuzi|kaizer|xiao qiao|arli|dyadia
+2026春,Stage 1,2026-01-17,成都AG超玩会,上海EDG.M,4,blue,red,850,1,ma chao|jing|catboom|erin|su lie,guan yu|yao|chang'e|chano|zhang fei
+2026春,Stage 1,2026-01-17,成都AG超玩会,上海EDG.M,5,red,blue,752,1,meng tian|musashi|nuwa|ao'yin|master luban,ma chao|yang jian|angela|di renjie|shieldun
+2026春,Stage 1,2026-01-18,北京JDG,苏州KSG,1,blue,red,981,2,cao cao|pei|xiao qiao|ge ya|kong kong er,charlotte|musashi|catboom|arli|zhang fei
+2026春,Stage 1,2026-01-18,北京JDG,苏州KSG,2,red,blue,719,1,meng tian|agudo|nuwa|chicha|dyadia,ma chao|ukyo tachibana|haya|ge ya|su lie
+2026春,Stage 1,2026-01-18,北京JDG,苏州KSG,3,red,blue,804,1,biron|jing|lady zhen|arli|su lie,umbrosa|augran|yuhuan|chano|dyadia
+2026春,Stage 1,2026-01-18,北京JDG,苏州KSG,4,red,blue,707,2,mayene|yang jian|ying zheng|shouyue|dolia,sikong zhen|nakoruru|wang zhaojun|erin|master luban
+2026春,Stage 1,2026-01-18,北京JDG,苏州KSG,5,blue,red,987,2,charlotte|augran|yuhuan|di renjie|flowborn (support),meng tian|jing|lady zhen|ao'yin|mozi
+2026春,Stage 1,2026-01-18,杭州LGD.NBW,济南RW侠,1,blue,red,840,2,cao cao|flowborn (tank)|chang'e|ao'yin|master luban,charlotte|pei|catboom|di renjie|zhang fei
+2026春,Stage 1,2026-01-18,杭州LGD.NBW,济南RW侠,2,blue,red,825,1,ma chao|ukyo tachibana|yuhuan|ge ya|kong kong er,biron|jing|mai shiranui|arli|liu bang
+2026春,Stage 1,2026-01-18,杭州LGD.NBW,济南RW侠,3,red,blue,668,2,charlotte|dun|nuwa|chano|taiyi zhenren,cao cao|flowborn (tank)|xiao qiao|ge ya|dyadia
+2026春,Stage 1,2026-01-18,杭州LGD.NBW,济南RW侠,4,blue,red,1103,1,guan yu|ying|haya|arli|su lie,dharma|augran|chang'e|chano|taiyi zhenren
+2026春,Stage 1,2026-01-18,杭州LGD.NBW,济南RW侠,5,red,blue,1199,2,meng tian|augran|ying zheng|chicha|zhang fei,ma chao|ukyo tachibana|nuwa|ao'yin|su lie
+2026春,Stage 1,2026-01-18,北京WB,长沙TES.A,1,red,blue,880,2,umbrosa|ukyo tachibana|catboom|ge ya|kong kong er,biron|feyd|heino|arli|lian po
+2026春,Stage 1,2026-01-18,北京WB,长沙TES.A,2,blue,red,941,1,charlotte|flowborn (tank)|angela|ao'yin|shieldun,sikong zhen|agudo|nuwa|chicha|su lie
+2026春,Stage 1,2026-01-18,北京WB,长沙TES.A,3,blue,red,1353,1,ma chao|yang jian|nuwa|fang|master luban,cao cao|kaizer|mai shiranui|ao'yin|flowborn (support)
+2026春,Stage 1,2026-01-18,北京WB,长沙TES.A,4,red,blue,740,1,biron|dun|xiao qiao|di renjie|kui,charlotte|yang jian|haya|luban no.7|dolia
+2026春,Stage 1,2026-01-21,上海EDG.M,,1,blue,red,649,1,biron|dun|wu ze tian|erin|shieldun,charlotte|flowborn (tank)|gan & mo|chicha|kong kong er
+2026春,Stage 1,2026-01-21,上海EDG.M,,2,blue,red,1201,2,ma chao|yang jian|catboom|ao'yin|dolia,cao cao|dun|chang'e|ge ya|dyadia
+2026春,Stage 1,2026-01-21,上海EDG.M,,3,blue,red,1114,2,fuzi|flowborn (tank)|nuwa|chicha|master luban,sikong zhen|agudo|mai shiranui|di renjie|su lie
+2026春,Stage 1,2026-01-21,上海EDG.M,,4,red,blue,853,2,sikong zhen|agudo|angela|chano|su lie,ma chao|augran|haya|arli|zhang fei
+2026春,Stage 1,2026-01-21,,济南RW侠,1,red,blue,643,1,charlotte|agudo|shi|lady sun|taiyi zhenren,cao cao|augran|mai shiranui|erin|shieldun
+2026春,Stage 1,2026-01-21,,济南RW侠,2,red,blue,747,1,chicha|flowborn (tank)|angela|ge ya|dyadia,meng tian|nakoruru|haya|ao'yin|su lie
+2026春,Stage 1,2026-01-21,,济南RW侠,3,red,blue,907,1,biron|ukyo tachibana|mai shiranui|erin|su lie,charlotte|agudo|catboom|arli|zhang fei
+2026春,Stage 1,2026-01-21,,长沙TES.A,1,red,blue,851,2,biron|jing|shi|hou yi|master luban,charlotte|dun|catboom|arli|dyadia
+2026春,Stage 1,2026-01-21,,长沙TES.A,2,blue,red,977,2,ma chao|ukyo tachibana|nuwa|ao'yin|zhang fei,cao cao|musashi|xiao qiao|ge ya|kong kong er
+2026春,Stage 1,2026-01-21,,长沙TES.A,3,blue,red,1091,1,cao cao|augran|catboom|ge ya|shieldun,guan yu|flowborn (tank)|angela|lady sun|taiyi zhenren
+2026春,Stage 1,2026-01-21,,长沙TES.A,4,blue,red,731,2,charlotte|flowborn (tank)|yuhuan|lady sun|su lie,biron|nakoruru|nuwa|di renjie|zhang fei
+2026春,Stage 1,2026-01-22,佛山DRG,广州TTG,1,red,blue,929,1,biron|nakoruru|nuwa|ge ya|su lie,cao cao|flowborn (tank)|ying zheng|erin|shieldun
+2026春,Stage 1,2026-01-22,佛山DRG,广州TTG,2,red,blue,748,1,charlotte|augran|catboom|ao'yin|flowborn (support),biron|pei|nuwa|chicha|master luban
+2026春,Stage 1,2026-01-22,佛山DRG,广州TTG,3,blue,red,784,2,chicha|yang jian|shi|arli|dolia,fuzi|augran|catboom|ge ya|zhang fei
+2026春,Stage 1,2026-01-22,佛山DRG,广州TTG,4,blue,red,909,2,umbrosa|pei|xiao qiao|di renjie|kong kong er,sikong zhen|jing|yuhuan|arli|lian po
+2026春,Stage 1,2026-01-22,佛山DRG,广州TTG,5,blue,red,748,2,guan yu|jing|haya|chano|mozi,charlotte|dun|shi|lady sun|taiyi zhenren
+2026春,Stage 1,2026-01-22,深圳DYG,上海RNG.M,1,blue,red,947,2,charlotte|nakoruru|angela|ge ya|kong kong er,biron|nezha|heino|arli|lian po
+2026春,Stage 1,2026-01-22,深圳DYG,上海RNG.M,2,red,blue,1018,1,chicha|dun|mai shiranui|di renjie|flowborn (support),charlotte|ukyo tachibana|nuwa|luban no.7|master luban
+2026春,Stage 1,2026-01-22,深圳DYG,上海RNG.M,3,blue,red,689,1,dharma|agudo|haya|garo|su lie,cao cao|menki|xiao qiao|ge ya|dyadia
+2026春,Stage 1,2026-01-22,深圳DYG,上海RNG.M,4,blue,red,824,1,zhu bajie|ying|catboom|erin|shieldun,meng tian|musashi|mai shiranui|lady sun|taiyi zhenren
+2026春,Stage 1,2026-01-22,南京Hero久竞,苏州KSG,1,blue,red,1320,1,cao cao|flowborn (tank)|wu ze tian|erin|master luban,sikong zhen|agudo|ying zheng|di renjie|shieldun
+2026春,Stage 1,2026-01-22,南京Hero久竞,苏州KSG,2,blue,red,940,2,ma chao|augran|catboom|ge ya|dyadia,guan yu|pei|chang'e|arli|kong kong er
+2026春,Stage 1,2026-01-22,南京Hero久竞,苏州KSG,3,red,blue,1110,1,biron|ying|nuwa|chano|mozi,umbrosa|jing|mai shiranui|erin|su lie
+2026春,Stage 1,2026-01-22,南京Hero久竞,苏州KSG,4,blue,red,851,2,umbrosa|dun|ziya|chicha|su lie,charlotte|flowborn (tank)|nuwa|ge ya|mozi
+2026春,Stage 1,2026-01-22,南京Hero久竞,苏州KSG,5,red,blue,729,1,sikong zhen|agudo|jin chan|lady sun|taiyi zhenren,biron|nakoruru|haya|chano|lian po
+2026春,Stage 1,2026-01-23,杭州LGD.NBW,,1,blue,red,1024,2,charlotte|bajie|xiao qiao|erin|shieldun,biron|nezha|nuwa|ao'yin|kong kong er
+2026春,Stage 1,2026-01-23,杭州LGD.NBW,,2,red,blue,847,2,umbrosa|jing|catboom|di renjie|zhang fei,meng tian|agudo|mai shiranui|ge ya|master luban
+2026春,Stage 1,2026-01-23,杭州LGD.NBW,,3,blue,red,882,2,biron|ying|nuwa|ge ya|su lie,charlotte|flowborn (tank)|shi|lady sun|taiyi zhenren
+2026春,Stage 1,2026-01-23,上海EDG.M,长沙TES.A,1,blue,red,1275,1,charlotte|ukyo tachibana|mai shiranui|chicha|master luban,cao cao|flowborn (tank)|catboom|di renjie|zhang fei
+2026春,Stage 1,2026-01-23,上海EDG.M,长沙TES.A,2,blue,red,1112,2,sikong zhen|ying|shi|ao'yin|shieldun,mayene|yang jian|nuwa|chicha|su lie
+2026春,Stage 1,2026-01-23,上海EDG.M,长沙TES.A,3,blue,red,767,2,umbrosa|augran|lady zhen|arli|su lie,biron|ukyo tachibana|xiao qiao|ge ya|taiyi zhenren
+2026春,Stage 1,2026-01-23,上海EDG.M,长沙TES.A,4,red,blue,790,1,cao cao|pei|catboom|ge ya|taiyi zhenren,charlotte|dun|haya|lady sun|dyadia
+2026春,Stage 1,2026-01-23,上海EDG.M,长沙TES.A,5,blue,red,1015,2,fuzi|kaizer|nuwa|erin|kong kong er,guan yu|feyd|heino|arli|lian po
+2026春,Stage 1,2026-01-23,济南RW侠,重庆狼队,1,red,blue,987,2,biron|feyd|nuwa|erin|shieldun,bai qi|ukyo tachibana|xiao qiao|ge ya|kong kong er
+2026春,Stage 1,2026-01-23,济南RW侠,重庆狼队,2,red,blue,914,2,ma chao|dun|xiao qiao|arli|kong kong er,charlotte|nezha|catboom|ao'yin|su lie
+2026春,Stage 1,2026-01-23,济南RW侠,重庆狼队,3,red,blue,808,2,guan yu|agudo|catboom|ge ya|mozi,ma chao|augran|heino|chicha|dyadia
+2026春,Stage 1,2026-01-24,广州TTG,武汉eStarPro,1,red,blue,1105,1,sikong zhen|nezha|catboom|arli|zhang fei,cao cao|augran|xiao qiao|ge ya|kong kong er
+2026春,Stage 1,2026-01-24,广州TTG,武汉eStarPro,2,blue,red,595,1,guan yu|ukyo tachibana|xiao qiao|erin|shieldun,ma chao|ying|haya|lady sun|taiyi zhenren
+2026春,Stage 1,2026-01-24,广州TTG,武汉eStarPro,3,blue,red,1553,1,ma chao|flowborn (tank)|nuwa|hou yi|yuhuan,charlotte|jing|catboom|ao'yin|su lie
+2026春,Stage 1,2026-01-24,南京Hero久竞,北京JDG,1,red,blue,1025,1,cao cao|dun|ying zheng|ao'yin|shieldun,ma chao|flowborn (tank)|nuwa|consort yu|master luban
+2026春,Stage 1,2026-01-24,南京Hero久竞,北京JDG,2,blue,red,917,2,umbrosa|augran|ziya|ge ya|su lie,meng tian|jing|haya|arli|dyadia
+2026春,Stage 1,2026-01-24,南京Hero久竞,北京JDG,3,red,blue,884,1,biron|yang jian|wu ze tian|fuzi|dolia,sikong zhen|ukyo tachibana|catboom|chicha|kong kong er
+2026春,Stage 1,2026-01-24,南京Hero久竞,北京JDG,4,blue,red,988,2,meng tian|ying|nuwa|chicha|taiyi zhenren,charlotte|kaizer|mai shiranui|ge ya|su lie
+2026春,Stage 1,2026-01-24,南京Hero久竞,北京JDG,5,red,blue,1128,1,guan yu|agudo|catboom|erin|zhang fei,cao cao|augran|heino|ao'yin|yuhuan
+2026春,Stage 1,2026-01-24,北京WB,,1,blue,red,1022,1,biron|augran|xiao qiao|ao'yin|master luban,cao cao|pei|haya|luban no.7|zhuangzi
+2026春,Stage 1,2026-01-24,北京WB,,2,red,blue,791,2,sikong zhen|bajie|catboom|arli|su lie,meng tian|feyd|mai shiranui|ge ya|kong kong er
+2026春,Stage 1,2026-01-24,北京WB,,3,red,blue,659,1,charlotte|agudo|nuwa|ge ya|mozi,biron|ma chao|yuhuan|arli|dyadia
+2026春,Stage 1,2026-01-24,北京WB,,4,red,blue,971,1,chicha|pei|chang'e|hou yi|zhang fei,sikong zhen|dun|nuwa|ao'yin|taiyi zhenren
+2026春,Stage 1,2026-01-25,重庆狼队,上海RNG.M,1,red,blue,962,1,biron|nezha|wang zhaojun|erin|master luban,bai qi|jing|angela|ao'yin|kong kong er
+2026春,Stage 1,2026-01-25,重庆狼队,上海RNG.M,2,blue,red,1462,1,cao cao|kaizer|catboom|chicha|shieldun,ma chao|ying|mai shiranui|sikong zhen|su lie
+2026春,Stage 1,2026-01-25,重庆狼队,上海RNG.M,3,blue,red,915,2,umbrosa|agudo|xiao qiao|ge ya|dyadia,meng tian|luna|haya|di renjie|flowborn (support)
+2026春,Stage 1,2026-01-25,重庆狼队,上海RNG.M,4,red,blue,810,1,guan yu|ying|haya|chano|lian po,chicha|agudo|jin chan|lady sun|taiyi zhenren
+2026春,Stage 1,2026-01-25,杭州LGD.NBW,深圳DYG,1,red,blue,588,2,charlotte|feyd|catboom|arli|zhang fei,cao cao|dun|xiao qiao|ge ya|kong kong er
+2026春,Stage 1,2026-01-25,杭州LGD.NBW,深圳DYG,2,red,blue,782,2,ma chao|kaizer|shi|lady sun|taiyi zhenren,dharma|agudo|lady zhen|chicha|shieldun
+2026春,Stage 1,2026-01-25,杭州LGD.NBW,深圳DYG,3,red,blue,824,2,sikong zhen|dun|nuwa|chicha|su lie,guan yu|augran|angela|ao'yin|lian po
+2026春,Stage 1,2026-01-25,成都AG超玩会,,1,red,blue,1135,1,cao cao|pei|shi|lady sun|taiyi zhenren,biron|nezha|nuwa|erin|shieldun
+2026春,Stage 1,2026-01-25,成都AG超玩会,,2,blue,red,1003,2,biron|jing|catboom|arli|lian po,umbrosa|augran|xiao qiao|ge ya|kong kong er
+2026春,Stage 1,2026-01-25,成都AG超玩会,,3,red,blue,1334,2,ma chao|augran|nuwa|consort yu|flowborn (support),chicha|jing|wang zhaojun|ao'yin|liang
+2026春,Stage 1,2026-01-25,成都AG超玩会,,4,red,blue,751,1,charlotte|agudo|ying zheng|chano|su lie,sikong zhen|flowborn (tank)|haya|sun quan|lian po
+2026春,Stage 1,2026-01-25,成都AG超玩会,,5,red,blue,654,2,sikong zhen|dun|xiao qiao|ge ya|dyadia,charlotte|yang jian|ying zheng|lady sun|taiyi zhenren
+2026春,Stage 1,2026-01-28,济南RW侠,上海RNG.M,1,red,blue,1905,2,sikong zhen|augran|angela|ao'yin|kong kong er,charlotte|dun|catboom|erin|shieldun
+2026春,Stage 1,2026-01-28,济南RW侠,上海RNG.M,2,red,blue,925,2,charlotte|pei|catboom|di renjie|donghuang,chicha|yang jian|xiao qiao|ao'yin|master luban
+2026春,Stage 1,2026-01-28,济南RW侠,上海RNG.M,3,red,blue,977,1,guan yu|flowborn (tank)|nuwa|ge ya|zhang fei,biron|ukyo tachibana|jin chan|sun quan|su lie
+2026春,Stage 1,2026-01-28,济南RW侠,上海RNG.M,4,blue,red,1053,1,biron|musashi|xiao qiao|chicha|su lie,ma chao|augran|ziya|ge ya|dyadia
+2026春,Stage 1,2026-01-28,济南RW侠,上海RNG.M,5,blue,red,1037,1,ma chao|yang jian|chang'e|chano|taiyi zhenren,umbrosa|luna|mai shiranui|lady sun|zhang fei
+2026春,Stage 1,2026-01-28,北京JDG,佛山DRG,1,blue,red,679,1,lu bu (honor of kings)|jing|xiao qiao|ge ya|kong kong er,meng tian|feyd|catboom|arli|zhang fei
+2026春,Stage 1,2026-01-28,北京JDG,佛山DRG,2,blue,red,1098,1,cao cao|ying|angela|ao'yin|shieldun,guan yu|nakoruru|xiao qiao|chicha|su lie
+2026春,Stage 1,2026-01-28,北京JDG,佛山DRG,3,blue,red,791,1,biron|feyd|catboom|erin|zhang fei,charlotte|dun|chang'e|ge ya|dyadia
+2026春,Stage 1,2026-01-28,广州TTG,苏州KSG,1,red,blue,1056,2,charlotte|musashi|catboom|arli|zhang fei,guan yu|augran|mai shiranui|ge ya|kong kong er
+2026春,Stage 1,2026-01-28,广州TTG,苏州KSG,2,red,blue,656,2,biron|pei|mai shiranui|ge ya|dyadia,umbrosa|flowborn (tank)|nuwa|ao'yin|su lie
+2026春,Stage 1,2026-01-28,广州TTG,苏州KSG,3,red,blue,1148,2,cao cao|dun|shi|lady sun|taiyi zhenren,charlotte|pei|catboom|chano|huaizhen
+2026春,Stage 1,2026-01-29,上海EDG.M,,1,red,blue,914,2,biron|augran|wu ze tian|ge ya|su lie,sikong zhen|dun|catboom|arli|kong kong er
+2026春,Stage 1,2026-01-29,上海EDG.M,,2,blue,red,949,1,sikong zhen|dun|ying zheng|erin|shieldun,cao cao|ukyo tachibana|xiao qiao|lady sun|taiyi zhenren
+2026春,Stage 1,2026-01-29,上海EDG.M,,3,red,blue,957,1,bai qi|ukyo tachibana|xiao qiao|arli|dyadia,umbrosa|augran|shi|ge ya|su lie
+2026春,Stage 1,2026-01-29,上海EDG.M,,4,blue,red,947,1,chicha|yang jian|catboom|hou yi|dolia,biron|jing|ying zheng|ao'yin|dyadia
+2026春,Stage 1,2026-01-29,南京Hero久竞,武汉eStarPro,1,blue,red,646,1,charlotte|menki|catboom|chano|su lie,biron|augran|angela|arli|dyadia
+2026春,Stage 1,2026-01-29,南京Hero久竞,武汉eStarPro,2,red,blue,949,1,cao cao|dun|nuwa|fang|shieldun,sikong zhen|flowborn (tank)|xiao qiao|ao'yin|master luban
+2026春,Stage 1,2026-01-29,南京Hero久竞,武汉eStarPro,3,blue,red,904,1,biron|jing|wu ze tian|ao'yin|dyadia,umbrosa|ukyo tachibana|nuwa|chicha|su lie
+2026春,Stage 1,2026-01-29,深圳DYG,,1,blue,red,1067,1,dharma|nakoruru|xiao qiao|ge ya|kong kong er,biron|yang jian|yuhuan|arli|zhang fei
+2026春,Stage 1,2026-01-29,深圳DYG,,2,red,blue,693,1,biron|agudo|catboom|ao'yin|mozi,lu bu (honor of kings)|ukyo tachibana|mai shiranui|chicha|master luban
+2026春,Stage 1,2026-01-29,深圳DYG,,3,red,blue,801,1,guan yu|kaizer|gan & mo|arli|zhang fei,mayene|agudo|lady zhen|ge ya|su lie
+2026春,Stage 1,2026-01-30,杭州LGD.NBW,上海RNG.M,1,blue,red,835,2,chicha|yang jian|angela|dr bian|master luban,sikong zhen|dun|lady zhen|ao'yin|flowborn (support)
+2026春,Stage 1,2026-01-30,杭州LGD.NBW,上海RNG.M,2,blue,red,760,1,ma chao|augran|mai shiranui|ge ya|kong kong er,charlotte|feyd|heino|arli|zhang fei
+2026春,Stage 1,2026-01-30,杭州LGD.NBW,上海RNG.M,3,blue,red,970,2,fuzi|agudo|catboom|chano|su lie,ma chao|kaizer|mai shiranui|erin|lian po
+2026春,Stage 1,2026-01-30,杭州LGD.NBW,上海RNG.M,4,red,blue,794,1,charlotte|ukyo tachibana|nuwa|ao'yin|lian po,biron|augran|ziya|ge ya|dyadia
+2026春,Stage 1,2026-01-30,杭州LGD.NBW,上海RNG.M,5,blue,red,940,1,cao cao|ying|haya|arli|zhang fei,umbrosa|yang jian|xiao qiao|consort yu|master luban
+2026春,Stage 1,2026-01-30,北京WB,,1,blue,red,754,1,sikong zhen|flowborn (tank)|catboom|erin|shieldun,charlotte|dun|mai shiranui|lady sun|taiyi zhenren
+2026春,Stage 1,2026-01-30,北京WB,,2,red,blue,1075,1,cao cao|pei|nuwa|di renjie|zhang fei,sikong zhen|flowborn (tank)|wang zhaojun|chicha|master luban
+2026春,Stage 1,2026-01-30,北京WB,,3,red,blue,786,1,meng tian|li bai|chang'e|ao'yin|taiyi zhenren,ma chao|zhu bajie|gan & mo|erin|su lie
+2026春,Stage 1,2026-01-30,成都AG超玩会,长沙TES.A,1,blue,red,811,1,biron|jing|chang'e|ao'yin|master luban,cao cao|dun|catboom|fang|zhang fei
+2026春,Stage 1,2026-01-30,成都AG超玩会,长沙TES.A,2,red,blue,853,2,sikong zhen|yang jian|heino|arli|zhang fei,biron|nakoruru|xiao qiao|ge ya|kong kong er
+2026春,Stage 1,2026-01-30,成都AG超玩会,长沙TES.A,3,blue,red,790,2,cao cao|agudo|wu ze tian|erin|shieldun,charlotte|ukyo tachibana|haya|chicha|su lie
+2026春,Stage 1,2026-01-30,成都AG超玩会,长沙TES.A,4,red,blue,931,1,ma chao|musashi|yuhuan|lady sun|taiyi zhenren,mayene|yang jian|nuwa|ao'yin|lian po
+2026春,Stage 1,2026-01-30,成都AG超玩会,长沙TES.A,5,blue,red,714,1,umbrosa|kaizer|haya|chicha|dyadia,sikong zhen|pei|angela|arli|taiyi zhenren
+2026春,Stage 1,2026-01-31,武汉eStarPro,苏州KSG,1,red,blue,771,2,biron|ying|catboom|arli|zhang fei,umbrosa|dun|xiao qiao|ge ya|kong kong er
+2026春,Stage 1,2026-01-31,武汉eStarPro,苏州KSG,2,red,blue,563,2,dharma|dun|nuwa|di renjie|shieldun,guan yu|ying|wang zhaojun|ao'yin|master luban
+2026春,Stage 1,2026-01-31,武汉eStarPro,苏州KSG,3,red,blue,759,2,cao cao|augran|shi|ge ya|dyadia,charlotte|jing|nuwa|chicha|su lie
+2026春,Stage 1,2026-01-31,北京JDG,广州TTG,1,red,blue,1487,1,sikong zhen|feyd|heino|arli|zhang fei,cao cao|ukyo tachibana|angela|ge ya|kong kong er
+2026春,Stage 1,2026-01-31,北京JDG,广州TTG,2,blue,red,1149,2,umbrosa|flowborn (tank)|chang'e|erin|shieldun,biron|agudo|catboom|sun quan|su lie
+2026春,Stage 1,2026-01-31,北京JDG,广州TTG,3,red,blue,787,2,ma chao|dun|catboom|ao'yin|dyadia,dharma|jing|haya|lady sun|taiyi zhenren
+2026春,Stage 1,2026-01-31,北京JDG,广州TTG,4,red,blue,848,2,biron|nakoruru|shi|ge ya|su lie,umbrosa|flowborn (tank)|nuwa|chicha|da qiao
+2026春,Stage 1,2026-01-31,重庆狼队,,1,red,blue,814,1,biron|feyd|catboom|ao'yin|liu bang,lu bu (honor of kings)|ukyo tachibana|yuhuan|erin|kong kong er
+2026春,Stage 1,2026-01-31,重庆狼队,,2,blue,red,706,1,fuzi|pei|xiao qiao|chicha|su lie,sikong zhen|nezha|catboom|sun quan|shieldun
+2026春,Stage 1,2026-01-31,重庆狼队,,3,blue,red,1239,1,bai qi|jing|shi|lady sun|taiyi zhenren,miyue|agudo|nuwa|chicha|su lie
+2026春,Stage 1,2026-02-01,佛山DRG,南京Hero久竞,1,red,blue,760,2,bai qi|ukyo tachibana|mai shiranui|arli|dyadia,sikong zhen|agudo|catboom|chano|taiyi zhenren
+2026春,Stage 1,2026-02-01,佛山DRG,南京Hero久竞,2,red,blue,654,2,biron|yang jian|catboom|ge ya|dolia,charlotte|ukyo tachibana|nuwa|ao'yin|kong kong er
+2026春,Stage 1,2026-02-01,佛山DRG,南京Hero久竞,3,red,blue,812,1,chicha|kaizer|nuwa|di renjie|shieldun,cao cao|flowborn (tank)|wu ze tian|erin|master luban
+2026春,Stage 1,2026-02-01,佛山DRG,南京Hero久竞,4,blue,red,916,2,cao cao|jing|yuhuan|chano|su lie,biron|pei|mai shiranui|ge ya|dyadia
+2026春,Stage 1,2026-02-01,北京WB,上海EDG.M,1,red,blue,1024,2,biron|pei|chang'e|di renjie|mozi,chicha|augran|mai shiranui|ge ya|master luban
+2026春,Stage 1,2026-02-01,北京WB,上海EDG.M,2,red,blue,819,1,lu bu (honor of kings)|feyd|mai shiranui|ao'yin|su lie,meng tian|ma chao|catboom|consort yu|zhang fei
+2026春,Stage 1,2026-02-01,北京WB,上海EDG.M,3,red,blue,828,1,guan yu|agudo|nuwa|ge ya|flowborn (support),biron|kaizer|xiao qiao|ao'yin|dyadia
+2026春,Stage 1,2026-02-01,北京WB,上海EDG.M,4,blue,red,688,1,chicha|augran|catboom|lady sun|kong kong er,charlotte|ukyo tachibana|heino|arli|su lie
+2026春,Stage 1,2026-02-01,成都AG超玩会,,1,red,blue,911,1,umbrosa|jing|catboom|chicha|su lie,biron|augran|nuwa|erin|shieldun
+2026春,Stage 1,2026-02-01,成都AG超玩会,,2,red,blue,835,1,charlotte|kaizer|haya|ao'yin|dyadia,cao cao|jing|ziya|arli|zhang fei
+2026春,Stage 1,2026-02-01,成都AG超玩会,,3,red,blue,747,1,biron|feyd|wu ze tian|arli|zhang fei,dharma|ukyo tachibana|mai shiranui|ge ya|kong kong er
+2026春,Stage 2,2026-02-04,南京Hero久竞,长沙TES.A,1,red,blue,654,1,cao cao|agudo|wu ze tian|fang|shieldun,meng tian|ying|haya|chicha|master luban
+2026春,Stage 2,2026-02-04,南京Hero久竞,长沙TES.A,2,blue,red,922,1,sikong zhen|ukyo tachibana|catboom|ge ya|kong kong er,cao cao|feyd|heino|arli|zhang fei
+2026春,Stage 2,2026-02-04,南京Hero久竞,长沙TES.A,3,blue,red,1058,2,guan yu|nezha|yuhuan|ao'yin|su lie,biron|dun|nuwa|ge ya|dyadia
+2026春,Stage 2,2026-02-04,南京Hero久竞,长沙TES.A,4,red,blue,817,2,umbrosa|augran|nuwa|chano|dyadia,bai qi|agudo|catboom|erin|su lie
+2026春,Stage 2,2026-02-04,南京Hero久竞,长沙TES.A,5,red,blue,873,1,bai qi|flowborn (tank)|xiao qiao|shouyue|mozi,guan yu|ukyo tachibana|wang zhaojun|ao'yin|taiyi zhenren
+2026春,Stage 2,2026-02-04,苏州KSG,,1,red,blue,928,1,charlotte|dongfang yao|shi|lady sun|taiyi zhenren,cao cao|dun|haya|erin|shieldun
+2026春,Stage 2,2026-02-04,苏州KSG,,2,red,blue,646,1,chicha|pei|haya|ao'yin|zhuangzi,ma chao|yang jian|wang zhaojun|consort yu|master luban
+2026春,Stage 2,2026-02-04,苏州KSG,,3,red,blue,967,1,biron|augran|mai shiranui|hou yi|su lie,lu bu (honor of kings)|ukyo tachibana|catboom|ge ya|dyadia
+2026春,Stage 2,2026-02-04,济南RW侠,北京JDG,1,blue,red,1137,2,umbrosa|ukyo tachibana|mai shiranui|ge ya|kong kong er,charlotte|jing|yuhuan|arli|zhang fei
+2026春,Stage 2,2026-02-04,济南RW侠,北京JDG,2,red,blue,825,1,biron|nezha|shi|lady sun|taiyi zhenren,cao cao|feyd|mai shiranui|erin|shieldun
+2026春,Stage 2,2026-02-04,济南RW侠,北京JDG,3,blue,red,791,1,bajie|agudo|catboom|chicha|su lie,meng tian|ying|heino|ao'yin|dyadia
+2026春,Stage 2,2026-02-04,济南RW侠,北京JDG,4,red,blue,1260,2,guan yu|pei|haya|di renjie|lian po,biron|ukyo tachibana|lady zhen|chicha|master luban
+2026春,Stage 2,2026-02-04,济南RW侠,北京JDG,5,blue,red,1164,2,charlotte|dun|nuwa|loong|yuhuan,ma chao|flowborn (tank)|ying zheng|geya|mozi
+2026春,Stage 2,2026-02-05,,上海RNG.M,1,red,blue,1073,2,dharma|jing|shi|lady sun|taiyi zhenren,biron|ying|nuwa|erin|shieldun
+2026春,Stage 2,2026-02-05,,上海RNG.M,2,red,blue,1041,1,charlotte|flowborn (tank)|xiao qiao|luban no.7|master luban,cao cao|pei|shi|ao'yin|zhang fei
+2026春,Stage 2,2026-02-05,,上海RNG.M,3,blue,red,904,2,cao cao|augran|wu ze tian|ge ya|dyadia,sikong zhen|jing|haya|chicha|su lie
+2026春,Stage 2,2026-02-05,,上海RNG.M,4,red,blue,1099,2,chicha|dun|nuwa|ao'yin|kong kong er,umbrosa|yang jian|catboom|consort yu|dolia
+2026春,Stage 2,2026-02-05,成都AG超玩会,,1,red,blue,715,1,biron|pei|heino|fang|master luban,sikong zhen|agudo|mai shiranui|ao'yin|shieldun
+2026春,Stage 2,2026-02-05,成都AG超玩会,,2,blue,red,745,1,sikong zhen|augran|catboom|chicha|su lie,charlotte|flowborn (tank)|angela|ge ya|dyadia
+2026春,Stage 2,2026-02-05,成都AG超玩会,,3,blue,red,823,1,cao cao|agudo|ying zheng|erin|shieldun,chicha|nezha|shi|lady sun|taiyi zhenren
+2026春,Stage 2,2026-02-05,上海EDG.M,佛山DRG,1,blue,red,908,2,sikong zhen|flowborn (tank)|gan & mo|ao'yin|shieldun,meng tian|ukyo tachibana|shi|chicha|su lie
+2026春,Stage 2,2026-02-05,上海EDG.M,佛山DRG,2,red,blue,657,2,biron|feyd|catboom|ge ya|dyadia,charlotte|jing|xiao qiao|ao'yin|kong kong er
+2026春,Stage 2,2026-02-05,上海EDG.M,佛山DRG,3,red,blue,1138,2,mayene|augran|mai shiranui|erin|su lie,guan yu|flowborn (tank)|nuwa|chano|dyadia
+2026春,Stage 2,2026-02-06,杭州LGD.NBW,武汉eStarPro,1,red,blue,1152,1,biron|yang jian|yuhuan|consort yu|master luban,sikong zhen|pei|catboom|ao'yin|lian po
+2026春,Stage 2,2026-02-06,杭州LGD.NBW,武汉eStarPro,2,red,blue,904,1,umbrosa|kaizer|shi|lady sun|taiyi zhenren,charlotte|nezha|ying zheng|erin|shieldun
+2026春,Stage 2,2026-02-06,杭州LGD.NBW,武汉eStarPro,3,blue,red,728,1,charlotte|ying|catboom|chicha|su lie,biron|flowborn (tank)|nuwa|ge ya|dyadia
+2026春,Stage 2,2026-02-06,,广州TTG,1,red,blue,841,1,ma chao|yang jian|nuwa|lady sun|taiyi zhenren,sikong zhen|jing|yuhuan|ao'yin|shieldun
+2026春,Stage 2,2026-02-06,,广州TTG,2,blue,red,869,2,charlotte|flowborn (tank)|catboom|erin|shieldun,cao cao|agudo|haya|ge ya|su lie
+2026春,Stage 2,2026-02-06,,广州TTG,3,red,blue,1233,2,chicha|feyd|ying zheng|ge ya|su lie,guan yu|flowborn (tank)|nuwa|erin|zhang fei
+2026春,Stage 2,2026-02-06,,广州TTG,4,blue,red,875,2,sikong zhen|augran|wang zhaojun|consort yu|liang,umbrosa|kaizer|xiao qiao|arli|dyadia
+2026春,Stage 2,2026-02-06,重庆狼队,苏州KSG,1,red,blue,968,1,guan yu|ying|xiao qiao|lady sun|taiyi zhenren,meng tian|musashi|catboom|erin|shieldun
+2026春,Stage 2,2026-02-06,重庆狼队,苏州KSG,2,blue,red,818,1,sun ce|pei|haya|ao'yin|su lie,ma chao|agudo|wang zhaojun|chano|liang
+2026春,Stage 2,2026-02-06,重庆狼队,苏州KSG,3,blue,red,941,1,biron|dun|catboom|chano|dyadia,charlotte|yang jian|haya|ao'yin|dolia
+2026春,Stage 2,2026-02-07,成都AG超玩会,南京Hero久竞,1,blue,red,813,1,umbrosa|augran|ying zheng|ao'yin|shieldun,sikong zhen|flowborn (tank)|nuwa|arli|master luban
+2026春,Stage 2,2026-02-07,成都AG超玩会,南京Hero久竞,2,blue,red,852,2,cao cao|agudo|mai shiranui|erin|su lie,biron|kaizer|catboom|ge ya|zhang fei
+2026春,Stage 2,2026-02-07,成都AG超玩会,南京Hero久竞,3,red,blue,668,1,biron|kongming|catboom|chicha|taiyi zhenren,bai qi|dun|haya|sun quan|dyadia
+2026春,Stage 2,2026-02-07,成都AG超玩会,南京Hero久竞,4,blue,red,1344,2,ma chao|pei|chang'e|ge ya|kong kong er,charlotte|jing|wu ze tian|ao'yin|yuhuan
+2026春,Stage 2,2026-02-07,成都AG超玩会,南京Hero久竞,5,red,blue,641,2,charlotte|feyd|haya|arli|zhang fei,guan yu|agudo|xiao qiao|chano|su lie
+2026春,Stage 2,2026-02-07,,北京JDG,1,blue,red,847,2,biron|dun|xiao qiao|ge ya|kong kong er,charlotte|augran|catboom|arli|zhang fei
+2026春,Stage 2,2026-02-07,,北京JDG,2,red,blue,696,2,guan yu|agudo|angela|chicha|su lie,mayene|flowborn (tank)|wu ze tian|erin|shieldun
+2026春,Stage 2,2026-02-07,,北京JDG,3,red,blue,888,2,meng tian|ukyo tachibana|shi|lady sun|taiyi zhenren,biron|agudo|gan & mo|ge ya|su lie
+2026春,Stage 2,2026-02-07,北京WB,深圳DYG,1,red,blue,686,1,biron|yang jian|xiao qiao|flowborn (marksman)|master luban,bai qi|pei|lady zhen|ao'yin|sun bin
+2026春,Stage 2,2026-02-07,北京WB,深圳DYG,2,red,blue,1276,1,cao cao|augran|shi|lady sun|taiyi zhenren,sun ce|agudo|nuwa|chicha|shieldun
+2026春,Stage 2,2026-02-07,北京WB,深圳DYG,3,blue,red,937,1,sikong zhen|ukyo tachibana|catboom|fang|kong kong er,guan yu|ying|heino|arli|zhang fei
+2026春,Stage 2,2026-02-08,武汉eStarPro,,1,red,blue,1482,1,biron|ying|catboom|arli|dyadia,cao cao|feyd|xiao qiao|ge ya|kong kong er
+2026春,Stage 2,2026-02-08,武汉eStarPro,,2,blue,red,1113,1,sikong zhen|dun|ying zheng|ao'yin|shieldun,biron|flowborn (tank)|angela|erin|master luban
+2026春,Stage 2,2026-02-08,武汉eStarPro,,3,red,blue,1010,2,guan yu|jing|nuwa|ge ya|zhang fei,sikong zhen|augran|yuhuan|arli|su lie
+2026春,Stage 2,2026-02-08,武汉eStarPro,,4,red,blue,950,1,charlotte|agudo|wang zhaojun|chicha|su lie,meng tian|pei|haya|ao'yin|zhang fei
+2026春,Stage 2,2026-02-08,杭州LGD.NBW,佛山DRG,1,red,blue,1321,1,charlotte|augran|catboom|ao'yin|mozi,biron|pei|xiao qiao|fang|master luban
+2026春,Stage 2,2026-02-08,杭州LGD.NBW,佛山DRG,2,blue,red,1077,2,ma chao|ukyo tachibana|mai shiranui|ge ya|kong kong er,charlotte|augran|catboom|arli|zhang fei
+2026春,Stage 2,2026-02-08,杭州LGD.NBW,佛山DRG,3,blue,red,1527,1,cao cao|kaizer|ziya|erin|shieldun,sikong zhen|dun|nuwa|chicha|su lie
+2026春,Stage 2,2026-02-08,杭州LGD.NBW,佛山DRG,4,blue,red,881,2,guan yu|ying|haya|lady sun|taiyi zhenren,ma chao|flowborn (tank)|ying zheng|ao'yin|dyadia
+2026春,Stage 2,2026-02-08,杭州LGD.NBW,佛山DRG,5,red,blue,1619,1,meng tian|jing|nuwa|chicha|dyadia,cao cao|yang jian|shi|lady sun|taiyi zhenren
+2026春,Stage 2,2026-02-08,广州TTG,重庆狼队,1,red,blue,1062,1,guan yu|flowborn (tank)|chang'e|erin|shieldun,bai qi|ukyo tachibana|xiao qiao|chicha|su lie
+2026春,Stage 2,2026-02-08,广州TTG,重庆狼队,2,blue,red,1314,2,meng tian|jing|catboom|chicha|master luban,sikong zhen|pei|mai shiranui|di renjie|donghuang
+2026春,Stage 2,2026-02-08,广州TTG,重庆狼队,3,red,blue,848,2,cao cao|nezha|nuwa|arli|zhang fei,biron|agudo|ziya|ge ya|kong kong er
+2026春,Stage 2,2026-02-08,广州TTG,重庆狼队,4,red,blue,1128,1,sikong zhen|augran|ying zheng|ge ya|dyadia,dharma|ying|shi|lady sun|taiyi zhenren
+2026春,Stage 2,2026-02-08,广州TTG,重庆狼队,5,red,blue,1542,2,biron|ukyo tachibana|shi|lady sun|taiyi zhenren,guan yu|nezha|haya|ao'yin|lian po
+2026春,Stage 2,2026-02-10,济南RW侠,长沙TES.A,1,red,blue,1356,2,cao cao|feyd|xiao qiao|ge ya|kong kong er,biron|nezha|catboom|arli|lian po
+2026春,Stage 2,2026-02-10,济南RW侠,长沙TES.A,2,blue,red,1047,2,sikong zhen|augran|heino|ao'yin|shieldun,bai qi|agudo|nuwa|chicha|su lie
+2026春,Stage 2,2026-02-10,济南RW侠,长沙TES.A,3,blue,red,1279,2,ma chao|flowborn (tank)|catboom|erin|master luban,charlotte|augran|ying zheng|di renjie|zhang fei
+2026春,Stage 2,2026-02-10,杭州LGD.NBW,上海EDG.M,1,blue,red,1201,1,charlotte|ukyo tachibana|ziya|ge ya|kong kong er,biron|feyd|xiao qiao|chicha|su lie
+2026春,Stage 2,2026-02-10,杭州LGD.NBW,上海EDG.M,2,blue,red,1140,1,meng tian|ying|catboom|chano|su lie,charlotte|flowborn (tank)|mai shiranui|arli|dyadia
+2026春,Stage 2,2026-02-10,杭州LGD.NBW,上海EDG.M,3,red,blue,880,1,biron|yang jian|wang zhaojun|chicha|master luban,guan yu|pei|nuwa|ao'yin|mozi
+2026春,Stage 2,2026-02-10,武汉eStarPro,上海RNG.M,1,red,blue,975,1,sikong zhen|ukyo tachibana|chang'e|ge ya|kong kong er,charlotte|musashi|catboom|arli|lian po
+2026春,Stage 2,2026-02-10,武汉eStarPro,上海RNG.M,2,blue,red,829,2,cao cao|flowborn (tank)|wu ze tian|ao'yin|mozi,biron|kaizer|nuwa|erin|shieldun
+2026春,Stage 2,2026-02-10,武汉eStarPro,上海RNG.M,3,red,blue,1604,1,biron|jing|nuwa|arli|dyadia,umbrosa|agudo|shi|ge ya|su lie
+2026春,Stage 2,2026-02-10,武汉eStarPro,上海RNG.M,4,blue,red,816,2,dharma|agudo|mai shiranui|chicha|su lie,guan yu|jing|jin chan|lady sun|taiyi zhenren
+2026春,Stage 2,2026-02-10,武汉eStarPro,上海RNG.M,5,red,blue,853,1,charlotte|ying|ziya|di renjie|zhang fei,sikong zhen|flowborn (tank)|haya|chicha|dyadia
+2026春,Stage 2,2026-02-11,北京WB,苏州KSG,1,red,blue,1310,2,dharma|ying|catboom|di renjie|zhang fei,biron|ukyo tachibana|mai shiranui|ao'yin|master luban
+2026春,Stage 2,2026-02-11,北京WB,苏州KSG,2,red,blue,1553,1,meng tian|feyd|wu ze tian|ge ya|su lie,charlotte|flowborn (tank)|xiao qiao|arli|kong kong er
+2026春,Stage 2,2026-02-11,北京WB,苏州KSG,3,blue,red,821,1,guan yu|ukyo tachibana|mai shiranui|ao'yin|shieldun,ma chao|ying|jin chan|lady sun|taiyi zhenren
+2026春,Stage 2,2026-02-11,北京WB,苏州KSG,4,blue,red,685,2,sikong zhen|han xin|haya|chicha|liu bang,cao cao|agudo|nuwa|hou yi|mozi
+2026春,Stage 2,2026-02-11,北京WB,苏州KSG,5,red,blue,720,1,biron|pei|chang'e|flowborn (marksman)|taiyi zhenren,umbrosa|dun|catboom|ge ya|dyadia
+2026春,Stage 2,2026-02-11,佛山DRG,,1,red,blue,899,1,guan yu|augran|wu ze tian|erin|shieldun,biron|flowborn (tank)|nuwa|ge ya|kong kong er
+2026春,Stage 2,2026-02-11,佛山DRG,,2,blue,red,725,2,biron|pei|catboom|chano|su lie,cao cao|ukyo tachibana|mai shiranui|arli|dyadia
+2026春,Stage 2,2026-02-11,佛山DRG,,3,red,blue,797,1,meng tian|jing|haya|ao'yin|yuhuan,ma chao|zhu bajie|xiao qiao|consort yu|master luban
+2026春,Stage 2,2026-02-11,佛山DRG,,4,blue,red,971,1,cao cao|flowborn (tank)|nuwa|sun quan|dyadia,sikong zhen|yang jian|angela|chicha|dolia
+2026春,Stage 2,2026-02-11,,深圳DYG,1,red,blue,1427,2,cao cao|flowborn (tank)|heino|ao'yin|shieldun,charlotte|augran|xiao qiao|arli|kong kong er
+2026春,Stage 2,2026-02-11,,深圳DYG,2,red,blue,712,2,charlotte|bai qi|xiao qiao|ge ya|dyadia,dharma|agudo|ying zheng|ao'yin|su lie
+2026春,Stage 2,2026-02-11,,深圳DYG,3,blue,red,743,2,umbrosa|agudo|catboom|chicha|su lie,biron|nakoruru|mai shiranui|ge ya|zhang fei
+2026春,Stage 2,2026-02-12,上海RNG.M,上海EDG.M,1,red,blue,954,1,cao cao|flowborn (tank)|wang zhaojun|chano|master luban,charlotte|dun|catboom|di renjie|zhang fei
+2026春,Stage 2,2026-02-12,上海RNG.M,上海EDG.M,2,blue,red,1149,1,biron|pei|nuwa|ao'yin|kong kong er,cao cao|kaizer|xiao qiao|arli|dyadia
+2026春,Stage 2,2026-02-12,上海RNG.M,上海EDG.M,3,blue,red,817,2,ma chao|dun|haya|chicha|su lie,bai qi|yang jian|angela|ao'yin|dolia
+2026春,Stage 2,2026-02-12,上海RNG.M,上海EDG.M,4,red,blue,946,2,umbrosa|jing|shi|ge ya|zhang fei,biron|ukyo tachibana|wu ze tian|erin|shieldun
+2026春,Stage 2,2026-02-12,上海RNG.M,上海EDG.M,5,red,blue,1098,1,bai qi|yang jian|catboom|erin|dolia,sikong zhen|augran|haya|chicha|kong kong er
+2026春,Stage 2,2026-02-12,南京Hero久竞,济南RW侠,1,red,blue,1134,2,guan yu|augran|ziya|ao'yin|mozi,charlotte|flowborn (tank)|nuwa|arli|master luban
+2026春,Stage 2,2026-02-12,南京Hero久竞,济南RW侠,2,red,blue,895,1,biron|agudo|catboom|ge ya|zhang fei,guan yu|augran|xiao qiao|sun quan|dyadia
+2026春,Stage 2,2026-02-12,南京Hero久竞,济南RW侠,3,red,blue,804,1,bai qi|jing|wu ze tian|chicha|dyadia,cao cao|dongfang yao|catboom|di renjie|kong kong er
+2026春,Stage 2,2026-02-12,南京Hero久竞,济南RW侠,4,blue,red,900,1,sikong zhen|ukyo tachibana|nuwa|chano|su lie,ma chao|dun|haya|ge ya|lian po
+2026春,Stage 2,2026-02-12,,长沙TES.A,1,red,blue,878,2,guan yu|agudo|xiao qiao|erin|kong kong er,biron|feyd|catboom|arli|lian po
+2026春,Stage 2,2026-02-12,,长沙TES.A,2,red,blue,1056,1,cao cao|ukyo tachibana|nuwa|ge ya|su lie,charlotte|augran|shi|chicha|dyadia
+2026春,Stage 2,2026-02-12,,长沙TES.A,3,blue,red,937,2,charlotte|yang jian|catboom|di renjie|shieldun,sikong zhen|jing|chang'e|lady sun|taiyi zhenren
+2026春,Stage 2,2026-02-12,,长沙TES.A,4,red,blue,1192,2,biron|flowborn (tank)|ying zheng|chicha|zhang fei,cao cao|dun|ziya|ao'yin|shieldun
+2026春,Stage 2,2026-02-13,广州TTG,深圳DYG,1,red,blue,653,2,guan yu|dun|haya|lady sun|taiyi zhenren,dharma|nakoruru|catboom|erin|shieldun
+2026春,Stage 2,2026-02-13,广州TTG,深圳DYG,2,red,blue,1049,2,sikong zhen|kaizer|catboom|ao'yin|flowborn (support),fuzi|yang jian|wang zhaojun|hou yi|master luban
+2026春,Stage 2,2026-02-13,广州TTG,深圳DYG,3,blue,red,694,2,chicha|ukyo tachibana|xiao qiao|sun quan|kong kong er,biron|augran|wu ze tian|ge ya|su lie
+2026春,Stage 2,2026-02-13,北京WB,重庆狼队,1,blue,red,1075,2,biron|menki|yuhuan|erin|shieldun,lu bu (honor of kings)|pei|catboom|ao'yin|su lie
+2026春,Stage 2,2026-02-13,北京WB,重庆狼队,2,red,blue,910,2,dharma|pei|nuwa|di renjie|zhang fei,sikong zhen|flowborn (tank)|xiao qiao|chicha|master luban
+2026春,Stage 2,2026-02-13,北京WB,重庆狼队,3,red,blue,934,1,meng tian|feyd|catboom|ge ya|dyadia,umbrosa|augran|mai shiranui|chano|kong kong er
+2026春,Stage 2,2026-02-13,北京WB,重庆狼队,4,blue,red,1263,2,sikong zhen|musashi|wu ze tian|ao'yin|taiyi zhenren,bai qi|jing|haya|ge ya|dyadia
+2026春,Stage 2,2026-02-13,成都AG超玩会,北京JDG,1,red,blue,1025,2,biron|ukyo tachibana|ying zheng|chicha|zhang fei,lu bu (honor of kings)|pei|mai shiranui|ge ya|su lie
+2026春,Stage 2,2026-02-13,成都AG超玩会,北京JDG,2,blue,red,941,1,cao cao|agudo|catboom|erin|su lie,sikong zhen|augran|heino|arli|dyadia
+2026春,Stage 2,2026-02-13,成都AG超玩会,北京JDG,3,red,blue,1004,2,meng tian|jing|shi|lady sun|taiyi zhenren,cao cao|flowborn (tank)|nuwa|erin|shieldun
+2026春,Stage 2,2026-02-13,成都AG超玩会,北京JDG,4,red,blue,920,1,sikong zhen|dun|haya|di renjie|flowborn (support),biron|ukyo tachibana|lady zhen|chicha|master luban
+2026春,Stage 2,2026-02-13,成都AG超玩会,北京JDG,5,red,blue,854,2,ma chao|kaizer|wu ze tian|ao'yin|kong kong er,charlotte|jing|xiao qiao|chano|zhang fei
+2026春,Stage 2,2026-02-24,济南RW侠,,1,red,blue,896,2,cao cao|augran|catboom|arli|zhang fei,charlotte|ukyo tachibana|angela|ao'yin|su lie
+2026春,Stage 2,2026-02-24,济南RW侠,,2,blue,red,790,2,sikong zhen|dun|chang'e|erin|shieldun,biron|agudo|catboom|ge ya|zhang fei
+2026春,Stage 2,2026-02-24,济南RW侠,,3,blue,red,704,2,dharma|ukyo tachibana|xiao qiao|flowborn (marksman)|kong kong er,cao cao|ying|yuhuan|arli|taiyi zhenren
+2026春,Stage 2,2026-02-24,杭州LGD.NBW,,1,blue,red,791,1,biron|ying|xiao qiao|erin|shieldun,guan yu|ukyo tachibana|haya|arli|kong kong er
+2026春,Stage 2,2026-02-24,杭州LGD.NBW,,2,blue,red,746,2,sikong zhen|augran|yuhuan|ao'yin|su lie,biron|ma chao|catboom|chano|zhang fei
+2026春,Stage 2,2026-02-24,杭州LGD.NBW,,3,red,blue,1003,1,meng tian|pei|catboom|di renjie|donghuang,chicha|yang jian|nuwa|ge ya|master luban
+2026春,Stage 2,2026-02-24,杭州LGD.NBW,,4,blue,red,715,2,charlotte|agudo|yixing|ge ya|dyadia,cao cao|musashi|xiao qiao|ao'yin|liang
+2026春,Stage 2,2026-02-24,杭州LGD.NBW,,5,red,blue,851,2,ma chao|nezha|nuwa|chicha|zhang fei,charlotte|flowborn (tank)|chang'e|lady sun|taiyi zhenren
+2026春,Stage 2,2026-02-24,苏州KSG,广州TTG,1,red,blue,850,1,guan yu|musashi|shi|lady sun|taiyi zhenren,ma chao|cao cao|xiao qiao|erin|shieldun
+2026春,Stage 2,2026-02-24,苏州KSG,广州TTG,2,blue,red,852,1,biron|ying|mai shiranui|chicha|master luban,bai qi|jing|chang'e|di renjie|zhang fei
+2026春,Stage 2,2026-02-24,苏州KSG,广州TTG,3,red,blue,984,2,fuzi|augran|chang'e|erin|shieldun,sikong zhen|ukyo tachibana|catboom|ge ya|su lie
+2026春,Stage 2,2026-02-24,苏州KSG,广州TTG,4,red,blue,777,2,charlotte|ukyo tachibana|nuwa|arli|kong kong er,umbrosa|flowborn (tank)|heino|ao'yin|yuhuan
+2026春,Stage 2,2026-02-24,苏州KSG,广州TTG,5,red,blue,1143,1,cao cao|flowborn (tank)|lady zhen|chano|da qiao,charlotte|augran|haya|hou yi|dyadia
+2026春,Stage 2,2026-02-25,佛山DRG,上海RNG.M,1,red,blue,910,1,biron|ma chao|haya|ge ya|zhang fei,bai qi|ying|ziya|ao'yin|dyadia
+2026春,Stage 2,2026-02-25,佛山DRG,上海RNG.M,2,blue,red,1404,1,guan yu|feyd|wu ze tian|chicha|su lie,dharma|dun|nuwa|erin|shieldun
+2026春,Stage 2,2026-02-25,佛山DRG,上海RNG.M,3,red,blue,1146,1,meng tian|augran|heino|hou yi|dyadia,guan yu|agudo|catboom|flowborn (marksman)|mozi
+2026春,Stage 2,2026-02-25,长沙TES.A,北京JDG,1,blue,red,1285,2,biron|yang jian|mai shiranui|ao'yin|shieldun,ma chao|dun|xiao qiao|chicha|su lie
+2026春,Stage 2,2026-02-25,长沙TES.A,北京JDG,2,red,blue,778,2,meng tian|ma chao|ying zheng|ge ya|dyadia,fuzi|agudo|catboom|ao'yin|zhang fei
+2026春,Stage 2,2026-02-25,长沙TES.A,北京JDG,3,red,blue,719,2,charlotte|musashi|ziya|lady sun|taiyi zhenren,biron|ukyo tachibana|ying zheng|arli|dyadia
+2026春,Stage 2,2026-02-25,,重庆狼队,1,red,blue,1363,2,charlotte|ukyo tachibana|catboom|sun quan|zhang fei,cao cao|dun|xiao qiao|chicha|su lie
+2026春,Stage 2,2026-02-25,,重庆狼队,2,red,blue,693,2,ma chao|agudo|wang zhaojun|erin|liang,sun ce|kaizer|haya|chano|dyadia
+2026春,Stage 2,2026-02-25,,重庆狼队,3,blue,red,991,2,biron|pei|yuhuan|chano|su lie,guan yu|ukyo tachibana|catboom|ao'yin|zhang fei
+2026春,Stage 2,2026-02-26,上海EDG.M,武汉eStarPro,1,red,blue,1124,1,meng tian|jing|catboom|chicha|su lie,sikong zhen|augran|chang'e|ge ya|kong kong er
+2026春,Stage 2,2026-02-26,上海EDG.M,武汉eStarPro,2,blue,red,929,2,charlotte|yang jian|xiao qiao|arli|master luban,biron|pei|catboom|ao'yin|donghuang
+2026春,Stage 2,2026-02-26,上海EDG.M,武汉eStarPro,3,blue,red,851,2,bai qi|feyd|ziya|ge ya|dyadia,cao cao|ying|haya|arli|zhang fei
+2026春,Stage 2,2026-02-26,上海EDG.M,武汉eStarPro,4,blue,red,851,2,sikong zhen|augran|mai shiranui|ao'yin|mozi,charlotte|zhu bajie|nuwa|chicha|dyadia
+2026春,Stage 2,2026-02-26,南京Hero久竞,,1,red,blue,930,1,cao cao|ukyo tachibana|wu ze tian|erin|shieldun,biron|dun|xiao qiao|ao'yin|su lie
+2026春,Stage 2,2026-02-26,南京Hero久竞,,2,blue,red,915,2,bai qi|flowborn (tank)|catboom|ge ya|dyadia,guan yu|nezha|wang zhaojun|chano|liang
+2026春,Stage 2,2026-02-26,南京Hero久竞,,3,red,blue,650,2,guan yu|pei|chang'e|lady sun|taiyi zhenren,mayene|agudo|catboom|arli|zhang fei
+2026春,Stage 2,2026-02-26,南京Hero久竞,,4,red,blue,944,1,meng tian|ying|nuwa|ao'yin|zhang fei,charlotte|flowborn (tank)|angela|lady sun|taiyi zhenren
+2026春,Stage 2,2026-02-26,南京Hero久竞,,5,blue,red,927,2,charlotte|agudo|haya|chicha|kong kong er,cao cao|ying|wu ze tian|ge ya|dyadia
+2026春,Stage 2,2026-02-26,苏州KSG,深圳DYG,1,red,blue,709,1,ma chao|flowborn (tank)|wu ze tian|erin|shieldun,biron|agudo|xiao qiao|chicha|su lie
+2026春,Stage 2,2026-02-26,苏州KSG,深圳DYG,2,blue,red,1270,1,bai qi|feyd|catboom|arli|dyadia,cao cao|augran|mai shiranui|lady sun|taiyi zhenren
+2026春,Stage 2,2026-02-26,苏州KSG,深圳DYG,3,red,blue,1210,2,sikong zhen|agudo|mai shiranui|chano|su lie,charlotte|nakoruru|angela|ge ya|zhang fei
+2026春,Stage 2,2026-02-26,苏州KSG,深圳DYG,4,red,blue,1229,1,biron|pei|nuwa|ao'yin|zhang fei,ma chao|yang jian|haya|arli|master luban
+2026春,Stage 2,2026-02-27,杭州LGD.NBW,上海RNG.M,1,blue,red,1309,2,chicha|kaizer|nuwa|erin|shieldun,umbrosa|flowborn (tank)|mai shiranui|lady sun|taiyi zhenren
+2026春,Stage 2,2026-02-27,杭州LGD.NBW,上海RNG.M,2,red,blue,1346,1,biron|yang jian|catboom|arli|master luban,cao cao|musashi|ying zheng|ao'yin|zhang fei
+2026春,Stage 2,2026-02-27,杭州LGD.NBW,上海RNG.M,3,blue,red,1079,2,umbrosa|agudo|haya|chano|su lie,chicha|dun|nuwa|ge ya|dyadia
+2026春,Stage 2,2026-02-27,杭州LGD.NBW,上海RNG.M,4,blue,red,1264,1,ma chao|ukyo tachibana|ziya|ge ya|kong kong er,charlotte|augran|catboom|consort yu|su lie
+2026春,Stage 2,2026-02-27,杭州LGD.NBW,上海RNG.M,5,blue,red,1098,1,meng tian|ying|wu ze tian|di renjie|zhang fei,guan yu|ma chao|xiao qiao|luban no.7|master luban
+2026春,Stage 2,2026-02-27,成都AG超玩会,济南RW侠,1,blue,red,791,2,charlotte|pei|catboom|chano|zhang fei,biron|ukyo tachibana|mai shiranui|ge ya|dyadia
+2026春,Stage 2,2026-02-27,成都AG超玩会,济南RW侠,2,blue,red,987,2,umbrosa|flowborn (tank)|haya|erin|shieldun,charlotte|augran|xiao qiao|ao'yin|su lie
+2026春,Stage 2,2026-02-27,成都AG超玩会,济南RW侠,3,red,blue,1309,1,meng tian|jing|ying zheng|arli|kong kong er,dharma|han xin|wu ze tian|chano|taiyi zhenren
+2026春,Stage 2,2026-02-27,成都AG超玩会,济南RW侠,4,red,blue,1284,1,sikong zhen|nezha|xiao qiao|ao'yin|taiyi zhenren,ma chao|ying|nuwa|chicha|zhang fei
+2026春,Stage 2,2026-02-27,成都AG超玩会,济南RW侠,5,blue,red,911,1,ma chao|yang jian|wu ze tian|ge ya|dyadia,guan yu|agudo|catboom|sun quan|kong kong er
+2026春,Stage 2,2026-02-27,北京WB,广州TTG,1,red,blue,930,1,bai qi|ukyo tachibana|ying zheng|ao'yin|dyadia,ma chao|flowborn (tank)|nuwa|di renjie|su lie
+2026春,Stage 2,2026-02-27,北京WB,广州TTG,2,blue,red,872,2,sikong zhen|dun|catboom|sun quan|taiyi zhenren,fuzi|pei|mai shiranui|chicha|zhang fei
+2026春,Stage 2,2026-02-27,北京WB,广州TTG,3,blue,red,1141,2,charlotte|agudo|mai shiranui|erin|shieldun,biron|ukyo tachibana|shi|lady sun|taiyi zhenren
+2026春,Stage 2,2026-02-27,北京WB,广州TTG,4,blue,red,775,1,chicha|pei|chang'e|ge ya|zhang fei,cao cao|augran|catboom|ao'yin|sakeer
+2026春,Stage 2,2026-02-27,北京WB,广州TTG,5,red,blue,692,1,guan yu|nakoruru|haya|flowborn (marksman)|zhuangzi,bai qi|ying|ying zheng|ge ya|dyadia
+2026春,Stage 2,2026-02-28,武汉eStarPro,佛山DRG,1,red,blue,748,1,biron|agudo|catboom|arli|dyadia,cao cao|augran|xiao qiao|ge ya|su lie
+2026春,Stage 2,2026-02-28,武汉eStarPro,佛山DRG,2,blue,red,1119,2,bai qi|pei|nuwa|chicha|shieldun,dharma|ying|shi|lady sun|taiyi zhenren
+2026春,Stage 2,2026-02-28,武汉eStarPro,佛山DRG,3,red,blue,1287,2,umbrosa|augran|ying zheng|di renjie|zhang fei,sikong zhen|yang jian|wu ze tian|ao'yin|master luban
+2026春,Stage 2,2026-02-28,武汉eStarPro,佛山DRG,4,red,blue,848,1,sikong zhen|feyd|da qiao|ge ya|su lie,charlotte|ukyo tachibana|haya|sun quan|kong kong er
+2026春,Stage 2,2026-02-28,武汉eStarPro,佛山DRG,5,blue,red,1080,1,charlotte|flowborn (tank)|ziya|ao'yin|kong kong er,biron|pei|nuwa|arli|zhang fei
+2026春,Stage 2,2026-02-28,南京Hero久竞,北京JDG,1,blue,red,1394,2,chicha|flowborn (tank)|nuwa|ao'yin|shieldun,charlotte|dun|ying zheng|lady sun|taiyi zhenren
+2026春,Stage 2,2026-02-28,南京Hero久竞,北京JDG,2,red,blue,730,2,charlotte|agudo|chang'e|hou yi|zhang fei,biron|pei|catboom|sun quan|zhao huaizhen
+2026春,Stage 2,2026-02-28,南京Hero久竞,北京JDG,3,red,blue,975,1,ma chao|ukyo tachibana|wang zhaojun|chano|liang,yuan ge|kaizer|wu ze tian|ao'yin|dyadia
+2026春,Stage 2,2026-02-28,南京Hero久竞,北京JDG,4,blue,red,1063,2,sikong zhen|dun|wu ze tian|arli|su lie,guan yu|ying|nuwa|ge ya|zhang fei
+2026春,Stage 2,2026-02-28,重庆狼队,深圳DYG,1,blue,red,1073,1,biron|ying|xiao qiao|ge ya|su lie,cao cao|augran|wu ze tian|chicha|zhang fei
+2026春,Stage 2,2026-02-28,重庆狼队,深圳DYG,2,blue,red,1110,1,cao cao|dun|haya|chano|dyadia,biron|kaizer|xiao qiao|fang|liang
+2026春,Stage 2,2026-02-28,重庆狼队,深圳DYG,3,blue,red,1053,1,bai qi|pei|shi|di renjie|shieldun,meng tian|nakoruru|nuwa|lady sun|taiyi zhenren
+2026春,Stage 2,2026-03-01,,上海EDG.M,1,red,blue,748,2,guan yu|feyd|xiao qiao|chicha|su lie,biron|ukyo tachibana|wu ze tian|erin|shieldun
+2026春,Stage 2,2026-03-01,,上海EDG.M,2,blue,red,821,1,cao cao|flowborn (tank)|wu ze tian|luban no.7|master luban,sikong zhen|pei|xiao qiao|ao'yin|yuhuan
+2026春,Stage 2,2026-03-01,,上海EDG.M,3,blue,red,933,2,biron|nezha|haya|ao'yin|kong kong er,charlotte|yang jian|nuwa|consort yu|dolia
+2026春,Stage 2,2026-03-01,,上海EDG.M,4,red,blue,789,2,umbrosa|augran|chang'e|arli|dyadia,cao cao|jing|catboom|ge ya|su lie
+2026春,Stage 2,2026-03-01,北京WB,,1,blue,red,1066,1,guan yu|ukyo tachibana|nuwa|chicha|shieldun,ma chao|zhu bajie|shi|lady sun|taiyi zhenren
+2026春,Stage 2,2026-03-01,北京WB,,2,red,blue,792,1,sikong zhen|yang jian|chang'e|ao'yin|dyadia,chicha|pei|catboom|chano|su lie
+2026春,Stage 2,2026-03-01,北京WB,,3,red,blue,936,1,fuzi|flowborn (tank)|xiao qiao|ge ya|master luban,cao cao|agudo|mai shiranui|di renjie|lian po
+2026春,Stage 2,2026-03-01,成都AG超玩会,长沙TES.A,1,blue,red,1025,1,umbrosa|dun|ying zheng|erin|shieldun,guan yu|kaizer|angela|lady sun|taiyi zhenren
+2026春,Stage 2,2026-03-01,成都AG超玩会,长沙TES.A,2,red,blue,839,1,cao cao|yang jian|catboom|arli|zhang fei,charlotte|ying|chang'e|chicha|su lie
+2026春,Stage 2,2026-03-01,成都AG超玩会,长沙TES.A,3,red,blue,733,1,meng tian|jing|shi|lady sun|taiyi zhenren,cao cao|flowborn (tank)|wu ze tian|erin|shieldun
+2026春,Stage 3,2026-03-07,长沙TES.A,广州TTG,1,red,blue,1286,2,cao cao|augran|xiao qiao|ao'yin|flowborn (support),biron|yang jian|ying zheng|consort yu|master luban
+2026春,Stage 3,2026-03-07,长沙TES.A,广州TTG,2,red,blue,779,2,charlotte|ying|nuwa|erin|zhang fei,dharma|jing|haya|ge ya|su lie
+2026春,Stage 3,2026-03-07,长沙TES.A,广州TTG,3,red,blue,659,1,ma chao|yang jian|haya|lady sun|taiyi zhenren,guan yu|cao cao|wu ze tian|ao'yin|shieldun
+2026春,Stage 3,2026-03-07,长沙TES.A,广州TTG,4,blue,red,1054,2,guan yu|ukyo tachibana|mai shiranui|sun quan|su lie,sikong zhen|kaizer|chang'e|chicha|dyadia
+2026春,Stage 3,2026-03-07,杭州LGD.NBW,,1,blue,red,907,1,lu bu (honor of kings)|ying|mai shiranui|erin|shieldun,meng tian|pei|catboom|ao'yin|su lie
+2026春,Stage 3,2026-03-07,杭州LGD.NBW,,2,blue,red,912,2,yuan ge|dun|wu ze tian|chano|dyadia,ma chao|nezha|wang zhaojun|erin|liang
+2026春,Stage 3,2026-03-07,杭州LGD.NBW,,3,red,blue,719,2,ma chao|musashi|catboom|ge ya|zhang fei,biron|ukyo tachibana|xiao qiao|lady sun|taiyi zhenren
+2026春,Stage 3,2026-03-07,杭州LGD.NBW,,4,red,blue,889,1,umbrosa|yang jian|haya|lady sun|taiyi zhenren,guan yu|agudo|shi|arli|lian po
+2026春,Stage 3,2026-03-07,杭州LGD.NBW,,5,blue,red,790,1,biron|agudo|ying zheng|chicha|lian po,cao cao|yang jian|nuwa|chano|zhang fei
+2026春,Stage 3,2026-03-07,成都AG超玩会,北京WB,1,blue,red,915,2,biron|pei|ying zheng|ao'yin|yuhuan,ma chao|yang jian|xiao qiao|flowborn (marksman)|master luban
+2026春,Stage 3,2026-03-07,成都AG超玩会,北京WB,2,red,blue,878,1,sikong zhen|jing|wang zhaojun|chano|liang,guan yu|feyd|wu ze tian|ao'yin|dyadia
+2026春,Stage 3,2026-03-07,成都AG超玩会,北京WB,3,red,blue,882,2,cao cao|ukyo tachibana|mai shiranui|chicha|zhang fei,fuzi|augran|catboom|lady sun|taiyi zhenren
+2026春,Stage 3,2026-03-07,成都AG超玩会,北京WB,4,blue,red,726,1,ma chao|kaizer|gan & mo|erin|shieldun,biron|pei|lady zhen|ge ya|su lie
+2026春,Stage 3,2026-03-07,成都AG超玩会,北京WB,5,blue,red,716,1,umbrosa|kongming|catboom|arli|su lie,sikong zhen|agudo|chang'e|di renjie|mozi
+2026春,Stage 3,2026-03-08,南京Hero久竞,,1,blue,red,660,2,biron|jing|xiao qiao|chano|dyadia,charlotte|ukyo tachibana|catboom|sun quan|su lie
+2026春,Stage 3,2026-03-08,南京Hero久竞,,2,red,blue,802,1,cao cao|yang jian|wu ze tian|hou yi|shieldun,ma chao|agudo|haya|ao'yin|zhuangzi
+2026春,Stage 3,2026-03-08,南京Hero久竞,,3,red,blue,1356,2,charlotte|nezha|ying zheng|ao'yin|zhang fei,cao cao|dun|nuwa|chano|dyadia
+2026春,Stage 3,2026-03-08,南京Hero久竞,,4,red,blue,728,2,sikong zhen|dun|chang'e|arli|su lie,chicha|flowborn (tank)|ziya|ge ya|zhang fei
+2026春,Stage 3,2026-03-08,深圳DYG,苏州KSG,1,blue,red,1110,2,biron|yang jian|ziya|ge ya|master luban,guan yu|augran|shi|di renjie|shieldun
+2026春,Stage 3,2026-03-08,深圳DYG,苏州KSG,2,red,blue,932,1,dharma|nakoruru|catboom|ao'yin|zhang fei,biron|ying|chang'e|arli|su lie
+2026春,Stage 3,2026-03-08,深圳DYG,苏州KSG,3,blue,red,784,2,chicha|nezha|wu ze tian|fang|su lie,meng tian|pei|nuwa|ao'yin|dyadia
+2026春,Stage 3,2026-03-08,深圳DYG,苏州KSG,4,red,blue,951,2,sikong zhen|ying|xiao qiao|consort yu|kong kong er,charlotte|musashi|angela|agudo|zhang fei
+2026春,Stage 3,2026-03-08,北京JDG,重庆狼队,1,blue,red,819,2,cao cao|yang jian|angela|erin|shieldun,bai qi|nakoruru|xiao qiao|ge ya|su lie
+2026春,Stage 3,2026-03-08,北京JDG,重庆狼队,2,red,blue,1038,1,charlotte|flowborn (tank)|ying zheng|arli|master luban,biron|nezha|nuwa|ao'yin|mozi
+2026春,Stage 3,2026-03-08,北京JDG,重庆狼队,3,blue,red,1250,2,guan yu|dun|haya|ge ya|dyadia,ma chao|flowborn (tank)|wang zhaojun|chano|liang
+2026春,Stage 3,2026-03-08,北京JDG,重庆狼队,4,red,blue,1245,1,dharma|pei|xiao qiao|chicha|kong kong er,guan yu|yang jian|catboom|arli|dyadia
+2026春,Stage 3,2026-03-08,北京JDG,重庆狼队,5,red,blue,724,1,sikong zhen|ying|catboom|ao'yin|zhao huaizhen,meng tian|jing|haya|chicha|zhang fei
+2026春,Stage 3,2026-03-11,北京JDG,苏州KSG,1,red,blue,1065,2,charlotte|dun|nuwa|ao'yin|mozi,biron|yang jian|angela|chano|master luban
+2026春,Stage 3,2026-03-11,北京JDG,苏州KSG,2,red,blue,906,1,biron|ying|xiao qiao|lady sun|taiyi zhenren,cao cao|agudo|wu ze tian|ao'yin|shieldun
+2026春,Stage 3,2026-03-11,北京JDG,苏州KSG,3,blue,red,1124,1,sikong zhen|augran|catboom|sun quan|liang,meng tian|nakoruru|xiao qiao|chicha|dyadia
+2026春,Stage 3,2026-03-11,北京JDG,苏州KSG,4,blue,red,731,2,ma chao|agudo|ziya|chicha|su lie,charlotte|kaizer|heino|arli|zhang fei
+2026春,Stage 3,2026-03-11,北京JDG,苏州KSG,5,red,blue,795,1,yuange|ukyo tachibana|lady zhen|ge ya|zhang fei,sikong zhen|flowborn (tank)|wang zhaojun|sun quan|liang
+2026春,Stage 3,2026-03-11,北京WB,重庆狼队,1,red,blue,683,2,sikong zhen|menki|catboom|arli|taiyi zhenren,bai qi|nakoruru|xiao qiao|chicha|shieldun
+2026春,Stage 3,2026-03-11,北京WB,重庆狼队,2,red,blue,895,2,cao cao|pei|shi|di renjie|da yu,ma chao|flowborn (tank)|wang zhaojun|ge ya|master luban
+2026春,Stage 3,2026-03-11,北京WB,重庆狼队,3,red,blue,1175,1,biron|agudo|nuwa|ge ya|zhang fei,charlotte|nezha|ziya|erin|su lie
+2026春,Stage 3,2026-03-11,北京WB,重庆狼队,4,blue,red,980,1,charlotte|ukyo tachibana|xiao qiao|ao'yin|dyadia,biron|dun|da qiao|chano|zhang fei
+2026春,Stage 3,2026-03-11,北京WB,重庆狼队,5,blue,red,905,2,chicha|flowborn (tank)|haya|chano|su lie,cao cao|agudo|wu ze tian|sun quan|taiyi zhenren
+2026春,Stage 3,2026-03-12,长沙TES.A,,1,red,blue,1069,1,charlotte|nezha|wu ze tian|lady sun|taiyi zhenren,biron|dun|xiao qiao|erin|shieldun
+2026春,Stage 3,2026-03-12,长沙TES.A,,2,blue,red,963,2,biron|yang jian|nuwa|erin|dyadia,charlotte|flowborn (tank)|catboom|ge ya|da yu
+2026春,Stage 3,2026-03-12,长沙TES.A,,3,red,blue,707,2,cao cao|jing|ying zheng|ge ya|lian po,ma chao|agudo|wu ze tian|chicha|su lie
+2026春,Stage 3,2026-03-12,长沙TES.A,,4,blue,red,676,1,mayene|ukyo tachibana|catboom|chano|su lie,guan yu|ying|angela|arli|dyadia
+2026春,Stage 3,2026-03-12,长沙TES.A,,5,red,blue,803,1,ma chao|flowborn (tank)|haya|chicha|master luban,sikong zhen|ukyo tachibana|shi|ao'yin|zhang fei
+2026春,Stage 3,2026-03-12,成都AG超玩会,深圳DYG,1,blue,red,1001,1,cao cao|augran|catboom|ao'yin|huaizhen,charlotte|flowborn (tank)|haya|chano|master luban
+2026春,Stage 3,2026-03-12,成都AG超玩会,深圳DYG,2,blue,red,759,1,umbrosa|ying|mai shiranui|chicha|shieldun,cao cao|yang jian|shi|lady sun|taiyi zhenren
+2026春,Stage 3,2026-03-12,成都AG超玩会,深圳DYG,3,blue,red,947,1,sikong zhen|ukyo tachibana|nuwa|sun quan|su lie,ma chao|augran|ying zheng|ge ya|zhang fei
+2026春,Stage 3,2026-03-13,广州TTG,,1,red,blue,1279,2,biron|ying|shi|lady sun|taiyi zhenren,cao cao|dun|nuwa|erin|shieldun
+2026春,Stage 3,2026-03-13,广州TTG,,2,red,blue,945,1,sikong zhen|flowborn (tank)|catboom|ao'yin|da qiao,ma chao|yang jian|xiao qiao|chano|su lie
+2026春,Stage 3,2026-03-13,广州TTG,,3,blue,red,906,1,umbrosa|yang jian|wang zhaojun|ge ya|master luban,charlotte|bajie|ying zheng|di renjie|flowborn (support)
+2026春,Stage 3,2026-03-13,广州TTG,,4,red,blue,817,1,fuzi|jing|chang'e|chicha|da yu,umbrosa|ying|catboom|sun quan|dyadia
+2026春,Stage 3,2026-03-13,南京Hero久竞,杭州LGD.NBW,1,blue,red,818,1,charlotte|menki|wu ze tian|ge ya|dyadia,ma chao|augran|wang zhaojun|sun quan|liang
+2026春,Stage 3,2026-03-13,南京Hero久竞,杭州LGD.NBW,2,blue,red,681,2,ma chao|agudo|catboom|flowborn (marksman)|zhang fei,biron|yang jian|xiao qiao|ao'yin|dyadia
+2026春,Stage 3,2026-03-13,南京Hero久竞,杭州LGD.NBW,3,red,blue,684,2,sikong zhen|ukyo tachibana|jin chan|lady sun|taiyi zhenren,guan yu|jing|wu ze tian|chicha|shieldun
+2026春,Stage 3,2026-03-13,南京Hero久竞,杭州LGD.NBW,4,red,blue,617,2,biron|pei|angela|chano|donghuang,umbrosa|ying|ying zheng|ge ya|su lie
+2026春,Stage 3,2026-03-14,北京WB,北京JDG,1,red,blue,794,2,biron|flowborn (tank)|diaochan (honor of kings)|chano|master luban,lu bu (honor of kings)|dun|catboom|ao'yin|dolia
+2026春,Stage 3,2026-03-14,北京WB,北京JDG,2,blue,red,731,1,guan yu|ukyo tachibana|nuwa|erin|shieldun,charlotte|flowborn (tank)|mai shiranui|lady sun|taiyi zhenren
+2026春,Stage 3,2026-03-14,北京WB,北京JDG,3,blue,red,1124,2,dharma|augran|xiao qiao|ge ya|zhang fei,guan yu|ying|lady zhen|chicha|su lie
+2026春,Stage 3,2026-03-14,北京WB,北京JDG,4,red,blue,1366,1,sikong zhen|nezha|chang'e|lady sun|taiyi zhenren,bai qi|yang jian|ying zheng|ge ya|zhang fei
+2026春,Stage 3,2026-03-14,北京WB,北京JDG,5,blue,red,1039,2,umbrosa|feyd|haya|ao'yin|su lie,biron|augran|nuwa|arli|huaizhen
+2026春,Stage 3,2026-03-14,重庆狼队,深圳DYG,1,blue,red,878,1,dharma|flowborn (tank)|mai shiranui|ge ya|master luban,guan yu|pei|ziya|di renjie|mozi
+2026春,Stage 3,2026-03-14,重庆狼队,深圳DYG,2,red,blue,633,2,sikong zhen|ying|catboom|lady sun|taiyi zhenren,cao cao|yang jian|yixing|erin|shieldun
+2026春,Stage 3,2026-03-14,重庆狼队,深圳DYG,3,red,blue,863,1,bai qi|jing|xiao qiao|ao'yin|zhang fei,dharma|nakoruru|nuwa|arli|su lie
+2026春,Stage 3,2026-03-14,重庆狼队,深圳DYG,4,blue,red,1030,2,biron|agudo|ying zheng|chano|dyadia,sikong zhen|kaizer|catboom|ao'yin|zhang fei
+2026春,Stage 3,2026-03-14,重庆狼队,深圳DYG,5,red,blue,935,1,guan yu|nakoruru|wu ze tian|sun quan|su lie,chicha|augran|mai shiranui|marco polo|dyadia
+2026春,Stage 3,2026-03-14,成都AG超玩会,苏州KSG,1,blue,red,1196,1,umbrosa|ying|mai shiranui|erin|shieldun,biron|flowborn (tank)|wu ze tian|lady sun|taiyi zhenren
+2026春,Stage 3,2026-03-14,成都AG超玩会,苏州KSG,2,blue,red,803,2,guan yu|yang jian|ying zheng|arli|master luban,charlotte|augran|angela|ao'yin|zhong kui
+2026春,Stage 3,2026-03-14,成都AG超玩会,苏州KSG,3,red,blue,929,2,cao cao|jing|catboom|sun quan|su lie,ma chao|agudo|chang'e|chicha|mozi
+2026春,Stage 3,2026-03-14,成都AG超玩会,苏州KSG,4,blue,red,589,2,fuzi|flowborn (tank)|nuwa|ge ya|zhang fei,guan yu|dun|ying zheng|chano|su lie
+2026春,Stage 3,2026-03-15,长沙TES.A,,1,red,blue,1297,2,biron|ukyo tachibana|wu ze tian|chicha|su lie,sikong zhen|yang jian|angela|ao'yin|shieldun
+2026春,Stage 3,2026-03-15,长沙TES.A,,2,red,blue,885,2,cao cao|nezha|mai shiranui|di renjie|flowborn (support),charlotte|augran|nuwa|chano|master luban
+2026春,Stage 3,2026-03-15,长沙TES.A,,3,red,blue,890,2,guan yu|feyd|ziya|arli|dyadia,ma chao|ying|wang zhaojun|chicha|liang
+2026春,Stage 3,2026-03-15,南京Hero久竞,,1,blue,red,790,1,biron|yang jian|xiao qiao|ao'yin|dolia,ma chao|musashi|catboom|hou yi|su lie
+2026春,Stage 3,2026-03-15,南京Hero久竞,,2,blue,red,819,2,ma chao|ukyo tachibana|catboom|chano|su lie,guan yu|ying|mai shiranui|ge ya|dyadia
+2026春,Stage 3,2026-03-15,南京Hero久竞,,3,red,blue,971,1,cao cao|augran|lady zhen|chicha|shieldun,biron|yang jian|ziya|di renjie|master luban
+2026春,Stage 3,2026-03-15,南京Hero久竞,,4,blue,red,847,1,dharma|pei|nuwa|ge ya|huaizhen,charlotte|agudo|angela|sun quan|da yu
+2026春,Stage 3,2026-03-15,杭州LGD.NBW,广州TTG,1,blue,red,1347,1,umbrosa|dun|ying zheng|di renjie|shieldun,sikong zhen|flowborn (tank)|nuwa|erin|master luban
+2026春,Stage 3,2026-03-15,杭州LGD.NBW,广州TTG,2,blue,red,1232,1,biron|yang jian|xiao qiao|ao'yin|dyadia,bai qi|kaizer|catboom|chano|su lie
+2026春,Stage 3,2026-03-15,杭州LGD.NBW,广州TTG,3,blue,red,774,1,sikong zhen|ying|wu ze tian|chicha|su lie,cao cao|augran|xiao qiao|arli|da yu
+2026春,Stage 3,2026-03-18,重庆狼队,苏州KSG,1,blue,red,1564,2,xiang yu|yao|catboom|ge ya|zhang fei,guan yu|nezha|chang'e|chano|su lie
+2026春,Stage 3,2026-03-18,重庆狼队,苏州KSG,2,blue,red,1043,1,dharma|nezha|xiao qiao|di renjie|shieldun,ma chao|ying|shi|lady sun|taiyi zhenren
+2026春,Stage 3,2026-03-18,重庆狼队,苏州KSG,3,blue,red,892,2,biron|kaizer|yuhuan|flowborn (marksman)|master luban,charlotte|jing|angela|ao'yin|huaizhen
+2026春,Stage 3,2026-03-18,重庆狼队,苏州KSG,4,red,blue,1310,1,cao cao|augran|wu ze tian|sun quan|taiyi zhenren,chicha|flowborn (tank)|nuwa|arli|da qiao
+2026春,Stage 3,2026-03-18,重庆狼队,苏州KSG,5,blue,red,905,1,guan yu|ying|haya|chicha|da yu,meng tian|musashi|wu ze tian|consort yu|mozi
+2026春,Stage 3,2026-03-18,成都AG超玩会,北京JDG,1,blue,red,1309,1,ma chao|dun|mai shiranui|erin|shieldun,guan yu|yang jian|xiao qiao|lady sun|taiyi zhenren
+2026春,Stage 3,2026-03-18,成都AG超玩会,北京JDG,2,red,blue,762,1,meng tian|jing|wang zhaojun|arli|liang,cao cao|ukyo tachibana|catboom|ao'yin|zhang fei
+2026春,Stage 3,2026-03-18,成都AG超玩会,北京JDG,3,blue,red,1112,2,charlotte|ying|haya|ao'yin|su lie,biron|dun|ying zheng|arli|dyadia
+2026春,Stage 3,2026-03-18,成都AG超玩会,北京JDG,4,red,blue,1283,2,sikong zhen|kaizer|wu ze tian|di renjie|flowborn (support),fuzi|augran|lady zhen|chicha|master luban
+2026春,Stage 3,2026-03-18,成都AG超玩会,北京JDG,5,red,blue,990,2,chicha|agudo|nuwa|ge ya|zhang fei,charlotte|ying|haya|erin|huaizhen
+2026春,Stage 3,2026-03-19,,,1,red,blue,944,1,biron|ying|mai shiranui|ge ya|dyadia,charlotte|ukyo tachibana|catboom|chicha|da yu
+2026春,Stage 3,2026-03-19,,,2,blue,red,965,1,meng tian|agudo|wu ze tian|arli|su lie,cao cao|jing|ziya|ao'yin|zhang fei
+2026春,Stage 3,2026-03-19,,,3,red,blue,821,1,guan yu|flowborn (tank)|ying zheng|lady sun|taiyi zhenren,umbrosa|dun|nuwa|erin|shieldun
+2026春,Stage 3,2026-03-19,北京WB,深圳DYG,1,blue,red,663,1,dharma|nakoruru|wang zhaojun|ao'yin|liang,guan yu|yang jian|catboom|chano|dyadia
+2026春,Stage 3,2026-03-19,北京WB,深圳DYG,2,red,blue,530,2,fuzi|nezha|shi|lady sun|taiyi zhenren,cao cao|ukyo tachibana|yixing|erin|shieldun
+2026春,Stage 3,2026-03-19,北京WB,深圳DYG,3,red,blue,779,1,bai qi|ying|catboom|ge ya|zhang fei,sikong zhen|agudo|ying zheng|consort yu|su lie
+2026春,Stage 3,2026-03-19,北京WB,深圳DYG,4,blue,red,742,1,charlotte|flowborn (tank)|nuwa|hou yi|master luban,biron|pei|angela|ao'yin|lian po
+2026春,Stage 3,2026-03-20,南京Hero久竞,广州TTG,1,red,blue,846,1,sikong zhen|dun|ziya|chicha|su lie,fuzi|flowborn (tank)|wu ze tian|di renjie|shieldun
+2026春,Stage 3,2026-03-20,南京Hero久竞,广州TTG,2,red,blue,757,1,biron|kaizer|nuwa|di renjie|flowborn (support),charlotte|ying|ying zheng|chicha|master luban
+2026春,Stage 3,2026-03-20,南京Hero久竞,广州TTG,3,red,blue,892,2,guan yu|nezha|wu ze tian|hou yi|dyadia,xiang yu|jing|nuwa|ge ya|da yu
+2026春,Stage 3,2026-03-20,南京Hero久竞,广州TTG,4,red,blue,825,1,dharma|agudo|catboom|consort yu|zhang fei,biron|feyd|chang'e|ao'yin|da qiao
+2026春,Stage 3,2026-03-20,杭州LGD.NBW,长沙TES.A,1,red,blue,975,1,charlotte|dun|haya|di renjie|shieldun,sikong zhen|yang jian|wang zhaojun|chano|master luban
+2026春,Stage 3,2026-03-20,杭州LGD.NBW,长沙TES.A,2,blue,red,979,1,allain|augran|catboom|ao'yin|zhang fei,biron|nakoruru|chang'e|consort yu|su lie
+2026春,Stage 3,2026-03-20,杭州LGD.NBW,长沙TES.A,3,blue,red,744,1,biron|ying|wu ze tian|ge ya|dyadia,charlotte|flowborn (tank)|nuwa|erin|zhang fei
+2026春,Stage 3,2026-03-21,北京WB,苏州KSG,1,blue,red,782,2,cao cao|augran|catboom|ao'yin|zhang fei,charlotte|agudo|chang'e|chano|su lie
+2026春,Stage 3,2026-03-21,北京WB,苏州KSG,2,red,blue,787,2,biron|nezha|haya|sun quan|sun bin,lu bu (honor of kings)|flowborn (tank)|nuwa|chicha|mozi
+2026春,Stage 3,2026-03-21,北京WB,苏州KSG,3,red,blue,1291,1,dharma|dun|chang'e|lady sun|taiyi zhenren,guan yu|augran|catboom|ao'yin|huaizhen
+2026春,Stage 3,2026-03-21,北京WB,苏州KSG,4,blue,red,616,2,zhuangzi|ying|xiao qiao|erin|shieldun,bai qi|ma chao|shi|lady sun|taiyi zhenren
+2026春,Stage 3,2026-03-21,北京JDG,深圳DYG,1,red,blue,731,2,sikong zhen|dun|haya|ao'yin|huaizhen,charlotte|augran|xiao qiao|flowborn (marksman)|master luban
+2026春,Stage 3,2026-03-21,北京JDG,深圳DYG,2,red,blue,615,1,dharma|pei|xiao qiao|chicha|da yu,cao cao|yang jian|catboom|sun quan|dyadia
+2026春,Stage 3,2026-03-21,北京JDG,深圳DYG,3,blue,red,778,1,biron|jing|mai shiranui|erin|shieldun,xiang yu|ukyo tachibana|shi|lady sun|taiyi zhenren
+2026春,Stage 3,2026-03-21,北京JDG,深圳DYG,4,blue,red,1333,1,cao cao|yang jian|nuwa|sun quan|su lie,sikong zhen|ying|mai shiranui|ge ya|da yu
+2026春,Stage 3,2026-03-21,重庆狼队,成都AG超玩会,1,red,blue,1046,1,guan yu|ying|xiao qiao|ao'yin|huaizhen,ma chao|dun|yuhuan|di renjie|shieldun
+2026春,Stage 3,2026-03-21,重庆狼队,成都AG超玩会,2,blue,red,711,1,charlotte|flowborn (tank)|chang'e|ge ya|su lie,biron|kaizer|catboom|erin|dyadia
+2026春,Stage 3,2026-03-21,重庆狼队,成都AG超玩会,3,blue,red,797,1,biron|nakoruru|wu ze tian|arli|taiyi zhenren,umbrosa|jing|xiao qiao|chicha|zhang fei
+2026春,Stage 3,2026-03-22,南京Hero久竞,长沙TES.A,1,blue,red,649,1,cao cao|dun|mai shiranui|erin|shieldun,charlotte|ying|shi|lady sun|taiyi zhenren
+2026春,Stage 3,2026-03-22,南京Hero久竞,长沙TES.A,2,red,blue,686,1,guan yu|augran|wu ze tian|ao'yin|flowborn (support),cao cao|dun|ying zheng|chano|master luban
+2026春,Stage 3,2026-03-22,南京Hero久竞,长沙TES.A,3,blue,red,743,1,sikong zhen|kaizer|catboom|di renjie|da yu,bai qi|ukyo tachibana|wu ze tian|chicha|su lie
+2026春,Stage 3,2026-03-22,杭州LGD.NBW,,1,blue,red,972,1,sikong zhen|kaizer|catboom|ao'yin|da yu,charlotte|augran|chang'e|ge ya|dyadia
+2026春,Stage 3,2026-03-22,杭州LGD.NBW,,2,blue,red,789,2,charlotte|dun|xiao qiao|chicha|dyadia,cao cao|flowborn (tank)|catboom|consort yu|zhang fei
+2026春,Stage 3,2026-03-22,杭州LGD.NBW,,3,red,blue,925,2,ma chao|augran|wu ze tian|ge ya|su lie,biron|kaizer|lady zhen|erin|shieldun
+2026春,Stage 3,2026-03-22,杭州LGD.NBW,,4,red,blue,1598,1,dharma|ying|ying zheng|di renjie|zhang fei,meng tian|ukyo tachibana|nuwa|luban no.7|master luban
+2026春,Stage 3,2026-03-22,杭州LGD.NBW,,5,blue,red,1556,1,guan yu|agudo|haya|chano|huaizhen,ma chao|musashi|xiao qiao|lady sun|taiyi zhenren
+2026春,Stage 3,2026-03-22,,广州TTG,1,red,blue,884,2,biron|ying|catboom|di renjie|lian po,bai qi|ukyo tachibana|ying zheng|ao'yin|su lie
+2026春,Stage 3,2026-03-22,,广州TTG,2,blue,red,886,1,guan yu|flowborn (tank)|wu ze tian|erin|shieldun,xiang yu|pei|haya|lady sun|taiyi zhenren
+2026春,Stage 3,2026-03-22,,广州TTG,3,blue,red,846,1,charlotte|yang jian|ziya|ao'yin|master luban,biron|augran|xiao qiao|di renjie|flowborn (support)
+2026春,Stage 3,2026-03-22,,广州TTG,4,red,blue,1252,2,meng tian|ma chao|wang zhaojun|arli|liang,guan yu|kaizer|wu ze tian|ge ya|zhang fei
+2026春,Stage 3,2026-03-22,,广州TTG,5,blue,red,872,2,sikong zhen|augran|mai shiranui|sun quan|da yu,dharma|jing|catboom|chicha|dyadia
+2026春,Playoffs,2026-03-26,杭州LGD.NBW,,1,red,blue,1122,2,sikong zhen|augran|xiao qiao|chicha|su lie,cao cao|ukyo tachibana|catboom|sun quan|shieldun
+2026春,Playoffs,2026-03-26,杭州LGD.NBW,,2,red,blue,713,2,umbrosa|dun|catboom|chano|da yu,bai qi|agudo|mai shiranui|ao'yin|dyadia
+2026春,Playoffs,2026-03-26,杭州LGD.NBW,,3,blue,red,972,1,biron|yang jian|ziya|ge ya|dyadia,charlotte|flowborn (tank)|ying zheng|chano|da yu
+2026春,Playoffs,2026-03-26,杭州LGD.NBW,,4,red,blue,1659,1,guan yu|ukyo tachibana|wu ze tian|arli|zhang fei,umbrosa|pei|xiao qiao|chicha|su lie
+2026春,Playoffs,2026-03-26,杭州LGD.NBW,,5,blue,red,879,2,charlotte|ying|yuhuan|ao'yin|taiyi zhenren,ma chao|yang jian|nuwa|consort yu|zhang fei
+2026春,Playoffs,2026-03-26,杭州LGD.NBW,,6,red,blue,895,1,cao cao|pei|haya|erin|lian po,biron|augran|angela|arli|sun bin
+2026春,Playoffs,2026-03-26,杭州LGD.NBW,,7,red,blue,1374,1,cao cao|augran|catboom|ao'yin|master luban,charlotte|flowborn (tank)|catboom|chicha|master luban
+2026春,Playoffs,2026-03-27,南京Hero久竞,广州TTG,1,red,blue,912,2,guan yu|ying|catboom|ao'yin|lian po,biron|ukyo tachibana|wu ze tian|consort yu|master luban
+2026春,Playoffs,2026-03-27,南京Hero久竞,广州TTG,2,red,blue,860,1,charlotte|dun|mai shiranui|erin|shieldun,dharma|jing|nuwa|chicha|su lie
+2026春,Playoffs,2026-03-27,南京Hero久竞,广州TTG,3,blue,red,1077,2,dharma|augran|wu ze tian|ge ya|zhuangzi,charlotte|dun|wang zhaojun|chano|liang
+2026春,Playoffs,2026-03-27,南京Hero久竞,广州TTG,4,red,blue,990,2,meng tian|ma chao|wang zhaojun|chano|liang,umbrosa|kaizer|xiao qiao|ge ya|zhuangzi
+2026春,Playoffs,2026-03-27,南京Hero久竞,广州TTG,5,red,blue,723,2,sikong zhen|feyd|nuwa|di renjie|da yu,fuzi|yang jian|ying zheng|arli|dyadia
+2026春,Playoffs,2026-03-28,北京JDG,成都AG超玩会,1,red,blue,837,2,charlotte|dun|shi|lady sun|taiyi zhenren,dharma|pei|mai shiranui|erin|shieldun
+2026春,Playoffs,2026-03-28,北京JDG,成都AG超玩会,2,red,blue,1579,2,guan yu|menki|xiao qiao|ao'yin|dyadia,sikong zhen|yang jian|wang zhaojun|consort yu|liang
+2026春,Playoffs,2026-03-28,北京JDG,成都AG超玩会,3,red,blue,1012,2,sikong zhen|jing|wu ze tian|chicha|da yu,biron|augran|ying zheng|ge ya|zhang fei
+2026春,Playoffs,2026-03-28,北京JDG,成都AG超玩会,4,blue,red,1169,2,biron|pei|nuwa|chano|su lie,charlotte|flowborn (tank)|ziya|arli|da yu
+2026春,Playoffs,2026-03-29,重庆狼队,苏州KSG,1,red,blue,1133,2,dharma|ying|catboom|erin|su lie,guan yu|augran|angela|ao'yin|dyadia
+2026春,Playoffs,2026-03-29,重庆狼队,苏州KSG,2,red,blue,655,2,sikong zhen|dun|lady zhen|di renjie|shieldun,biron|yang jian|wu ze tian|luban no.7|master luban
+2026春,Playoffs,2026-03-29,重庆狼队,苏州KSG,3,red,blue,820,2,cao cao|agudo|xiao qiao|chicha|da yu,charlotte|luna|haya|sun quan|zhang fei
+2026春,Playoffs,2026-03-29,重庆狼队,苏州KSG,4,red,blue,879,1,meng tian|pei|haya|ao'yin|zhang fei,dharma|ying|wang zhaojun|chano|liang
+2026春,Playoffs,2026-03-29,重庆狼队,苏州KSG,5,blue,red,957,1,guan yu|flowborn (tank)|angela|chano|zhong kui,ma chao|dun|heino|ge ya|huaizhen
+2026春,Playoffs,2026-03-29,重庆狼队,苏州KSG,6,blue,red,961,1,lu bu (honor of kings)|nezha|mai shiranui|ge ya|donghuang,umbrosa|flowborn (tank)|nuwa|chicha|mozi
+2026春,Playoffs,2026-03-29,重庆狼队,苏州KSG,7,red,blue,892,1,cao cao|augran|catboom|ao'yin|shieldun,charlotte|augran|catboom|ao'yin|master luban
+2026春,Playoffs,2026-03-30,北京WB,杭州LGD.NBW,1,red,blue,1016,2,bai qi|musashi|angela|arli|da yu,biron|yang jian|xiao qiao|ao'yin|dyadia
+2026春,Playoffs,2026-03-30,北京WB,杭州LGD.NBW,2,blue,red,912,1,mayene|ukyo tachibana|catboom|erin|shieldun,guan yu|nezha|wu ze tian|chicha|su lie
+2026春,Playoffs,2026-03-30,北京WB,杭州LGD.NBW,3,blue,red,1395,1,sikong zhen|flowborn (tank)|nuwa|chano|master luban,bai qi|ying|catboom|di renjie|zhang fei
+2026春,Playoffs,2026-03-30,北京WB,杭州LGD.NBW,4,blue,red,989,1,cao cao|augran|xiao qiao|ge ya|liang,charlotte|kaizer|ziya|sun quan|da yu
+2026春,Playoffs,2026-03-30,北京WB,杭州LGD.NBW,5,blue,red,1185,2,biron|nakoruru|chang'e|lady sun|taiyi zhenren,cao cao|augran|ying zheng|ge ya|lian po
+2026春,Playoffs,2026-03-30,北京WB,杭州LGD.NBW,6,red,blue,1059,2,charlotte|yao|wu ze tian|di renjie|zhang fei,lu bu (honor of kings)|pei|haya|arli|mozi
+2026春,Playoffs,2026-03-30,北京WB,杭州LGD.NBW,7,blue,red,1344,1,sikong zhen|flowborn (tank)|catboom|ao'yin|master luban,cao cao|augran|catboom|ao'yin|master luban
+2026春,Playoffs,2026-03-31,深圳DYG,广州TTG,1,blue,red,1182,2,charlotte|ukyo tachibana|angela|hou yi|master luban,biron|agudo|catboom|ao'yin|zhuangzi
+2026春,Playoffs,2026-03-31,深圳DYG,广州TTG,2,red,blue,841,1,miyue|ying|wu ze tian|ge ya|zhang fei,sikong zhen|ukyo tachibana|heino|chicha|su lie
+2026春,Playoffs,2026-03-31,深圳DYG,广州TTG,3,red,blue,755,1,cao cao|dun|catboom|lady sun|taiyi zhenren,bai qi|nezha|xiao qiao|chano|dyadia
+2026春,Playoffs,2026-03-31,深圳DYG,广州TTG,4,red,blue,1312,2,xiang yu|nakoruru|ziya|chano|da yu,guan yu|flowborn (tank)|nuwa|ge ya|kong kong er
+2026春,Playoffs,2026-03-31,深圳DYG,广州TTG,5,blue,red,802,1,sun ce|yang jian|xiao qiao|arli|zhuangzi,charlotte|jing|wang zhaojun|erin|liang
+2026春,Playoffs,2026-03-31,深圳DYG,广州TTG,6,red,blue,1009,1,liu bang|musashi|mai shiranui|di renjie|flowborn (support),dharma|kaizer|wu ze tian|lady sun|taiyi zhenren
+2026春,Playoffs,2026-04-01,北京JDG,北京WB,1,red,blue,795,2,cao cao|dun|chang'e|ao'yin|zhao huaizhen,sikong zhen|flowborn (tank)|catboom|chano|master luban
+2026春,Playoffs,2026-04-01,北京JDG,北京WB,2,blue,red,676,1,biron|ying|heino|chano|dyadia,bai qi|pei|xiao qiao|erin|da yu
+2026春,Playoffs,2026-04-01,北京JDG,北京WB,3,blue,red,820,2,ma chao|ukyo tachibana|wang zhaojun|ge ya|liang,charlotte|kaizer|mai shiranui|sun quan|zhuangzi
+2026春,Playoffs,2026-04-01,北京JDG,北京WB,4,red,blue,708,2,guan yu|augran|ying zheng|sun quan|da yu,mayene|ukyo tachibana|nuwa|ge ya|zhang fei
+2026春,Playoffs,2026-04-01,北京JDG,北京WB,5,blue,red,1058,2,dharma|pei|catboom|chicha|su lie,biron|augran|angela|lady sun|taiyi zhenren
+2026春,Playoffs,2026-04-02,苏州KSG,深圳DYG,1,red,blue,851,2,charlotte|pei|nuwa|ao'yin|lian po,cao cao|flowborn (tank)|yixing|luban no.7|master luban
+2026春,Playoffs,2026-04-02,苏州KSG,深圳DYG,2,red,blue,909,1,biron|ying|xiao qiao|chicha|mozi,charlotte|dun|wu ze tian|erin|shieldun
+2026春,Playoffs,2026-04-02,苏州KSG,深圳DYG,3,red,blue,937,1,dharma|augran|chang'e|chano|su lie,liu bang|musashi|catboom|ge ya|zhang fei
+2026春,Playoffs,2026-04-02,苏州KSG,深圳DYG,4,blue,red,876,1,yango|yang jian|catboom|shouyue|dolia,ma chao|bai qi|angela|arli|dyadia
+2026春,Playoffs,2026-04-02,苏州KSG,深圳DYG,5,blue,red,944,1,bai qi|musashi|mai shiranui|ge ya|da yu,meng tian|nezha|lady zhen|lady sun|taiyi zhenren
+2026春,Playoffs,2026-04-03,成都AG超玩会,重庆狼队,1,blue,red,672,2,cao cao|kaizer|jin chan|erin|shieldun,guan yu|augran|xiao qiao|chicha|kui
+2026春,Playoffs,2026-04-03,成都AG超玩会,重庆狼队,2,blue,red,917,2,charlotte|flowborn (tank)|ying zheng|ge ya|zhang fei,sikong zhen|ying|angela|chano|su lie
+2026春,Playoffs,2026-04-03,成都AG超玩会,重庆狼队,3,blue,red,1313,2,biron|ukyo tachibana|haya|ao'yin|dolia,lu bu (honor of kings)|flowborn (tank)|wu ze tian|arli|dyadia
+2026春,Playoffs,2026-04-03,成都AG超玩会,重庆狼队,4,red,blue,893,2,xiang yu|pei|mai shiranui|di renjie|lian po,fuzi|jing|da qiao|ge ya|master luban
+2026春,Playoffs,2026-04-04,北京WB,苏州KSG,1,blue,red,1256,2,sikong zhen|augran|mai shiranui|erin|shieldun,biron|ying|xiao qiao|chicha|huaizhen
+2026春,Playoffs,2026-04-04,北京WB,苏州KSG,2,blue,red,802,2,charlotte|ying|xiao qiao|ao'yin|zhang fei,dharma|pei|catboom|chano|su lie
+2026春,Playoffs,2026-04-04,北京WB,苏州KSG,3,red,blue,1118,1,biron|musashi|angela|chano|taiyi zhenren,charlotte|ukyo tachibana|lady zhen|ao'yin|zhang fei
+2026春,Playoffs,2026-04-04,北京WB,苏州KSG,4,blue,red,553,2,ma chao|flowborn (tank)|chang'e|ge ya|dyadia,cao cao|dun|wu ze tian|arli|da yu
+2026春,Playoffs,2026-04-04,北京WB,苏州KSG,5,red,blue,951,2,mayene|nakoruru|ying zheng|arli|liang,guan yu|flowborn (tank)|nuwa|ge ya|donghuang
+2026春,Playoffs,2026-04-05,成都AG超玩会,苏州KSG,1,blue,red,780,1,meng tian|jing|catboom|di renjie|flowborn (support),umbrosa|yang jian|mai shiranui|luban no.7|master luban
+2026春,Playoffs,2026-04-05,成都AG超玩会,苏州KSG,2,blue,red,826,2,biron|agudo|haya|ao'yin|zhang fei,lu bu (honor of kings)|ma chao|shi|chano|da yu
+2026春,Playoffs,2026-04-05,成都AG超玩会,苏州KSG,3,red,blue,897,2,bai qi|augran|wu ze tian|lady sun|taiyi zhenren,meng tian|ma chao|wang zhaojun|di renjie|liang
+2026春,Playoffs,2026-04-05,成都AG超玩会,苏州KSG,4,blue,red,735,2,cao cao|ukyo tachibana|wang zhaojun|chicha|liang,charlotte|augran|angela|hou yi|zhuangzi
+2026春,Playoffs,2026-04-05,成都AG超玩会,苏州KSG,5,blue,red,1428,1,umbrosa|augran|lady zhen|chano|dyadia,biron|nakoruru|haya|ao'yin|kui
+2026春,Playoffs,2026-04-05,成都AG超玩会,苏州KSG,6,blue,red,1366,2,charlotte|dun|ziya|ge ya|dolia,meng tian|pei|wu ze tian|arli|dyadia
+2026春,Playoffs,2026-04-11,重庆狼队,苏州KSG,1,red,blue,736,2,fuzi|flowborn (tank)|da qiao|ge ya|master luban,sikong zhen|bajie|catboom|di renjie|zhong kui
+2026春,Playoffs,2026-04-11,重庆狼队,苏州KSG,2,blue,red,935,2,dharma|ying|xiao qiao|ao'yin|dyadia,ma chao|augran|haya|chano|da yu
+2026春,Playoffs,2026-04-11,重庆狼队,苏州KSG,3,red,blue,1188,2,guan yu|kaizer|wu ze tian|chicha|zhang fei,charlotte|yang jian|angela|sun quan|su lie
+2026春,Playoffs,2026-04-11,重庆狼队,苏州KSG,4,red,blue,1130,2,charlotte|augran|wang zhaojun|arli|liang,biron|agudo|wu ze tian|ao'yin|taiyi zhenren
