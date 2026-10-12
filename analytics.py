@@ -35,6 +35,40 @@ def _load(name):
         return list(csv.DictReader(f))
 
 
+# 英雄 -> 分路（依据 KPL 主流打法标注；用于从个人英雄池推断选手位置）
+HERO_POS = {
+    # 对抗路
+    "吕布": "对抗路", "关羽": "对抗路", "夏洛特": "对抗路", "狂铁": "对抗路",
+    "老夫子": "对抗路", "马超": "对抗路", "蒙恬": "对抗路", "芈月": "对抗路",
+    "哪吒": "对抗路", "项羽": "对抗路", "白起": "对抗路", "夏侯惇": "对抗路",
+    "猪八戒": "对抗路", "达摩": "对抗路", "曹操": "对抗路", "杨戬": "对抗路",
+    "司空震": "对抗路", "影": "对抗路", "元歌": "对抗路", "赵怀真": "对抗路",
+    "蚩奼": "对抗路", "心魔六耳": "对抗路", "元流之子(坦克)": "对抗路",
+    # 打野
+    "镜": "打野", "娜可露露": "打野", "裴擒虎": "打野", "橘右京": "打野",
+    "赵云": "打野", "暃": "打野", "铠": "打野", "刘备": "打野",
+    "宫本武藏": "打野", "大司命": "打野", "阿古朵": "打野", "云缨": "打野",
+    # 中路
+    "不知火舞": "中路", "沈梦溪": "中路", "王昭君": "中路", "安琪拉": "中路",
+    "小乔": "中路", "嬴政": "中路", "武则天": "中路", "女娲": "中路",
+    "嫦娥": "中路", "弈星": "中路", "西施": "中路", "张良": "中路",
+    "杨玉环": "中路", "姜子牙": "中路", "海月": "中路", "海诺": "中路",
+    # 发育路
+    "公孙离": "发育路", "后羿": "发育路", "狄仁杰": "发育路", "虞姬": "发育路",
+    "艾琳": "发育路", "戈娅": "发育路", "敖隐": "发育路", "莱西奥": "发育路",
+    "鲁班七号": "发育路", "百里守约": "发育路", "苍": "发育路",
+    "卢雅那": "发育路", "孙权": "发育路", "元流之子(射手)": "发育路",
+    # 游走
+    "东皇太一": "游走", "太乙真人": "游走", "张飞": "游走", "牛魔": "游走",
+    "盾山": "游走", "庄周": "游走", "苏烈": "游走", "鲁班大师": "游走",
+    "少司缘": "游走", "朵莉亚": "游走", "钟馗": "游走", "空空儿": "游走",
+    "墨子": "游走", "元流之子(辅助)": "游走",
+}
+
+# 个人英雄池截图里的队名 -> 本站标准队名
+TEAM_ALIAS = {"KSG": "苏州KSG", "南通Hero久竞": "南京Hero久竞"}
+
+
 def normalize_pos(raw):
     if not raw:
         return ""
@@ -74,6 +108,36 @@ def streak(matches, team):
 
 
 # ---------------- 阵容 ----------------
+
+def load_current_rosters():
+    """从个人英雄池（player_heroes.csv，官网选手卡截图录入）推断各队当前阵容。
+
+    位置推断：把该选手全部使用英雄按 HERO_POS 映射到分路，以出场数加权取众数。
+    返回 {team_zh: [{position, player_en, player_zh, games}, ...]} 按分路排序。"""
+    rows = _load("player_heroes.csv")
+    picks_by_pos = defaultdict(lambda: defaultdict(lambda: defaultdict(int)))  # team->player->pos->picks
+    for r in rows:
+        team = TEAM_ALIAS.get(r.get("team_zh", ""), r.get("team_zh", ""))
+        player = (r.get("player_name") or "").strip()
+        hero = (r.get("hero") or "").strip()
+        if not team or not player:
+            continue
+        pos = HERO_POS.get(hero)
+        if pos:
+            picks_by_pos[team][player][pos] += int(float(r.get("picks") or 0))
+    out = {}
+    for team, players in picks_by_pos.items():
+        lst = []
+        for player, pos_map in players.items():
+            games = sum(pos_map.values())
+            best = max(pos_map.items(), key=lambda kv: kv[1])[0] if pos_map else ""
+            lst.append({"position": best, "player_en": player, "player_zh": player,
+                        "games": games})
+        lst.sort(key=lambda p: (POS_ORDER.index(p["position"])
+                                if p["position"] in POS_ORDER else 99, -p["games"]))
+        out[team] = lst
+    return out
+
 
 def load_rosters():
     """{team: [{position, player_en, player_zh, games_played}, ...]} 按位置排序"""

@@ -322,7 +322,7 @@ if not DATA_READY:
 
 matches, players, coaches, rating = get_data()
 maps_rows = get_maps()
-rosters = analytics.load_rosters()
+rosters = analytics.load_current_rosters()  # 个人英雄池推断：中文ID + 真实分路
 ctx = analytics.season_context(matches)
 teams = sorted({m["team1"] for m in matches} | {m["team2"] for m in matches})
 schedule, standings, oplayers, hero_avatar, team_logos, perf_rows, hero_rank_rows, mvp_rows, player_hero_rows = get_official()
@@ -513,6 +513,24 @@ def wl_pills(results):
                    for r in results)
 
 
+def _starters(rows, n=5):
+    """每个分路取出场最多的一人，不足 n 人时按总出场补足（板凳/轮换靠后）。"""
+    picked, rest = [], []
+    seen = set()
+    for p in rows:
+        pos = p["position"]
+        if pos and pos not in seen:
+            picked.append(p)
+            seen.add(pos)
+        else:
+            rest.append(p)
+    for p in sorted(rest, key=lambda x: -x["games"]):
+        if len(picked) >= n:
+            break
+        picked.append(p)
+    return picked[:n]
+
+
 def roster_html(team):
     rows = rosters.get(team, [])
     if not rows:
@@ -520,7 +538,7 @@ def roster_html(team):
     return "".join(
         f'<div class="row-line"><span class="k">{p["position"] or "未知位置"}</span>'
         f'<span>{p["player_zh"] or p["player_en"] or "—"}</span></div>'
-        for p in rows)
+        for p in _starters(rows))
 
 
 def bp_html(bp, coach_name):
